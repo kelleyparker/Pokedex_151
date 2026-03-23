@@ -16,6 +16,7 @@ REQUEST_DELAY_SECONDS = 0.55
 
 VERSION_ORDER = ["red", "blue", "yellow"]
 LOCATION_VERSION_ORDER = {"red": 0, "blue": 1, "yellow": 2}
+MOVE_DIR = RAW_DIR / "move"
 
 
 def curl_json(url: str) -> dict:
@@ -28,14 +29,15 @@ def curl_json(url: str) -> dict:
     return json.loads(result.stdout)
 
 
-def read_or_fetch(url: str, path: Path) -> dict:
+def read_or_fetch(url: str, path: Path, *, delay_after_fetch: bool = True) -> dict:
     if path.exists():
         return json.loads(path.read_text())
 
     payload = curl_json(url)
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(payload, indent=2, sort_keys=True) + "\n")
-    time.sleep(REQUEST_DELAY_SECONDS)
+    if delay_after_fetch:
+        time.sleep(REQUEST_DELAY_SECONDS)
     return payload
 
 
@@ -90,7 +92,18 @@ def encounter_groups(encounters_payload: list) -> list:
 def level_up_learnset(pokemon_payload: dict) -> list:
     move_rows = []
     for move in pokemon_payload.get("moves", []):
-        row = {"move": move["move"]["name"].replace("-", " ").title(), "redBlueLevel": "-", "yellowLevel": "-"}
+        move_name = move["move"]["name"]
+        move_payload = read_or_fetch(
+            move["move"]["url"],
+            MOVE_DIR / f"{move_name}.json",
+            delay_after_fetch=False,
+        )
+        row = {
+            "move": move_name.replace("-", " ").title(),
+            "type": move_payload["type"]["name"].title(),
+            "redBlueLevel": "-",
+            "yellowLevel": "-",
+        }
         for detail in move.get("version_group_details", []):
             if detail["move_learn_method"]["name"] != "level-up":
                 continue

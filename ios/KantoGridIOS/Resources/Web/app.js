@@ -7,6 +7,23 @@ const pokemonDetail = document.querySelector("#pokemonDetail");
 const resultsCount = document.querySelector("#resultsCount");
 
 let activePokemonId = 1;
+const moveTypeGlowMap = {
+  Grass: "#8fffa4",
+  Poison: "#e18eff",
+  Fire: "#ff9c68",
+  Water: "#91c9ff",
+  Electric: "#ffe76a",
+  Bug: "#d0f27b",
+  Normal: "#ebebeb",
+  Ground: "#efca84",
+  Rock: "#d6bd8b",
+  Psychic: "#ff9ac1",
+  Ice: "#b1f5ff",
+  Ghost: "#b3a0ff",
+  Dragon: "#a2b4ff",
+  Fighting: "#ff9c9c",
+  Flying: "#d0e3ff",
+};
 const kantoReferenceData =
   typeof window !== "undefined" && window.kantoReferenceData
     ? window.kantoReferenceData
@@ -54,6 +71,38 @@ function formatVersionLabel(version) {
   return version.charAt(0).toUpperCase() + version.slice(1);
 }
 
+function moveGlowColor(type) {
+  return moveTypeGlowMap[type] || moveTypeGlowMap.Normal;
+}
+
+function renderMoveName(move) {
+  const type = move.type || "Normal";
+  const glow = moveGlowColor(type);
+  const enter = [
+    `this.style.color='${glow}'`,
+    `this.style.textShadow='0 0 12px ${glow}, 0 0 24px ${glow}, 0 0 40px ${glow}'`,
+    `this.style.filter='drop-shadow(0 0 12px ${glow})'`,
+    "this.style.transform='translateY(-1px)'",
+  ].join(";");
+  const leave = [
+    "this.style.color=''",
+    "this.style.textShadow=''",
+    "this.style.filter=''",
+    "this.style.transform=''",
+  ].join(";");
+
+  return `
+    <button
+      class="move-name"
+      type="button"
+      data-move-type="${type}"
+      style="--move-glow: ${glow}"
+      onmouseenter="${enter}"
+      onmouseleave="${leave}"
+    >${move.move}</button>
+  `;
+}
+
 function renderEncounterLocations(reference) {
   if (!reference || !reference.encounterLocations || !reference.encounterLocations.length) {
     return `<p>${reference?.locationFallback || "Not found in the wild in standard Red, Blue, or Yellow play."}</p>`;
@@ -94,7 +143,9 @@ function renderMoveTable(reference) {
             .map(
               (move) => `
                 <tr>
-                  <td>${move.move}</td>
+                  <td class="move-name-cell">
+                    ${renderMoveName(move)}
+                  </td>
                   <td>${move.redBlueLevel}</td>
                   <td>${move.yellowLevel}</td>
                 </tr>

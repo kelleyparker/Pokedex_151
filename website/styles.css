@@ -436,6 +436,30 @@ h1 {
   color: var(--muted);
 }
 
+.move-name {
+  display: inline-block;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--text);
+  font: inherit;
+  letter-spacing: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: color 160ms ease, text-shadow 160ms ease, filter 160ms ease, transform 160ms ease;
+}
+
+.move-table tr:hover .move-name,
+.move-name:hover {
+  color: var(--move-glow, var(--text));
+  text-shadow:
+    0 0 10px var(--move-glow, var(--text)),
+    0 0 22px var(--move-glow, var(--text)),
+    0 0 38px var(--move-glow, var(--text));
+  filter: drop-shadow(0 0 10px var(--move-glow, var(--text)));
+  transform: translateY(-1px);
+}
+
 .detail__spotlight {
   position: relative;
   border-radius: 28px;
@@ -502,20 +526,35 @@ h1 {
 }
 
 [data-type="Grass"] { background: rgba(100, 227, 130, 0.12); color: #8fffa4; }
+[data-type="Grass"] { --move-glow: #8fffa4; }
 [data-type="Poison"] { background: rgba(207, 106, 255, 0.12); color: #e18eff; }
+[data-type="Poison"] { --move-glow: #e18eff; }
 [data-type="Fire"] { background: rgba(255, 118, 74, 0.12); color: #ff9c68; }
+[data-type="Fire"] { --move-glow: #ff9c68; }
 [data-type="Water"] { background: rgba(89, 173, 255, 0.12); color: #91c9ff; }
+[data-type="Water"] { --move-glow: #91c9ff; }
 [data-type="Electric"] { background: rgba(255, 228, 83, 0.12); color: #ffe76a; }
+[data-type="Electric"] { --move-glow: #ffe76a; }
 [data-type="Bug"] { background: rgba(165, 214, 71, 0.12); color: #d0f27b; }
+[data-type="Bug"] { --move-glow: #d0f27b; }
 [data-type="Normal"] { background: rgba(230, 230, 230, 0.12); color: #ebebeb; }
+[data-type="Normal"] { --move-glow: #ebebeb; }
 [data-type="Ground"] { background: rgba(216, 168, 84, 0.12); color: #efca84; }
+[data-type="Ground"] { --move-glow: #efca84; }
 [data-type="Rock"] { background: rgba(178, 152, 109, 0.12); color: #d6bd8b; }
+[data-type="Rock"] { --move-glow: #d6bd8b; }
 [data-type="Psychic"] { background: rgba(255, 111, 168, 0.12); color: #ff9ac1; }
+[data-type="Psychic"] { --move-glow: #ff9ac1; }
 [data-type="Ice"] { background: rgba(134, 237, 255, 0.12); color: #b1f5ff; }
+[data-type="Ice"] { --move-glow: #b1f5ff; }
 [data-type="Ghost"] { background: rgba(145, 126, 255, 0.12); color: #b3a0ff; }
+[data-type="Ghost"] { --move-glow: #b3a0ff; }
 [data-type="Dragon"] { background: rgba(118, 139, 255, 0.12); color: #a2b4ff; }
+[data-type="Dragon"] { --move-glow: #a2b4ff; }
 [data-type="Fighting"] { background: rgba(255, 132, 132, 0.12); color: #ff9c9c; }
+[data-type="Fighting"] { --move-glow: #ff9c9c; }
 [data-type="Flying"] { background: rgba(160, 196, 255, 0.12); color: #d0e3ff; }
+[data-type="Flying"] { --move-glow: #d0e3ff; }
 
 @media (max-width: 960px) {
   .hero,

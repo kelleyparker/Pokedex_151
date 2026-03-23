@@ -18,46 +18,55 @@ window.kantoReferenceData = {
       {
         "move": "Growl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Leech Seed",
         "redBlueLevel": "7",
+        "type": "Grass",
         "yellowLevel": "7"
       },
       {
         "move": "Vine Whip",
         "redBlueLevel": "13",
+        "type": "Grass",
         "yellowLevel": "13"
       },
       {
         "move": "Poison Powder",
         "redBlueLevel": "20",
+        "type": "Poison",
         "yellowLevel": "20"
       },
       {
         "move": "Razor Leaf",
         "redBlueLevel": "27",
+        "type": "Grass",
         "yellowLevel": "27"
       },
       {
         "move": "Growth",
         "redBlueLevel": "34",
+        "type": "Normal",
         "yellowLevel": "34"
       },
       {
         "move": "Sleep Powder",
         "redBlueLevel": "41",
+        "type": "Grass",
         "yellowLevel": "41"
       },
       {
         "move": "Solar Beam",
         "redBlueLevel": "48",
+        "type": "Grass",
         "yellowLevel": "48"
       }
     ],
@@ -90,11 +99,13 @@ window.kantoReferenceData = {
       {
         "move": "String Shot",
         "redBlueLevel": "1",
+        "type": "Bug",
         "yellowLevel": "1"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       }
     ],
@@ -125,36 +136,43 @@ window.kantoReferenceData = {
       {
         "move": "Screech",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Sonic Boom",
         "redBlueLevel": "17",
+        "type": "Normal",
         "yellowLevel": "17"
       },
       {
         "move": "Self Destruct",
         "redBlueLevel": "22",
+        "type": "Normal",
         "yellowLevel": "22"
       },
       {
         "move": "Light Screen",
         "redBlueLevel": "29",
+        "type": "Psychic",
         "yellowLevel": "29"
       },
       {
         "move": "Swift",
         "redBlueLevel": "36",
+        "type": "Normal",
         "yellowLevel": "36"
       },
       {
         "move": "Explosion",
         "redBlueLevel": "43",
+        "type": "Normal",
         "yellowLevel": "43"
       }
     ],
@@ -186,36 +204,43 @@ window.kantoReferenceData = {
       {
         "move": "Screech",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Sonic Boom",
         "redBlueLevel": "17",
+        "type": "Normal",
         "yellowLevel": "17"
       },
       {
         "move": "Self Destruct",
         "redBlueLevel": "22",
+        "type": "Normal",
         "yellowLevel": "22"
       },
       {
         "move": "Light Screen",
         "redBlueLevel": "29",
+        "type": "Psychic",
         "yellowLevel": "29"
       },
       {
         "move": "Swift",
         "redBlueLevel": "40",
+        "type": "Normal",
         "yellowLevel": "40"
       },
       {
         "move": "Explosion",
         "redBlueLevel": "50",
+        "type": "Normal",
         "yellowLevel": "50"
       }
     ],
@@ -251,41 +276,49 @@ window.kantoReferenceData = {
       {
         "move": "Barrage",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Hypnosis",
         "redBlueLevel": "1",
+        "type": "Psychic",
         "yellowLevel": "1"
       },
       {
         "move": "Reflect",
         "redBlueLevel": "25",
+        "type": "Psychic",
         "yellowLevel": "25"
       },
       {
         "move": "Leech Seed",
         "redBlueLevel": "28",
+        "type": "Grass",
         "yellowLevel": "28"
       },
       {
         "move": "Stun Spore",
         "redBlueLevel": "32",
+        "type": "Grass",
         "yellowLevel": "32"
       },
       {
         "move": "Poison Powder",
         "redBlueLevel": "37",
+        "type": "Poison",
         "yellowLevel": "37"
       },
       {
         "move": "Solar Beam",
         "redBlueLevel": "42",
+        "type": "Grass",
         "yellowLevel": "42"
       },
       {
         "move": "Sleep Powder",
         "redBlueLevel": "48",
+        "type": "Grass",
         "yellowLevel": "48"
       }
     ],
@@ -302,16 +335,19 @@ window.kantoReferenceData = {
       {
         "move": "Barrage",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Hypnosis",
         "redBlueLevel": "1",
+        "type": "Psychic",
         "yellowLevel": "1"
       },
       {
         "move": "Stomp",
         "redBlueLevel": "28",
+        "type": "Normal",
         "yellowLevel": "28"
       }
     ],
@@ -350,46 +386,55 @@ window.kantoReferenceData = {
       {
         "move": "Growl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Bone Club",
         "redBlueLevel": "1",
+        "type": "Ground",
         "yellowLevel": "10"
       },
       {
         "move": "Leer",
         "redBlueLevel": "25",
+        "type": "Normal",
         "yellowLevel": "25"
       },
       {
         "move": "Focus Energy",
         "redBlueLevel": "31",
+        "type": "Normal",
         "yellowLevel": "31"
       },
       {
         "move": "Thrash",
         "redBlueLevel": "38",
+        "type": "Normal",
         "yellowLevel": "38"
       },
       {
         "move": "Bonemerang",
         "redBlueLevel": "43",
+        "type": "Ground",
         "yellowLevel": "43"
       },
       {
         "move": "Rage",
         "redBlueLevel": "46",
+        "type": "Normal",
         "yellowLevel": "46"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "-",
+        "type": "Normal",
         "yellowLevel": "13"
       },
       {
         "move": "Headbutt",
         "redBlueLevel": "-",
+        "type": "Normal",
         "yellowLevel": "18"
       }
     ],
@@ -423,46 +468,55 @@ window.kantoReferenceData = {
       {
         "move": "Bone Club",
         "redBlueLevel": "1",
+        "type": "Ground",
         "yellowLevel": "10"
       },
       {
         "move": "Growl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "-"
       },
       {
         "move": "Leer",
         "redBlueLevel": "25",
+        "type": "Normal",
         "yellowLevel": "25"
       },
       {
         "move": "Focus Energy",
         "redBlueLevel": "33",
+        "type": "Normal",
         "yellowLevel": "33"
       },
       {
         "move": "Thrash",
         "redBlueLevel": "41",
+        "type": "Normal",
         "yellowLevel": "41"
       },
       {
         "move": "Bonemerang",
         "redBlueLevel": "48",
+        "type": "Ground",
         "yellowLevel": "48"
       },
       {
         "move": "Rage",
         "redBlueLevel": "55",
+        "type": "Normal",
         "yellowLevel": "55"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "-",
+        "type": "Normal",
         "yellowLevel": "13"
       },
       {
         "move": "Headbutt",
         "redBlueLevel": "-",
+        "type": "Normal",
         "yellowLevel": "18"
       }
     ],
@@ -492,36 +546,43 @@ window.kantoReferenceData = {
       {
         "move": "Double Kick",
         "redBlueLevel": "1",
+        "type": "Fighting",
         "yellowLevel": "1"
       },
       {
         "move": "Meditate",
         "redBlueLevel": "1",
+        "type": "Psychic",
         "yellowLevel": "1"
       },
       {
         "move": "Rolling Kick",
         "redBlueLevel": "33",
+        "type": "Fighting",
         "yellowLevel": "33"
       },
       {
         "move": "Jump Kick",
         "redBlueLevel": "38",
+        "type": "Fighting",
         "yellowLevel": "38"
       },
       {
         "move": "Focus Energy",
         "redBlueLevel": "43",
+        "type": "Normal",
         "yellowLevel": "43"
       },
       {
         "move": "High Jump Kick",
         "redBlueLevel": "48",
+        "type": "Fighting",
         "yellowLevel": "48"
       },
       {
         "move": "Mega Kick",
         "redBlueLevel": "53",
+        "type": "Normal",
         "yellowLevel": "53"
       }
     ],
@@ -551,36 +612,43 @@ window.kantoReferenceData = {
       {
         "move": "Agility",
         "redBlueLevel": "1",
+        "type": "Psychic",
         "yellowLevel": "1"
       },
       {
         "move": "Comet Punch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Fire Punch",
         "redBlueLevel": "33",
+        "type": "Fire",
         "yellowLevel": "33"
       },
       {
         "move": "Ice Punch",
         "redBlueLevel": "38",
+        "type": "Ice",
         "yellowLevel": "38"
       },
       {
         "move": "Thunder Punch",
         "redBlueLevel": "43",
+        "type": "Electric",
         "yellowLevel": "43"
       },
       {
         "move": "Mega Punch",
         "redBlueLevel": "48",
+        "type": "Normal",
         "yellowLevel": "48"
       },
       {
         "move": "Counter",
         "redBlueLevel": "53",
+        "type": "Fighting",
         "yellowLevel": "53"
       }
     ],
@@ -604,36 +672,43 @@ window.kantoReferenceData = {
       {
         "move": "Supersonic",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Wrap",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Stomp",
         "redBlueLevel": "7",
+        "type": "Normal",
         "yellowLevel": "7"
       },
       {
         "move": "Disable",
         "redBlueLevel": "15",
+        "type": "Normal",
         "yellowLevel": "15"
       },
       {
         "move": "Defense Curl",
         "redBlueLevel": "23",
+        "type": "Normal",
         "yellowLevel": "23"
       },
       {
         "move": "Slam",
         "redBlueLevel": "31",
+        "type": "Normal",
         "yellowLevel": "31"
       },
       {
         "move": "Screech",
         "redBlueLevel": "39",
+        "type": "Normal",
         "yellowLevel": "39"
       }
     ],
@@ -660,36 +735,43 @@ window.kantoReferenceData = {
       {
         "move": "Smog",
         "redBlueLevel": "1",
+        "type": "Poison",
         "yellowLevel": "1"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Sludge",
         "redBlueLevel": "32",
+        "type": "Poison",
         "yellowLevel": "32"
       },
       {
         "move": "Smokescreen",
         "redBlueLevel": "37",
+        "type": "Normal",
         "yellowLevel": "37"
       },
       {
         "move": "Self Destruct",
         "redBlueLevel": "40",
+        "type": "Normal",
         "yellowLevel": "40"
       },
       {
         "move": "Haze",
         "redBlueLevel": "45",
+        "type": "Ice",
         "yellowLevel": "45"
       },
       {
         "move": "Explosion",
         "redBlueLevel": "48",
+        "type": "Normal",
         "yellowLevel": "48"
       }
     ],
@@ -721,6 +803,7 @@ window.kantoReferenceData = {
       {
         "move": "Harden",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "7"
       }
     ],
@@ -747,36 +830,43 @@ window.kantoReferenceData = {
       {
         "move": "Smog",
         "redBlueLevel": "1",
+        "type": "Poison",
         "yellowLevel": "1"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Sludge",
         "redBlueLevel": "32",
+        "type": "Poison",
         "yellowLevel": "32"
       },
       {
         "move": "Smokescreen",
         "redBlueLevel": "39",
+        "type": "Normal",
         "yellowLevel": "39"
       },
       {
         "move": "Self Destruct",
         "redBlueLevel": "43",
+        "type": "Normal",
         "yellowLevel": "43"
       },
       {
         "move": "Haze",
         "redBlueLevel": "49",
+        "type": "Ice",
         "yellowLevel": "49"
       },
       {
         "move": "Explosion",
         "redBlueLevel": "53",
+        "type": "Normal",
         "yellowLevel": "53"
       }
     ],
@@ -810,36 +900,43 @@ window.kantoReferenceData = {
       {
         "move": "Horn Attack",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Stomp",
         "redBlueLevel": "30",
+        "type": "Normal",
         "yellowLevel": "30"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "35",
+        "type": "Normal",
         "yellowLevel": "35"
       },
       {
         "move": "Fury Attack",
         "redBlueLevel": "40",
+        "type": "Normal",
         "yellowLevel": "40"
       },
       {
         "move": "Horn Drill",
         "redBlueLevel": "45",
+        "type": "Normal",
         "yellowLevel": "45"
       },
       {
         "move": "Leer",
         "redBlueLevel": "50",
+        "type": "Normal",
         "yellowLevel": "50"
       },
       {
         "move": "Take Down",
         "redBlueLevel": "55",
+        "type": "Normal",
         "yellowLevel": "55"
       }
     ],
@@ -871,36 +968,43 @@ window.kantoReferenceData = {
       {
         "move": "Horn Attack",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Stomp",
         "redBlueLevel": "30",
+        "type": "Normal",
         "yellowLevel": "30"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "35",
+        "type": "Normal",
         "yellowLevel": "35"
       },
       {
         "move": "Fury Attack",
         "redBlueLevel": "40",
+        "type": "Normal",
         "yellowLevel": "40"
       },
       {
         "move": "Horn Drill",
         "redBlueLevel": "48",
+        "type": "Normal",
         "yellowLevel": "48"
       },
       {
         "move": "Leer",
         "redBlueLevel": "55",
+        "type": "Normal",
         "yellowLevel": "55"
       },
       {
         "move": "Take Down",
         "redBlueLevel": "64",
+        "type": "Normal",
         "yellowLevel": "64"
       }
     ],
@@ -935,46 +1039,55 @@ window.kantoReferenceData = {
       {
         "move": "Pound",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Double Slap",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "12"
       },
       {
         "move": "Sing",
         "redBlueLevel": "24",
+        "type": "Normal",
         "yellowLevel": "24"
       },
       {
         "move": "Growl",
         "redBlueLevel": "30",
+        "type": "Normal",
         "yellowLevel": "30"
       },
       {
         "move": "Minimize",
         "redBlueLevel": "38",
+        "type": "Normal",
         "yellowLevel": "38"
       },
       {
         "move": "Defense Curl",
         "redBlueLevel": "44",
+        "type": "Normal",
         "yellowLevel": "44"
       },
       {
         "move": "Light Screen",
         "redBlueLevel": "48",
+        "type": "Psychic",
         "yellowLevel": "48"
       },
       {
         "move": "Double Edge",
         "redBlueLevel": "54",
+        "type": "Normal",
         "yellowLevel": "54"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "-",
+        "type": "Normal",
         "yellowLevel": "1"
       }
     ],
@@ -1005,46 +1118,55 @@ window.kantoReferenceData = {
       {
         "move": "Constrict",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Bind",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "24"
       },
       {
         "move": "Absorb",
         "redBlueLevel": "29",
+        "type": "Grass",
         "yellowLevel": "27"
       },
       {
         "move": "Poison Powder",
         "redBlueLevel": "32",
+        "type": "Poison",
         "yellowLevel": "32"
       },
       {
         "move": "Stun Spore",
         "redBlueLevel": "36",
+        "type": "Grass",
         "yellowLevel": "36"
       },
       {
         "move": "Sleep Powder",
         "redBlueLevel": "39",
+        "type": "Grass",
         "yellowLevel": "39"
       },
       {
         "move": "Slam",
         "redBlueLevel": "45",
+        "type": "Normal",
         "yellowLevel": "45"
       },
       {
         "move": "Growth",
         "redBlueLevel": "49",
+        "type": "Normal",
         "yellowLevel": "48"
       },
       {
         "move": "Vine Whip",
         "redBlueLevel": "-",
+        "type": "Grass",
         "yellowLevel": "29"
       }
     ],
@@ -1075,36 +1197,43 @@ window.kantoReferenceData = {
       {
         "move": "Comet Punch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Rage",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Bite",
         "redBlueLevel": "26",
+        "type": "Dark",
         "yellowLevel": "26"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "31",
+        "type": "Normal",
         "yellowLevel": "31"
       },
       {
         "move": "Mega Punch",
         "redBlueLevel": "36",
+        "type": "Normal",
         "yellowLevel": "36"
       },
       {
         "move": "Leer",
         "redBlueLevel": "41",
+        "type": "Normal",
         "yellowLevel": "41"
       },
       {
         "move": "Dizzy Punch",
         "redBlueLevel": "46",
+        "type": "Normal",
         "yellowLevel": "46"
       }
     ],
@@ -1146,31 +1275,37 @@ window.kantoReferenceData = {
       {
         "move": "Bubble",
         "redBlueLevel": "1",
+        "type": "Water",
         "yellowLevel": "1"
       },
       {
         "move": "Smokescreen",
         "redBlueLevel": "19",
+        "type": "Normal",
         "yellowLevel": "19"
       },
       {
         "move": "Leer",
         "redBlueLevel": "24",
+        "type": "Normal",
         "yellowLevel": "24"
       },
       {
         "move": "Water Gun",
         "redBlueLevel": "30",
+        "type": "Water",
         "yellowLevel": "30"
       },
       {
         "move": "Agility",
         "redBlueLevel": "37",
+        "type": "Psychic",
         "yellowLevel": "37"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "45",
+        "type": "Water",
         "yellowLevel": "45"
       }
     ],
@@ -1205,31 +1340,37 @@ window.kantoReferenceData = {
       {
         "move": "Bubble",
         "redBlueLevel": "1",
+        "type": "Water",
         "yellowLevel": "1"
       },
       {
         "move": "Smokescreen",
         "redBlueLevel": "19",
+        "type": "Normal",
         "yellowLevel": "19"
       },
       {
         "move": "Leer",
         "redBlueLevel": "24",
+        "type": "Normal",
         "yellowLevel": "24"
       },
       {
         "move": "Water Gun",
         "redBlueLevel": "30",
+        "type": "Water",
         "yellowLevel": "30"
       },
       {
         "move": "Agility",
         "redBlueLevel": "41",
+        "type": "Psychic",
         "yellowLevel": "41"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "52",
+        "type": "Water",
         "yellowLevel": "52"
       }
     ],
@@ -1316,41 +1457,49 @@ window.kantoReferenceData = {
       {
         "move": "Peck",
         "redBlueLevel": "1",
+        "type": "Flying",
         "yellowLevel": "1"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Supersonic",
         "redBlueLevel": "19",
+        "type": "Normal",
         "yellowLevel": "19"
       },
       {
         "move": "Horn Attack",
         "redBlueLevel": "24",
+        "type": "Normal",
         "yellowLevel": "24"
       },
       {
         "move": "Fury Attack",
         "redBlueLevel": "30",
+        "type": "Normal",
         "yellowLevel": "30"
       },
       {
         "move": "Waterfall",
         "redBlueLevel": "37",
+        "type": "Water",
         "yellowLevel": "37"
       },
       {
         "move": "Horn Drill",
         "redBlueLevel": "45",
+        "type": "Normal",
         "yellowLevel": "45"
       },
       {
         "move": "Agility",
         "redBlueLevel": "54",
+        "type": "Psychic",
         "yellowLevel": "54"
       }
     ],
@@ -1386,41 +1535,49 @@ window.kantoReferenceData = {
       {
         "move": "Peck",
         "redBlueLevel": "1",
+        "type": "Flying",
         "yellowLevel": "1"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Supersonic",
         "redBlueLevel": "19",
+        "type": "Normal",
         "yellowLevel": "19"
       },
       {
         "move": "Horn Attack",
         "redBlueLevel": "24",
+        "type": "Normal",
         "yellowLevel": "24"
       },
       {
         "move": "Fury Attack",
         "redBlueLevel": "30",
+        "type": "Normal",
         "yellowLevel": "30"
       },
       {
         "move": "Waterfall",
         "redBlueLevel": "39",
+        "type": "Water",
         "yellowLevel": "39"
       },
       {
         "move": "Horn Drill",
         "redBlueLevel": "48",
+        "type": "Normal",
         "yellowLevel": "48"
       },
       {
         "move": "Agility",
         "redBlueLevel": "54",
+        "type": "Psychic",
         "yellowLevel": "54"
       }
     ],
@@ -1437,41 +1594,49 @@ window.kantoReferenceData = {
       {
         "move": "Confusion",
         "redBlueLevel": "12",
+        "type": "Psychic",
         "yellowLevel": "10"
       },
       {
         "move": "Poison Powder",
         "redBlueLevel": "15",
+        "type": "Poison",
         "yellowLevel": "13"
       },
       {
         "move": "Stun Spore",
         "redBlueLevel": "16",
+        "type": "Grass",
         "yellowLevel": "14"
       },
       {
         "move": "Sleep Powder",
         "redBlueLevel": "17",
+        "type": "Grass",
         "yellowLevel": "15"
       },
       {
         "move": "Supersonic",
         "redBlueLevel": "21",
+        "type": "Normal",
         "yellowLevel": "18"
       },
       {
         "move": "Whirlwind",
         "redBlueLevel": "26",
+        "type": "Normal",
         "yellowLevel": "23"
       },
       {
         "move": "Psybeam",
         "redBlueLevel": "32",
+        "type": "Psychic",
         "yellowLevel": "34"
       },
       {
         "move": "Gust",
         "redBlueLevel": "-",
+        "type": "Flying",
         "yellowLevel": "28"
       }
     ],
@@ -1516,41 +1681,49 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Water Gun",
         "redBlueLevel": "17",
+        "type": "Water",
         "yellowLevel": "17"
       },
       {
         "move": "Harden",
         "redBlueLevel": "22",
+        "type": "Normal",
         "yellowLevel": "22"
       },
       {
         "move": "Recover",
         "redBlueLevel": "27",
+        "type": "Normal",
         "yellowLevel": "27"
       },
       {
         "move": "Swift",
         "redBlueLevel": "32",
+        "type": "Normal",
         "yellowLevel": "32"
       },
       {
         "move": "Minimize",
         "redBlueLevel": "37",
+        "type": "Normal",
         "yellowLevel": "37"
       },
       {
         "move": "Light Screen",
         "redBlueLevel": "42",
+        "type": "Psychic",
         "yellowLevel": "42"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "47",
+        "type": "Water",
         "yellowLevel": "47"
       }
     ],
@@ -1567,16 +1740,19 @@ window.kantoReferenceData = {
       {
         "move": "Harden",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Water Gun",
         "redBlueLevel": "1",
+        "type": "Water",
         "yellowLevel": "1"
       }
     ],
@@ -1593,31 +1769,37 @@ window.kantoReferenceData = {
       {
         "move": "Barrier",
         "redBlueLevel": "1",
+        "type": "Psychic",
         "yellowLevel": "1"
       },
       {
         "move": "Confusion",
         "redBlueLevel": "15",
+        "type": "Psychic",
         "yellowLevel": "15"
       },
       {
         "move": "Light Screen",
         "redBlueLevel": "23",
+        "type": "Psychic",
         "yellowLevel": "23"
       },
       {
         "move": "Double Slap",
         "redBlueLevel": "31",
+        "type": "Normal",
         "yellowLevel": "31"
       },
       {
         "move": "Meditate",
         "redBlueLevel": "39",
+        "type": "Psychic",
         "yellowLevel": "39"
       },
       {
         "move": "Substitute",
         "redBlueLevel": "47",
+        "type": "Normal",
         "yellowLevel": "47"
       }
     ],
@@ -1649,41 +1831,49 @@ window.kantoReferenceData = {
       {
         "move": "Quick Attack",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Leer",
         "redBlueLevel": "17",
+        "type": "Normal",
         "yellowLevel": "17"
       },
       {
         "move": "Focus Energy",
         "redBlueLevel": "20",
+        "type": "Normal",
         "yellowLevel": "20"
       },
       {
         "move": "Double Team",
         "redBlueLevel": "24",
+        "type": "Normal",
         "yellowLevel": "24"
       },
       {
         "move": "Slash",
         "redBlueLevel": "29",
+        "type": "Normal",
         "yellowLevel": "29"
       },
       {
         "move": "Swords Dance",
         "redBlueLevel": "35",
+        "type": "Normal",
         "yellowLevel": "35"
       },
       {
         "move": "Agility",
         "redBlueLevel": "42",
+        "type": "Psychic",
         "yellowLevel": "42"
       },
       {
         "move": "Wing Attack",
         "redBlueLevel": "-",
+        "type": "Flying",
         "yellowLevel": "50"
       }
     ],
@@ -1700,41 +1890,49 @@ window.kantoReferenceData = {
       {
         "move": "Lovely Kiss",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Pound",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Lick",
         "redBlueLevel": "18",
+        "type": "Ghost",
         "yellowLevel": "18"
       },
       {
         "move": "Double Slap",
         "redBlueLevel": "23",
+        "type": "Normal",
         "yellowLevel": "23"
       },
       {
         "move": "Ice Punch",
         "redBlueLevel": "31",
+        "type": "Ice",
         "yellowLevel": "31"
       },
       {
         "move": "Body Slam",
         "redBlueLevel": "39",
+        "type": "Normal",
         "yellowLevel": "39"
       },
       {
         "move": "Thrash",
         "redBlueLevel": "47",
+        "type": "Normal",
         "yellowLevel": "47"
       },
       {
         "move": "Blizzard",
         "redBlueLevel": "58",
+        "type": "Ice",
         "yellowLevel": "58"
       }
     ],
@@ -1758,36 +1956,43 @@ window.kantoReferenceData = {
       {
         "move": "Leer",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Quick Attack",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Thunder Shock",
         "redBlueLevel": "34",
+        "type": "Electric",
         "yellowLevel": "34"
       },
       {
         "move": "Screech",
         "redBlueLevel": "37",
+        "type": "Normal",
         "yellowLevel": "37"
       },
       {
         "move": "Thunder Punch",
         "redBlueLevel": "42",
+        "type": "Electric",
         "yellowLevel": "42"
       },
       {
         "move": "Light Screen",
         "redBlueLevel": "49",
+        "type": "Psychic",
         "yellowLevel": "49"
       },
       {
         "move": "Thunder",
         "redBlueLevel": "54",
+        "type": "Electric",
         "yellowLevel": "54"
       }
     ],
@@ -1812,36 +2017,43 @@ window.kantoReferenceData = {
       {
         "move": "Ember",
         "redBlueLevel": "1",
+        "type": "Fire",
         "yellowLevel": "1"
       },
       {
         "move": "Leer",
         "redBlueLevel": "36",
+        "type": "Normal",
         "yellowLevel": "36"
       },
       {
         "move": "Confuse Ray",
         "redBlueLevel": "39",
+        "type": "Ghost",
         "yellowLevel": "39"
       },
       {
         "move": "Fire Punch",
         "redBlueLevel": "43",
+        "type": "Fire",
         "yellowLevel": "43"
       },
       {
         "move": "Smokescreen",
         "redBlueLevel": "48",
+        "type": "Normal",
         "yellowLevel": "48"
       },
       {
         "move": "Smog",
         "redBlueLevel": "52",
+        "type": "Poison",
         "yellowLevel": "52"
       },
       {
         "move": "Flamethrower",
         "redBlueLevel": "55",
+        "type": "Fire",
         "yellowLevel": "55"
       }
     ],
@@ -1873,41 +2085,49 @@ window.kantoReferenceData = {
       {
         "move": "Vice Grip",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Seismic Toss",
         "redBlueLevel": "25",
+        "type": "Fighting",
         "yellowLevel": "25"
       },
       {
         "move": "Guillotine",
         "redBlueLevel": "30",
+        "type": "Normal",
         "yellowLevel": "30"
       },
       {
         "move": "Focus Energy",
         "redBlueLevel": "36",
+        "type": "Normal",
         "yellowLevel": "36"
       },
       {
         "move": "Harden",
         "redBlueLevel": "43",
+        "type": "Normal",
         "yellowLevel": "43"
       },
       {
         "move": "Slash",
         "redBlueLevel": "49",
+        "type": "Normal",
         "yellowLevel": "49"
       },
       {
         "move": "Swords Dance",
         "redBlueLevel": "54",
+        "type": "Normal",
         "yellowLevel": "54"
       },
       {
         "move": "Bind",
         "redBlueLevel": "-",
+        "type": "Normal",
         "yellowLevel": "21"
       }
     ],
@@ -1939,31 +2159,37 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Stomp",
         "redBlueLevel": "21",
+        "type": "Normal",
         "yellowLevel": "21"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "28",
+        "type": "Normal",
         "yellowLevel": "28"
       },
       {
         "move": "Leer",
         "redBlueLevel": "35",
+        "type": "Normal",
         "yellowLevel": "35"
       },
       {
         "move": "Rage",
         "redBlueLevel": "44",
+        "type": "Normal",
         "yellowLevel": "44"
       },
       {
         "move": "Take Down",
         "redBlueLevel": "51",
+        "type": "Normal",
         "yellowLevel": "51"
       }
     ],
@@ -2054,11 +2280,13 @@ window.kantoReferenceData = {
       {
         "move": "Splash",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "15",
+        "type": "Normal",
         "yellowLevel": "15"
       }
     ],
@@ -2085,11 +2313,13 @@ window.kantoReferenceData = {
       {
         "move": "Poison Sting",
         "redBlueLevel": "1",
+        "type": "Poison",
         "yellowLevel": "1"
       },
       {
         "move": "String Shot",
         "redBlueLevel": "1",
+        "type": "Bug",
         "yellowLevel": "1"
       }
     ],
@@ -2113,31 +2343,37 @@ window.kantoReferenceData = {
       {
         "move": "Bite",
         "redBlueLevel": "20",
+        "type": "Dark",
         "yellowLevel": "20"
       },
       {
         "move": "Dragon Rage",
         "redBlueLevel": "25",
+        "type": "Dragon",
         "yellowLevel": "25"
       },
       {
         "move": "Leer",
         "redBlueLevel": "32",
+        "type": "Normal",
         "yellowLevel": "32"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "41",
+        "type": "Water",
         "yellowLevel": "41"
       },
       {
         "move": "Hyper Beam",
         "redBlueLevel": "52",
+        "type": "Normal",
         "yellowLevel": "52"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "-",
+        "type": "Normal",
         "yellowLevel": "1"
       }
     ],
@@ -2167,41 +2403,49 @@ window.kantoReferenceData = {
       {
         "move": "Growl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Water Gun",
         "redBlueLevel": "1",
+        "type": "Water",
         "yellowLevel": "1"
       },
       {
         "move": "Sing",
         "redBlueLevel": "16",
+        "type": "Normal",
         "yellowLevel": "16"
       },
       {
         "move": "Mist",
         "redBlueLevel": "20",
+        "type": "Ice",
         "yellowLevel": "20"
       },
       {
         "move": "Body Slam",
         "redBlueLevel": "25",
+        "type": "Normal",
         "yellowLevel": "25"
       },
       {
         "move": "Confuse Ray",
         "redBlueLevel": "31",
+        "type": "Ghost",
         "yellowLevel": "31"
       },
       {
         "move": "Ice Beam",
         "redBlueLevel": "38",
+        "type": "Ice",
         "yellowLevel": "38"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "46",
+        "type": "Water",
         "yellowLevel": "46"
       }
     ],
@@ -2240,6 +2484,7 @@ window.kantoReferenceData = {
       {
         "move": "Transform",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       }
     ],
@@ -2269,41 +2514,49 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Sand Attack",
         "redBlueLevel": "1",
+        "type": "Ground",
         "yellowLevel": "8"
       },
       {
         "move": "Quick Attack",
         "redBlueLevel": "27",
+        "type": "Normal",
         "yellowLevel": "23"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "31",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Bite",
         "redBlueLevel": "37",
+        "type": "Dark",
         "yellowLevel": "30"
       },
       {
         "move": "Take Down",
         "redBlueLevel": "45",
+        "type": "Normal",
         "yellowLevel": "42"
       },
       {
         "move": "Growl",
         "redBlueLevel": "-",
+        "type": "Normal",
         "yellowLevel": "16"
       },
       {
         "move": "Focus Energy",
         "redBlueLevel": "-",
+        "type": "Normal",
         "yellowLevel": "36"
       }
     ],
@@ -2320,56 +2573,67 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Sand Attack",
         "redBlueLevel": "1",
+        "type": "Ground",
         "yellowLevel": "8"
       },
       {
         "move": "Quick Attack",
         "redBlueLevel": "27",
+        "type": "Normal",
         "yellowLevel": "23"
       },
       {
         "move": "Water Gun",
         "redBlueLevel": "31",
+        "type": "Water",
         "yellowLevel": "16"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "37",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Bite",
         "redBlueLevel": "40",
+        "type": "Dark",
         "yellowLevel": "30"
       },
       {
         "move": "Acid Armor",
         "redBlueLevel": "42",
+        "type": "Poison",
         "yellowLevel": "47"
       },
       {
         "move": "Haze",
         "redBlueLevel": "44",
+        "type": "Ice",
         "yellowLevel": "42"
       },
       {
         "move": "Mist",
         "redBlueLevel": "48",
+        "type": "Ice",
         "yellowLevel": "42"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "54",
+        "type": "Water",
         "yellowLevel": "52"
       },
       {
         "move": "Aurora Beam",
         "redBlueLevel": "-",
+        "type": "Ice",
         "yellowLevel": "36"
       }
     ],
@@ -2386,51 +2650,61 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Sand Attack",
         "redBlueLevel": "1",
+        "type": "Ground",
         "yellowLevel": "8"
       },
       {
         "move": "Quick Attack",
         "redBlueLevel": "27",
+        "type": "Normal",
         "yellowLevel": "23"
       },
       {
         "move": "Thunder Shock",
         "redBlueLevel": "31",
+        "type": "Electric",
         "yellowLevel": "16"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "37",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Thunder Wave",
         "redBlueLevel": "40",
+        "type": "Electric",
         "yellowLevel": "42"
       },
       {
         "move": "Double Kick",
         "redBlueLevel": "42",
+        "type": "Fighting",
         "yellowLevel": "30"
       },
       {
         "move": "Agility",
         "redBlueLevel": "44",
+        "type": "Psychic",
         "yellowLevel": "47"
       },
       {
         "move": "Pin Missile",
         "redBlueLevel": "48",
+        "type": "Bug",
         "yellowLevel": "36"
       },
       {
         "move": "Thunder",
         "redBlueLevel": "54",
+        "type": "Electric",
         "yellowLevel": "52"
       }
     ],
@@ -2447,56 +2721,67 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Sand Attack",
         "redBlueLevel": "1",
+        "type": "Ground",
         "yellowLevel": "8"
       },
       {
         "move": "Quick Attack",
         "redBlueLevel": "27",
+        "type": "Normal",
         "yellowLevel": "23"
       },
       {
         "move": "Ember",
         "redBlueLevel": "31",
+        "type": "Fire",
         "yellowLevel": "16"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "37",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Bite",
         "redBlueLevel": "40",
+        "type": "Dark",
         "yellowLevel": "30"
       },
       {
         "move": "Leer",
         "redBlueLevel": "42",
+        "type": "Normal",
         "yellowLevel": "47"
       },
       {
         "move": "Fire Spin",
         "redBlueLevel": "44",
+        "type": "Fire",
         "yellowLevel": "36"
       },
       {
         "move": "Rage",
         "redBlueLevel": "48",
+        "type": "Normal",
         "yellowLevel": "-"
       },
       {
         "move": "Flamethrower",
         "redBlueLevel": "54",
+        "type": "Fire",
         "yellowLevel": "52"
       },
       {
         "move": "Smog",
         "redBlueLevel": "-",
+        "type": "Poison",
         "yellowLevel": "42"
       }
     ],
@@ -2513,36 +2798,43 @@ window.kantoReferenceData = {
       {
         "move": "Conversion",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Sharpen",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Psybeam",
         "redBlueLevel": "23",
+        "type": "Psychic",
         "yellowLevel": "23"
       },
       {
         "move": "Recover",
         "redBlueLevel": "28",
+        "type": "Normal",
         "yellowLevel": "28"
       },
       {
         "move": "Agility",
         "redBlueLevel": "35",
+        "type": "Psychic",
         "yellowLevel": "35"
       },
       {
         "move": "Tri Attack",
         "redBlueLevel": "42",
+        "type": "Normal",
         "yellowLevel": "42"
       }
     ],
@@ -2572,31 +2864,37 @@ window.kantoReferenceData = {
       {
         "move": "Water Gun",
         "redBlueLevel": "1",
+        "type": "Water",
         "yellowLevel": "1"
       },
       {
         "move": "Withdraw",
         "redBlueLevel": "1",
+        "type": "Water",
         "yellowLevel": "1"
       },
       {
         "move": "Horn Attack",
         "redBlueLevel": "34",
+        "type": "Normal",
         "yellowLevel": "34"
       },
       {
         "move": "Leer",
         "redBlueLevel": "39",
+        "type": "Normal",
         "yellowLevel": "39"
       },
       {
         "move": "Spike Cannon",
         "redBlueLevel": "46",
+        "type": "Normal",
         "yellowLevel": "46"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "53",
+        "type": "Water",
         "yellowLevel": "53"
       }
     ],
@@ -2613,31 +2911,37 @@ window.kantoReferenceData = {
       {
         "move": "Water Gun",
         "redBlueLevel": "1",
+        "type": "Water",
         "yellowLevel": "1"
       },
       {
         "move": "Withdraw",
         "redBlueLevel": "1",
+        "type": "Water",
         "yellowLevel": "1"
       },
       {
         "move": "Horn Attack",
         "redBlueLevel": "34",
+        "type": "Normal",
         "yellowLevel": "34"
       },
       {
         "move": "Leer",
         "redBlueLevel": "39",
+        "type": "Normal",
         "yellowLevel": "39"
       },
       {
         "move": "Spike Cannon",
         "redBlueLevel": "44",
+        "type": "Normal",
         "yellowLevel": "44"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "49",
+        "type": "Water",
         "yellowLevel": "49"
       }
     ],
@@ -2663,6 +2967,7 @@ window.kantoReferenceData = {
       {
         "move": "Harden",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       }
     ],
@@ -2692,31 +2997,37 @@ window.kantoReferenceData = {
       {
         "move": "Harden",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Scratch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Absorb",
         "redBlueLevel": "34",
+        "type": "Grass",
         "yellowLevel": "34"
       },
       {
         "move": "Slash",
         "redBlueLevel": "39",
+        "type": "Normal",
         "yellowLevel": "39"
       },
       {
         "move": "Leer",
         "redBlueLevel": "44",
+        "type": "Normal",
         "yellowLevel": "44"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "49",
+        "type": "Water",
         "yellowLevel": "49"
       }
     ],
@@ -2733,31 +3044,37 @@ window.kantoReferenceData = {
       {
         "move": "Harden",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Scratch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Absorb",
         "redBlueLevel": "34",
+        "type": "Grass",
         "yellowLevel": "34"
       },
       {
         "move": "Slash",
         "redBlueLevel": "39",
+        "type": "Normal",
         "yellowLevel": "39"
       },
       {
         "move": "Leer",
         "redBlueLevel": "46",
+        "type": "Normal",
         "yellowLevel": "46"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "53",
+        "type": "Water",
         "yellowLevel": "53"
       }
     ],
@@ -2787,31 +3104,37 @@ window.kantoReferenceData = {
       {
         "move": "Agility",
         "redBlueLevel": "1",
+        "type": "Psychic",
         "yellowLevel": "1"
       },
       {
         "move": "Wing Attack",
         "redBlueLevel": "1",
+        "type": "Flying",
         "yellowLevel": "1"
       },
       {
         "move": "Supersonic",
         "redBlueLevel": "33",
+        "type": "Normal",
         "yellowLevel": "33"
       },
       {
         "move": "Bite",
         "redBlueLevel": "38",
+        "type": "Dark",
         "yellowLevel": "38"
       },
       {
         "move": "Take Down",
         "redBlueLevel": "45",
+        "type": "Normal",
         "yellowLevel": "45"
       },
       {
         "move": "Hyper Beam",
         "redBlueLevel": "54",
+        "type": "Normal",
         "yellowLevel": "54"
       }
     ],
@@ -2843,36 +3166,43 @@ window.kantoReferenceData = {
       {
         "move": "Amnesia",
         "redBlueLevel": "1",
+        "type": "Psychic",
         "yellowLevel": "1"
       },
       {
         "move": "Headbutt",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Rest",
         "redBlueLevel": "1",
+        "type": "Psychic",
         "yellowLevel": "1"
       },
       {
         "move": "Body Slam",
         "redBlueLevel": "35",
+        "type": "Normal",
         "yellowLevel": "35"
       },
       {
         "move": "Harden",
         "redBlueLevel": "41",
+        "type": "Normal",
         "yellowLevel": "41"
       },
       {
         "move": "Double Edge",
         "redBlueLevel": "48",
+        "type": "Normal",
         "yellowLevel": "48"
       },
       {
         "move": "Hyper Beam",
         "redBlueLevel": "56",
+        "type": "Normal",
         "yellowLevel": "56"
       }
     ],
@@ -2902,26 +3232,31 @@ window.kantoReferenceData = {
       {
         "move": "Ice Beam",
         "redBlueLevel": "1",
+        "type": "Ice",
         "yellowLevel": "1"
       },
       {
         "move": "Peck",
         "redBlueLevel": "1",
+        "type": "Flying",
         "yellowLevel": "1"
       },
       {
         "move": "Blizzard",
         "redBlueLevel": "51",
+        "type": "Ice",
         "yellowLevel": "51"
       },
       {
         "move": "Agility",
         "redBlueLevel": "55",
+        "type": "Psychic",
         "yellowLevel": "55"
       },
       {
         "move": "Mist",
         "redBlueLevel": "60",
+        "type": "Ice",
         "yellowLevel": "60"
       }
     ],
@@ -2951,26 +3286,31 @@ window.kantoReferenceData = {
       {
         "move": "Drill Peck",
         "redBlueLevel": "1",
+        "type": "Flying",
         "yellowLevel": "1"
       },
       {
         "move": "Thunder Shock",
         "redBlueLevel": "1",
+        "type": "Electric",
         "yellowLevel": "1"
       },
       {
         "move": "Thunder",
         "redBlueLevel": "51",
+        "type": "Electric",
         "yellowLevel": "51"
       },
       {
         "move": "Agility",
         "redBlueLevel": "55",
+        "type": "Psychic",
         "yellowLevel": "55"
       },
       {
         "move": "Light Screen",
         "redBlueLevel": "60",
+        "type": "Psychic",
         "yellowLevel": "60"
       }
     ],
@@ -3000,26 +3340,31 @@ window.kantoReferenceData = {
       {
         "move": "Fire Spin",
         "redBlueLevel": "1",
+        "type": "Fire",
         "yellowLevel": "1"
       },
       {
         "move": "Peck",
         "redBlueLevel": "1",
+        "type": "Flying",
         "yellowLevel": "1"
       },
       {
         "move": "Leer",
         "redBlueLevel": "51",
+        "type": "Normal",
         "yellowLevel": "51"
       },
       {
         "move": "Agility",
         "redBlueLevel": "55",
+        "type": "Psychic",
         "yellowLevel": "55"
       },
       {
         "move": "Sky Attack",
         "redBlueLevel": "60",
+        "type": "Flying",
         "yellowLevel": "60"
       }
     ],
@@ -3055,36 +3400,43 @@ window.kantoReferenceData = {
       {
         "move": "Leer",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Wrap",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Thunder Wave",
         "redBlueLevel": "10",
+        "type": "Electric",
         "yellowLevel": "10"
       },
       {
         "move": "Agility",
         "redBlueLevel": "20",
+        "type": "Psychic",
         "yellowLevel": "20"
       },
       {
         "move": "Slam",
         "redBlueLevel": "30",
+        "type": "Normal",
         "yellowLevel": "30"
       },
       {
         "move": "Dragon Rage",
         "redBlueLevel": "40",
+        "type": "Dragon",
         "yellowLevel": "40"
       },
       {
         "move": "Hyper Beam",
         "redBlueLevel": "50",
+        "type": "Normal",
         "yellowLevel": "50"
       }
     ],
@@ -3108,36 +3460,43 @@ window.kantoReferenceData = {
       {
         "move": "Leer",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Wrap",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Thunder Wave",
         "redBlueLevel": "10",
+        "type": "Electric",
         "yellowLevel": "10"
       },
       {
         "move": "Agility",
         "redBlueLevel": "20",
+        "type": "Psychic",
         "yellowLevel": "20"
       },
       {
         "move": "Slam",
         "redBlueLevel": "35",
+        "type": "Normal",
         "yellowLevel": "35"
       },
       {
         "move": "Dragon Rage",
         "redBlueLevel": "45",
+        "type": "Dragon",
         "yellowLevel": "45"
       },
       {
         "move": "Hyper Beam",
         "redBlueLevel": "55",
+        "type": "Normal",
         "yellowLevel": "55"
       }
     ],
@@ -3154,36 +3513,43 @@ window.kantoReferenceData = {
       {
         "move": "Leer",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Wrap",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Thunder Wave",
         "redBlueLevel": "10",
+        "type": "Electric",
         "yellowLevel": "10"
       },
       {
         "move": "Agility",
         "redBlueLevel": "20",
+        "type": "Psychic",
         "yellowLevel": "20"
       },
       {
         "move": "Slam",
         "redBlueLevel": "35",
+        "type": "Normal",
         "yellowLevel": "35"
       },
       {
         "move": "Dragon Rage",
         "redBlueLevel": "45",
+        "type": "Dragon",
         "yellowLevel": "45"
       },
       {
         "move": "Hyper Beam",
         "redBlueLevel": "60",
+        "type": "Normal",
         "yellowLevel": "60"
       }
     ],
@@ -3200,31 +3566,37 @@ window.kantoReferenceData = {
       {
         "move": "Fury Attack",
         "redBlueLevel": "12",
+        "type": "Normal",
         "yellowLevel": "12"
       },
       {
         "move": "Focus Energy",
         "redBlueLevel": "16",
+        "type": "Normal",
         "yellowLevel": "16"
       },
       {
         "move": "Twineedle",
         "redBlueLevel": "20",
+        "type": "Bug",
         "yellowLevel": "20"
       },
       {
         "move": "Rage",
         "redBlueLevel": "25",
+        "type": "Normal",
         "yellowLevel": "25"
       },
       {
         "move": "Pin Missile",
         "redBlueLevel": "30",
+        "type": "Bug",
         "yellowLevel": "30"
       },
       {
         "move": "Agility",
         "redBlueLevel": "35",
+        "type": "Psychic",
         "yellowLevel": "35"
       }
     ],
@@ -3254,41 +3626,49 @@ window.kantoReferenceData = {
       {
         "move": "Confusion",
         "redBlueLevel": "1",
+        "type": "Psychic",
         "yellowLevel": "1"
       },
       {
         "move": "Disable",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Swift",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Barrier",
         "redBlueLevel": "63",
+        "type": "Psychic",
         "yellowLevel": "63"
       },
       {
         "move": "Psychic",
         "redBlueLevel": "66",
+        "type": "Psychic",
         "yellowLevel": "66"
       },
       {
         "move": "Recover",
         "redBlueLevel": "70",
+        "type": "Normal",
         "yellowLevel": "70"
       },
       {
         "move": "Mist",
         "redBlueLevel": "75",
+        "type": "Ice",
         "yellowLevel": "75"
       },
       {
         "move": "Amnesia",
         "redBlueLevel": "81",
+        "type": "Psychic",
         "yellowLevel": "81"
       }
     ],
@@ -3305,26 +3685,31 @@ window.kantoReferenceData = {
       {
         "move": "Pound",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Transform",
         "redBlueLevel": "10",
+        "type": "Normal",
         "yellowLevel": "10"
       },
       {
         "move": "Mega Punch",
         "redBlueLevel": "20",
+        "type": "Normal",
         "yellowLevel": "20"
       },
       {
         "move": "Metronome",
         "redBlueLevel": "30",
+        "type": "Normal",
         "yellowLevel": "30"
       },
       {
         "move": "Psychic",
         "redBlueLevel": "40",
+        "type": "Psychic",
         "yellowLevel": "40"
       }
     ],
@@ -3379,36 +3764,43 @@ window.kantoReferenceData = {
       {
         "move": "Gust",
         "redBlueLevel": "1",
+        "type": "Flying",
         "yellowLevel": "1"
       },
       {
         "move": "Sand Attack",
         "redBlueLevel": "5",
+        "type": "Ground",
         "yellowLevel": "5"
       },
       {
         "move": "Quick Attack",
         "redBlueLevel": "12",
+        "type": "Normal",
         "yellowLevel": "12"
       },
       {
         "move": "Whirlwind",
         "redBlueLevel": "19",
+        "type": "Normal",
         "yellowLevel": "19"
       },
       {
         "move": "Wing Attack",
         "redBlueLevel": "28",
+        "type": "Flying",
         "yellowLevel": "28"
       },
       {
         "move": "Agility",
         "redBlueLevel": "36",
+        "type": "Psychic",
         "yellowLevel": "36"
       },
       {
         "move": "Mirror Move",
         "redBlueLevel": "44",
+        "type": "Flying",
         "yellowLevel": "44"
       }
     ],
@@ -3452,36 +3844,43 @@ window.kantoReferenceData = {
       {
         "move": "Gust",
         "redBlueLevel": "1",
+        "type": "Flying",
         "yellowLevel": "1"
       },
       {
         "move": "Sand Attack",
         "redBlueLevel": "5",
+        "type": "Ground",
         "yellowLevel": "5"
       },
       {
         "move": "Quick Attack",
         "redBlueLevel": "12",
+        "type": "Normal",
         "yellowLevel": "12"
       },
       {
         "move": "Whirlwind",
         "redBlueLevel": "21",
+        "type": "Normal",
         "yellowLevel": "21"
       },
       {
         "move": "Wing Attack",
         "redBlueLevel": "31",
+        "type": "Flying",
         "yellowLevel": "31"
       },
       {
         "move": "Agility",
         "redBlueLevel": "40",
+        "type": "Psychic",
         "yellowLevel": "40"
       },
       {
         "move": "Mirror Move",
         "redBlueLevel": "49",
+        "type": "Flying",
         "yellowLevel": "49"
       }
     ],
@@ -3498,36 +3897,43 @@ window.kantoReferenceData = {
       {
         "move": "Gust",
         "redBlueLevel": "1",
+        "type": "Flying",
         "yellowLevel": "1"
       },
       {
         "move": "Sand Attack",
         "redBlueLevel": "5",
+        "type": "Ground",
         "yellowLevel": "5"
       },
       {
         "move": "Quick Attack",
         "redBlueLevel": "12",
+        "type": "Normal",
         "yellowLevel": "12"
       },
       {
         "move": "Whirlwind",
         "redBlueLevel": "21",
+        "type": "Normal",
         "yellowLevel": "21"
       },
       {
         "move": "Wing Attack",
         "redBlueLevel": "31",
+        "type": "Flying",
         "yellowLevel": "31"
       },
       {
         "move": "Agility",
         "redBlueLevel": "44",
+        "type": "Psychic",
         "yellowLevel": "44"
       },
       {
         "move": "Mirror Move",
         "redBlueLevel": "54",
+        "type": "Flying",
         "yellowLevel": "54"
       }
     ],
@@ -3580,31 +3986,37 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Quick Attack",
         "redBlueLevel": "7",
+        "type": "Normal",
         "yellowLevel": "7"
       },
       {
         "move": "Hyper Fang",
         "redBlueLevel": "14",
+        "type": "Normal",
         "yellowLevel": "14"
       },
       {
         "move": "Focus Energy",
         "redBlueLevel": "23",
+        "type": "Normal",
         "yellowLevel": "23"
       },
       {
         "move": "Super Fang",
         "redBlueLevel": "34",
+        "type": "Normal",
         "yellowLevel": "34"
       }
     ],
@@ -3621,46 +4033,55 @@ window.kantoReferenceData = {
       {
         "move": "Growl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Leech Seed",
         "redBlueLevel": "7",
+        "type": "Grass",
         "yellowLevel": "7"
       },
       {
         "move": "Vine Whip",
         "redBlueLevel": "13",
+        "type": "Grass",
         "yellowLevel": "13"
       },
       {
         "move": "Poison Powder",
         "redBlueLevel": "22",
+        "type": "Poison",
         "yellowLevel": "22"
       },
       {
         "move": "Razor Leaf",
         "redBlueLevel": "30",
+        "type": "Grass",
         "yellowLevel": "30"
       },
       {
         "move": "Growth",
         "redBlueLevel": "38",
+        "type": "Normal",
         "yellowLevel": "38"
       },
       {
         "move": "Sleep Powder",
         "redBlueLevel": "46",
+        "type": "Grass",
         "yellowLevel": "46"
       },
       {
         "move": "Solar Beam",
         "redBlueLevel": "54",
+        "type": "Grass",
         "yellowLevel": "54"
       }
     ],
@@ -3702,31 +4123,37 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Quick Attack",
         "redBlueLevel": "7",
+        "type": "Normal",
         "yellowLevel": "7"
       },
       {
         "move": "Hyper Fang",
         "redBlueLevel": "14",
+        "type": "Normal",
         "yellowLevel": "14"
       },
       {
         "move": "Focus Energy",
         "redBlueLevel": "27",
+        "type": "Normal",
         "yellowLevel": "27"
       },
       {
         "move": "Super Fang",
         "redBlueLevel": "41",
+        "type": "Normal",
         "yellowLevel": "41"
       }
     ],
@@ -3770,36 +4197,43 @@ window.kantoReferenceData = {
       {
         "move": "Growl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Peck",
         "redBlueLevel": "1",
+        "type": "Flying",
         "yellowLevel": "1"
       },
       {
         "move": "Leer",
         "redBlueLevel": "9",
+        "type": "Normal",
         "yellowLevel": "9"
       },
       {
         "move": "Fury Attack",
         "redBlueLevel": "15",
+        "type": "Normal",
         "yellowLevel": "15"
       },
       {
         "move": "Mirror Move",
         "redBlueLevel": "22",
+        "type": "Flying",
         "yellowLevel": "22"
       },
       {
         "move": "Drill Peck",
         "redBlueLevel": "29",
+        "type": "Flying",
         "yellowLevel": "29"
       },
       {
         "move": "Agility",
         "redBlueLevel": "36",
+        "type": "Psychic",
         "yellowLevel": "36"
       }
     ],
@@ -3835,36 +4269,43 @@ window.kantoReferenceData = {
       {
         "move": "Growl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Peck",
         "redBlueLevel": "1",
+        "type": "Flying",
         "yellowLevel": "1"
       },
       {
         "move": "Leer",
         "redBlueLevel": "9",
+        "type": "Normal",
         "yellowLevel": "9"
       },
       {
         "move": "Fury Attack",
         "redBlueLevel": "15",
+        "type": "Normal",
         "yellowLevel": "15"
       },
       {
         "move": "Mirror Move",
         "redBlueLevel": "25",
+        "type": "Flying",
         "yellowLevel": "25"
       },
       {
         "move": "Drill Peck",
         "redBlueLevel": "34",
+        "type": "Flying",
         "yellowLevel": "34"
       },
       {
         "move": "Agility",
         "redBlueLevel": "43",
+        "type": "Psychic",
         "yellowLevel": "43"
       }
     ],
@@ -3893,36 +4334,43 @@ window.kantoReferenceData = {
       {
         "move": "Leer",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Wrap",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Poison Sting",
         "redBlueLevel": "10",
+        "type": "Poison",
         "yellowLevel": "10"
       },
       {
         "move": "Bite",
         "redBlueLevel": "17",
+        "type": "Dark",
         "yellowLevel": "17"
       },
       {
         "move": "Glare",
         "redBlueLevel": "24",
+        "type": "Normal",
         "yellowLevel": "24"
       },
       {
         "move": "Screech",
         "redBlueLevel": "31",
+        "type": "Normal",
         "yellowLevel": "31"
       },
       {
         "move": "Acid",
         "redBlueLevel": "38",
+        "type": "Poison",
         "yellowLevel": "38"
       }
     ],
@@ -3948,36 +4396,43 @@ window.kantoReferenceData = {
       {
         "move": "Leer",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Wrap",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Poison Sting",
         "redBlueLevel": "10",
+        "type": "Poison",
         "yellowLevel": "10"
       },
       {
         "move": "Bite",
         "redBlueLevel": "17",
+        "type": "Dark",
         "yellowLevel": "17"
       },
       {
         "move": "Glare",
         "redBlueLevel": "27",
+        "type": "Normal",
         "yellowLevel": "27"
       },
       {
         "move": "Screech",
         "redBlueLevel": "36",
+        "type": "Normal",
         "yellowLevel": "36"
       },
       {
         "move": "Acid",
         "redBlueLevel": "47",
+        "type": "Poison",
         "yellowLevel": "47"
       }
     ],
@@ -4008,61 +4463,73 @@ window.kantoReferenceData = {
       {
         "move": "Growl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Thunder Shock",
         "redBlueLevel": "1",
+        "type": "Electric",
         "yellowLevel": "1"
       },
       {
         "move": "Thunder Wave",
         "redBlueLevel": "9",
+        "type": "Electric",
         "yellowLevel": "8"
       },
       {
         "move": "Quick Attack",
         "redBlueLevel": "16",
+        "type": "Normal",
         "yellowLevel": "11"
       },
       {
         "move": "Swift",
         "redBlueLevel": "26",
+        "type": "Normal",
         "yellowLevel": "-"
       },
       {
         "move": "Agility",
         "redBlueLevel": "33",
+        "type": "Psychic",
         "yellowLevel": "33"
       },
       {
         "move": "Thunder",
         "redBlueLevel": "43",
+        "type": "Electric",
         "yellowLevel": "41"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "-",
+        "type": "Normal",
         "yellowLevel": "6"
       },
       {
         "move": "Double Team",
         "redBlueLevel": "-",
+        "type": "Normal",
         "yellowLevel": "15"
       },
       {
         "move": "Slam",
         "redBlueLevel": "-",
+        "type": "Normal",
         "yellowLevel": "20"
       },
       {
         "move": "Thunderbolt",
         "redBlueLevel": "-",
+        "type": "Electric",
         "yellowLevel": "26"
       },
       {
         "move": "Light Screen",
         "redBlueLevel": "-",
+        "type": "Psychic",
         "yellowLevel": "50"
       }
     ],
@@ -4088,16 +4555,19 @@ window.kantoReferenceData = {
       {
         "move": "Growl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Thunder Shock",
         "redBlueLevel": "1",
+        "type": "Electric",
         "yellowLevel": "1"
       },
       {
         "move": "Thunder Wave",
         "redBlueLevel": "1",
+        "type": "Electric",
         "yellowLevel": "1"
       }
     ],
@@ -4134,31 +4604,37 @@ window.kantoReferenceData = {
       {
         "move": "Scratch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Sand Attack",
         "redBlueLevel": "10",
+        "type": "Ground",
         "yellowLevel": "10"
       },
       {
         "move": "Slash",
         "redBlueLevel": "17",
+        "type": "Normal",
         "yellowLevel": "17"
       },
       {
         "move": "Poison Sting",
         "redBlueLevel": "24",
+        "type": "Poison",
         "yellowLevel": "24"
       },
       {
         "move": "Swift",
         "redBlueLevel": "31",
+        "type": "Normal",
         "yellowLevel": "31"
       },
       {
         "move": "Fury Swipes",
         "redBlueLevel": "38",
+        "type": "Normal",
         "yellowLevel": "38"
       }
     ],
@@ -4191,31 +4667,37 @@ window.kantoReferenceData = {
       {
         "move": "Scratch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Sand Attack",
         "redBlueLevel": "10",
+        "type": "Ground",
         "yellowLevel": "10"
       },
       {
         "move": "Slash",
         "redBlueLevel": "17",
+        "type": "Normal",
         "yellowLevel": "17"
       },
       {
         "move": "Poison Sting",
         "redBlueLevel": "27",
+        "type": "Poison",
         "yellowLevel": "27"
       },
       {
         "move": "Swift",
         "redBlueLevel": "36",
+        "type": "Normal",
         "yellowLevel": "36"
       },
       {
         "move": "Fury Swipes",
         "redBlueLevel": "47",
+        "type": "Normal",
         "yellowLevel": "47"
       }
     ],
@@ -4256,41 +4738,49 @@ window.kantoReferenceData = {
       {
         "move": "Growl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Scratch",
         "redBlueLevel": "8",
+        "type": "Normal",
         "yellowLevel": "8"
       },
       {
         "move": "Poison Sting",
         "redBlueLevel": "14",
+        "type": "Poison",
         "yellowLevel": "17"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "21",
+        "type": "Normal",
         "yellowLevel": "23"
       },
       {
         "move": "Bite",
         "redBlueLevel": "29",
+        "type": "Dark",
         "yellowLevel": "30"
       },
       {
         "move": "Fury Swipes",
         "redBlueLevel": "36",
+        "type": "Normal",
         "yellowLevel": "38"
       },
       {
         "move": "Double Kick",
         "redBlueLevel": "43",
+        "type": "Fighting",
         "yellowLevel": "12"
       }
     ],
@@ -4307,46 +4797,55 @@ window.kantoReferenceData = {
       {
         "move": "Growl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Leech Seed",
         "redBlueLevel": "7",
+        "type": "Grass",
         "yellowLevel": "7"
       },
       {
         "move": "Vine Whip",
         "redBlueLevel": "13",
+        "type": "Grass",
         "yellowLevel": "13"
       },
       {
         "move": "Poison Powder",
         "redBlueLevel": "22",
+        "type": "Poison",
         "yellowLevel": "22"
       },
       {
         "move": "Razor Leaf",
         "redBlueLevel": "30",
+        "type": "Grass",
         "yellowLevel": "30"
       },
       {
         "move": "Growth",
         "redBlueLevel": "43",
+        "type": "Normal",
         "yellowLevel": "43"
       },
       {
         "move": "Sleep Powder",
         "redBlueLevel": "55",
+        "type": "Grass",
         "yellowLevel": "55"
       },
       {
         "move": "Solar Beam",
         "redBlueLevel": "65",
+        "type": "Grass",
         "yellowLevel": "65"
       }
     ],
@@ -4382,41 +4881,49 @@ window.kantoReferenceData = {
       {
         "move": "Growl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Scratch",
         "redBlueLevel": "8",
+        "type": "Normal",
         "yellowLevel": "8"
       },
       {
         "move": "Poison Sting",
         "redBlueLevel": "14",
+        "type": "Poison",
         "yellowLevel": "19"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "23",
+        "type": "Normal",
         "yellowLevel": "27"
       },
       {
         "move": "Bite",
         "redBlueLevel": "32",
+        "type": "Dark",
         "yellowLevel": "36"
       },
       {
         "move": "Fury Swipes",
         "redBlueLevel": "41",
+        "type": "Normal",
         "yellowLevel": "46"
       },
       {
         "move": "Double Kick",
         "redBlueLevel": "50",
+        "type": "Fighting",
         "yellowLevel": "12"
       }
     ],
@@ -4433,31 +4940,37 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Scratch",
         "redBlueLevel": "8",
+        "type": "Normal",
         "yellowLevel": "8"
       },
       {
         "move": "Poison Sting",
         "redBlueLevel": "14",
+        "type": "Poison",
         "yellowLevel": "-"
       },
       {
         "move": "Body Slam",
         "redBlueLevel": "23",
+        "type": "Normal",
         "yellowLevel": "23"
       },
       {
         "move": "Double Kick",
         "redBlueLevel": "-",
+        "type": "Fighting",
         "yellowLevel": "12"
       }
     ],
@@ -4498,41 +5011,49 @@ window.kantoReferenceData = {
       {
         "move": "Leer",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Horn Attack",
         "redBlueLevel": "8",
+        "type": "Normal",
         "yellowLevel": "8"
       },
       {
         "move": "Poison Sting",
         "redBlueLevel": "14",
+        "type": "Poison",
         "yellowLevel": "17"
       },
       {
         "move": "Focus Energy",
         "redBlueLevel": "21",
+        "type": "Normal",
         "yellowLevel": "23"
       },
       {
         "move": "Fury Attack",
         "redBlueLevel": "29",
+        "type": "Normal",
         "yellowLevel": "30"
       },
       {
         "move": "Horn Drill",
         "redBlueLevel": "36",
+        "type": "Normal",
         "yellowLevel": "38"
       },
       {
         "move": "Double Kick",
         "redBlueLevel": "43",
+        "type": "Fighting",
         "yellowLevel": "12"
       }
     ],
@@ -4568,41 +5089,49 @@ window.kantoReferenceData = {
       {
         "move": "Leer",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Horn Attack",
         "redBlueLevel": "8",
+        "type": "Normal",
         "yellowLevel": "8"
       },
       {
         "move": "Poison Sting",
         "redBlueLevel": "14",
+        "type": "Poison",
         "yellowLevel": "19"
       },
       {
         "move": "Focus Energy",
         "redBlueLevel": "23",
+        "type": "Normal",
         "yellowLevel": "27"
       },
       {
         "move": "Fury Attack",
         "redBlueLevel": "32",
+        "type": "Normal",
         "yellowLevel": "36"
       },
       {
         "move": "Horn Drill",
         "redBlueLevel": "41",
+        "type": "Normal",
         "yellowLevel": "46"
       },
       {
         "move": "Double Kick",
         "redBlueLevel": "50",
+        "type": "Fighting",
         "yellowLevel": "12"
       }
     ],
@@ -4619,26 +5148,31 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Horn Attack",
         "redBlueLevel": "8",
+        "type": "Normal",
         "yellowLevel": "8"
       },
       {
         "move": "Poison Sting",
         "redBlueLevel": "14",
+        "type": "Poison",
         "yellowLevel": "1"
       },
       {
         "move": "Thrash",
         "redBlueLevel": "23",
+        "type": "Normal",
         "yellowLevel": "23"
       },
       {
         "move": "Double Kick",
         "redBlueLevel": "-",
+        "type": "Fighting",
         "yellowLevel": "12"
       }
     ],
@@ -4672,41 +5206,49 @@ window.kantoReferenceData = {
       {
         "move": "Growl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Pound",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Sing",
         "redBlueLevel": "13",
+        "type": "Normal",
         "yellowLevel": "13"
       },
       {
         "move": "Double Slap",
         "redBlueLevel": "18",
+        "type": "Normal",
         "yellowLevel": "18"
       },
       {
         "move": "Minimize",
         "redBlueLevel": "24",
+        "type": "Normal",
         "yellowLevel": "24"
       },
       {
         "move": "Metronome",
         "redBlueLevel": "31",
+        "type": "Normal",
         "yellowLevel": "31"
       },
       {
         "move": "Defense Curl",
         "redBlueLevel": "39",
+        "type": "Normal",
         "yellowLevel": "39"
       },
       {
         "move": "Light Screen",
         "redBlueLevel": "48",
+        "type": "Psychic",
         "yellowLevel": "48"
       }
     ],
@@ -4723,21 +5265,25 @@ window.kantoReferenceData = {
       {
         "move": "Double Slap",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Metronome",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Minimize",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Sing",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       }
     ],
@@ -4766,36 +5312,43 @@ window.kantoReferenceData = {
       {
         "move": "Ember",
         "redBlueLevel": "1",
+        "type": "Fire",
         "yellowLevel": "1"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Quick Attack",
         "redBlueLevel": "16",
+        "type": "Normal",
         "yellowLevel": "16"
       },
       {
         "move": "Roar",
         "redBlueLevel": "21",
+        "type": "Normal",
         "yellowLevel": "21"
       },
       {
         "move": "Confuse Ray",
         "redBlueLevel": "28",
+        "type": "Ghost",
         "yellowLevel": "28"
       },
       {
         "move": "Flamethrower",
         "redBlueLevel": "35",
+        "type": "Fire",
         "yellowLevel": "35"
       },
       {
         "move": "Fire Spin",
         "redBlueLevel": "42",
+        "type": "Fire",
         "yellowLevel": "42"
       }
     ],
@@ -4812,21 +5365,25 @@ window.kantoReferenceData = {
       {
         "move": "Ember",
         "redBlueLevel": "1",
+        "type": "Fire",
         "yellowLevel": "1"
       },
       {
         "move": "Quick Attack",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Roar",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       }
     ],
@@ -4859,41 +5416,49 @@ window.kantoReferenceData = {
       {
         "move": "Sing",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Pound",
         "redBlueLevel": "9",
+        "type": "Normal",
         "yellowLevel": "9"
       },
       {
         "move": "Disable",
         "redBlueLevel": "14",
+        "type": "Normal",
         "yellowLevel": "14"
       },
       {
         "move": "Defense Curl",
         "redBlueLevel": "19",
+        "type": "Normal",
         "yellowLevel": "19"
       },
       {
         "move": "Double Slap",
         "redBlueLevel": "24",
+        "type": "Normal",
         "yellowLevel": "24"
       },
       {
         "move": "Rest",
         "redBlueLevel": "29",
+        "type": "Psychic",
         "yellowLevel": "29"
       },
       {
         "move": "Body Slam",
         "redBlueLevel": "34",
+        "type": "Normal",
         "yellowLevel": "34"
       },
       {
         "move": "Double Edge",
         "redBlueLevel": "39",
+        "type": "Normal",
         "yellowLevel": "39"
       }
     ],
@@ -4923,41 +5488,49 @@ window.kantoReferenceData = {
       {
         "move": "Growl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Scratch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Ember",
         "redBlueLevel": "9",
+        "type": "Fire",
         "yellowLevel": "9"
       },
       {
         "move": "Leer",
         "redBlueLevel": "15",
+        "type": "Normal",
         "yellowLevel": "15"
       },
       {
         "move": "Rage",
         "redBlueLevel": "22",
+        "type": "Normal",
         "yellowLevel": "22"
       },
       {
         "move": "Slash",
         "redBlueLevel": "30",
+        "type": "Normal",
         "yellowLevel": "30"
       },
       {
         "move": "Flamethrower",
         "redBlueLevel": "38",
+        "type": "Fire",
         "yellowLevel": "38"
       },
       {
         "move": "Fire Spin",
         "redBlueLevel": "46",
+        "type": "Fire",
         "yellowLevel": "46"
       }
     ],
@@ -4981,21 +5554,25 @@ window.kantoReferenceData = {
       {
         "move": "Defense Curl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Disable",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Double Slap",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Sing",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       }
     ],
@@ -5044,31 +5621,37 @@ window.kantoReferenceData = {
       {
         "move": "Leech Life",
         "redBlueLevel": "1",
+        "type": "Bug",
         "yellowLevel": "1"
       },
       {
         "move": "Supersonic",
         "redBlueLevel": "10",
+        "type": "Normal",
         "yellowLevel": "10"
       },
       {
         "move": "Bite",
         "redBlueLevel": "15",
+        "type": "Dark",
         "yellowLevel": "15"
       },
       {
         "move": "Confuse Ray",
         "redBlueLevel": "21",
+        "type": "Ghost",
         "yellowLevel": "21"
       },
       {
         "move": "Wing Attack",
         "redBlueLevel": "28",
+        "type": "Flying",
         "yellowLevel": "28"
       },
       {
         "move": "Haze",
         "redBlueLevel": "36",
+        "type": "Ice",
         "yellowLevel": "36"
       }
     ],
@@ -5113,36 +5696,43 @@ window.kantoReferenceData = {
       {
         "move": "Leech Life",
         "redBlueLevel": "1",
+        "type": "Bug",
         "yellowLevel": "1"
       },
       {
         "move": "Screech",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Supersonic",
         "redBlueLevel": "10",
+        "type": "Normal",
         "yellowLevel": "10"
       },
       {
         "move": "Bite",
         "redBlueLevel": "15",
+        "type": "Dark",
         "yellowLevel": "15"
       },
       {
         "move": "Confuse Ray",
         "redBlueLevel": "21",
+        "type": "Ghost",
         "yellowLevel": "21"
       },
       {
         "move": "Wing Attack",
         "redBlueLevel": "32",
+        "type": "Flying",
         "yellowLevel": "32"
       },
       {
         "move": "Haze",
         "redBlueLevel": "43",
+        "type": "Ice",
         "yellowLevel": "43"
       }
     ],
@@ -5185,36 +5775,43 @@ window.kantoReferenceData = {
       {
         "move": "Absorb",
         "redBlueLevel": "1",
+        "type": "Grass",
         "yellowLevel": "1"
       },
       {
         "move": "Poison Powder",
         "redBlueLevel": "15",
+        "type": "Poison",
         "yellowLevel": "15"
       },
       {
         "move": "Stun Spore",
         "redBlueLevel": "17",
+        "type": "Grass",
         "yellowLevel": "17"
       },
       {
         "move": "Sleep Powder",
         "redBlueLevel": "19",
+        "type": "Grass",
         "yellowLevel": "19"
       },
       {
         "move": "Acid",
         "redBlueLevel": "24",
+        "type": "Poison",
         "yellowLevel": "24"
       },
       {
         "move": "Petal Dance",
         "redBlueLevel": "33",
+        "type": "Grass",
         "yellowLevel": "33"
       },
       {
         "move": "Solar Beam",
         "redBlueLevel": "46",
+        "type": "Grass",
         "yellowLevel": "46"
       }
     ],
@@ -5252,36 +5849,43 @@ window.kantoReferenceData = {
       {
         "move": "Absorb",
         "redBlueLevel": "1",
+        "type": "Grass",
         "yellowLevel": "1"
       },
       {
         "move": "Poison Powder",
         "redBlueLevel": "15",
+        "type": "Poison",
         "yellowLevel": "15"
       },
       {
         "move": "Stun Spore",
         "redBlueLevel": "17",
+        "type": "Grass",
         "yellowLevel": "17"
       },
       {
         "move": "Sleep Powder",
         "redBlueLevel": "19",
+        "type": "Grass",
         "yellowLevel": "19"
       },
       {
         "move": "Acid",
         "redBlueLevel": "28",
+        "type": "Poison",
         "yellowLevel": "28"
       },
       {
         "move": "Petal Dance",
         "redBlueLevel": "38",
+        "type": "Grass",
         "yellowLevel": "38"
       },
       {
         "move": "Solar Beam",
         "redBlueLevel": "52",
+        "type": "Grass",
         "yellowLevel": "52"
       }
     ],
@@ -5298,26 +5902,31 @@ window.kantoReferenceData = {
       {
         "move": "Acid",
         "redBlueLevel": "1",
+        "type": "Poison",
         "yellowLevel": "1"
       },
       {
         "move": "Petal Dance",
         "redBlueLevel": "1",
+        "type": "Grass",
         "yellowLevel": "1"
       },
       {
         "move": "Poison Powder",
         "redBlueLevel": "15",
+        "type": "Poison",
         "yellowLevel": "15"
       },
       {
         "move": "Stun Spore",
         "redBlueLevel": "17",
+        "type": "Grass",
         "yellowLevel": "17"
       },
       {
         "move": "Sleep Powder",
         "redBlueLevel": "19",
+        "type": "Grass",
         "yellowLevel": "19"
       }
     ],
@@ -5353,31 +5962,37 @@ window.kantoReferenceData = {
       {
         "move": "Scratch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Stun Spore",
         "redBlueLevel": "13",
+        "type": "Grass",
         "yellowLevel": "13"
       },
       {
         "move": "Leech Life",
         "redBlueLevel": "20",
+        "type": "Bug",
         "yellowLevel": "20"
       },
       {
         "move": "Spore",
         "redBlueLevel": "27",
+        "type": "Grass",
         "yellowLevel": "27"
       },
       {
         "move": "Slash",
         "redBlueLevel": "34",
+        "type": "Normal",
         "yellowLevel": "34"
       },
       {
         "move": "Growth",
         "redBlueLevel": "41",
+        "type": "Normal",
         "yellowLevel": "41"
       }
     ],
@@ -5411,31 +6026,37 @@ window.kantoReferenceData = {
       {
         "move": "Scratch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Stun Spore",
         "redBlueLevel": "13",
+        "type": "Grass",
         "yellowLevel": "13"
       },
       {
         "move": "Leech Life",
         "redBlueLevel": "20",
+        "type": "Bug",
         "yellowLevel": "20"
       },
       {
         "move": "Spore",
         "redBlueLevel": "30",
+        "type": "Grass",
         "yellowLevel": "30"
       },
       {
         "move": "Slash",
         "redBlueLevel": "39",
+        "type": "Normal",
         "yellowLevel": "39"
       },
       {
         "move": "Growth",
         "redBlueLevel": "48",
+        "type": "Normal",
         "yellowLevel": "48"
       }
     ],
@@ -5473,51 +6094,61 @@ window.kantoReferenceData = {
       {
         "move": "Disable",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Poison Powder",
         "redBlueLevel": "24",
+        "type": "Poison",
         "yellowLevel": "22"
       },
       {
         "move": "Leech Life",
         "redBlueLevel": "27",
+        "type": "Bug",
         "yellowLevel": "27"
       },
       {
         "move": "Stun Spore",
         "redBlueLevel": "30",
+        "type": "Grass",
         "yellowLevel": "30"
       },
       {
         "move": "Psybeam",
         "redBlueLevel": "35",
+        "type": "Psychic",
         "yellowLevel": "35"
       },
       {
         "move": "Sleep Powder",
         "redBlueLevel": "38",
+        "type": "Grass",
         "yellowLevel": "38"
       },
       {
         "move": "Psychic",
         "redBlueLevel": "43",
+        "type": "Psychic",
         "yellowLevel": "43"
       },
       {
         "move": "Supersonic",
         "redBlueLevel": "-",
+        "type": "Normal",
         "yellowLevel": "11"
       },
       {
         "move": "Confusion",
         "redBlueLevel": "-",
+        "type": "Psychic",
         "yellowLevel": "19"
       }
     ],
@@ -5553,51 +6184,61 @@ window.kantoReferenceData = {
       {
         "move": "Disable",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Poison Powder",
         "redBlueLevel": "24",
+        "type": "Poison",
         "yellowLevel": "22"
       },
       {
         "move": "Leech Life",
         "redBlueLevel": "27",
+        "type": "Bug",
         "yellowLevel": "27"
       },
       {
         "move": "Stun Spore",
         "redBlueLevel": "30",
+        "type": "Grass",
         "yellowLevel": "30"
       },
       {
         "move": "Psybeam",
         "redBlueLevel": "38",
+        "type": "Psychic",
         "yellowLevel": "38"
       },
       {
         "move": "Sleep Powder",
         "redBlueLevel": "43",
+        "type": "Grass",
         "yellowLevel": "43"
       },
       {
         "move": "Psychic",
         "redBlueLevel": "50",
+        "type": "Psychic",
         "yellowLevel": "50"
       },
       {
         "move": "Confusion",
         "redBlueLevel": "-",
+        "type": "Psychic",
         "yellowLevel": "1"
       },
       {
         "move": "Supersonic",
         "redBlueLevel": "-",
+        "type": "Normal",
         "yellowLevel": "1"
       }
     ],
@@ -5614,41 +6255,49 @@ window.kantoReferenceData = {
       {
         "move": "Growl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Scratch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Ember",
         "redBlueLevel": "9",
+        "type": "Fire",
         "yellowLevel": "9"
       },
       {
         "move": "Leer",
         "redBlueLevel": "15",
+        "type": "Normal",
         "yellowLevel": "15"
       },
       {
         "move": "Rage",
         "redBlueLevel": "24",
+        "type": "Normal",
         "yellowLevel": "24"
       },
       {
         "move": "Slash",
         "redBlueLevel": "33",
+        "type": "Normal",
         "yellowLevel": "33"
       },
       {
         "move": "Flamethrower",
         "redBlueLevel": "42",
+        "type": "Fire",
         "yellowLevel": "42"
       },
       {
         "move": "Fire Spin",
         "redBlueLevel": "56",
+        "type": "Fire",
         "yellowLevel": "56"
       }
     ],
@@ -5678,31 +6327,37 @@ window.kantoReferenceData = {
       {
         "move": "Scratch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Growl",
         "redBlueLevel": "15",
+        "type": "Normal",
         "yellowLevel": "15"
       },
       {
         "move": "Dig",
         "redBlueLevel": "19",
+        "type": "Ground",
         "yellowLevel": "19"
       },
       {
         "move": "Sand Attack",
         "redBlueLevel": "24",
+        "type": "Ground",
         "yellowLevel": "24"
       },
       {
         "move": "Slash",
         "redBlueLevel": "31",
+        "type": "Normal",
         "yellowLevel": "31"
       },
       {
         "move": "Earthquake",
         "redBlueLevel": "40",
+        "type": "Ground",
         "yellowLevel": "40"
       }
     ],
@@ -5732,31 +6387,37 @@ window.kantoReferenceData = {
       {
         "move": "Scratch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Growl",
         "redBlueLevel": "15",
+        "type": "Normal",
         "yellowLevel": "15"
       },
       {
         "move": "Dig",
         "redBlueLevel": "19",
+        "type": "Ground",
         "yellowLevel": "19"
       },
       {
         "move": "Sand Attack",
         "redBlueLevel": "24",
+        "type": "Ground",
         "yellowLevel": "24"
       },
       {
         "move": "Slash",
         "redBlueLevel": "35",
+        "type": "Normal",
         "yellowLevel": "35"
       },
       {
         "move": "Earthquake",
         "redBlueLevel": "47",
+        "type": "Ground",
         "yellowLevel": "47"
       }
     ],
@@ -5783,36 +6444,43 @@ window.kantoReferenceData = {
       {
         "move": "Growl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Scratch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Bite",
         "redBlueLevel": "12",
+        "type": "Dark",
         "yellowLevel": "12"
       },
       {
         "move": "Pay Day",
         "redBlueLevel": "17",
+        "type": "Normal",
         "yellowLevel": "17"
       },
       {
         "move": "Screech",
         "redBlueLevel": "24",
+        "type": "Normal",
         "yellowLevel": "24"
       },
       {
         "move": "Fury Swipes",
         "redBlueLevel": "33",
+        "type": "Normal",
         "yellowLevel": "33"
       },
       {
         "move": "Slash",
         "redBlueLevel": "44",
+        "type": "Normal",
         "yellowLevel": "44"
       }
     ],
@@ -5829,36 +6497,43 @@ window.kantoReferenceData = {
       {
         "move": "Growl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Scratch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Bite",
         "redBlueLevel": "12",
+        "type": "Dark",
         "yellowLevel": "12"
       },
       {
         "move": "Pay Day",
         "redBlueLevel": "17",
+        "type": "Normal",
         "yellowLevel": "17"
       },
       {
         "move": "Screech",
         "redBlueLevel": "24",
+        "type": "Normal",
         "yellowLevel": "24"
       },
       {
         "move": "Fury Swipes",
         "redBlueLevel": "37",
+        "type": "Normal",
         "yellowLevel": "37"
       },
       {
         "move": "Slash",
         "redBlueLevel": "51",
+        "type": "Normal",
         "yellowLevel": "51"
       }
     ],
@@ -5899,31 +6574,37 @@ window.kantoReferenceData = {
       {
         "move": "Scratch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "28",
+        "type": "Normal",
         "yellowLevel": "28"
       },
       {
         "move": "Disable",
         "redBlueLevel": "31",
+        "type": "Normal",
         "yellowLevel": "31"
       },
       {
         "move": "Confusion",
         "redBlueLevel": "36",
+        "type": "Psychic",
         "yellowLevel": "36"
       },
       {
         "move": "Fury Swipes",
         "redBlueLevel": "43",
+        "type": "Normal",
         "yellowLevel": "43"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "52",
+        "type": "Water",
         "yellowLevel": "52"
       }
     ],
@@ -5955,31 +6636,37 @@ window.kantoReferenceData = {
       {
         "move": "Scratch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "28",
+        "type": "Normal",
         "yellowLevel": "28"
       },
       {
         "move": "Disable",
         "redBlueLevel": "31",
+        "type": "Normal",
         "yellowLevel": "31"
       },
       {
         "move": "Confusion",
         "redBlueLevel": "39",
+        "type": "Psychic",
         "yellowLevel": "39"
       },
       {
         "move": "Fury Swipes",
         "redBlueLevel": "48",
+        "type": "Normal",
         "yellowLevel": "48"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "59",
+        "type": "Water",
         "yellowLevel": "59"
       }
     ],
@@ -6015,46 +6702,55 @@ window.kantoReferenceData = {
       {
         "move": "Leer",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Scratch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Karate Chop",
         "redBlueLevel": "15",
+        "type": "Fighting",
         "yellowLevel": "15"
       },
       {
         "move": "Fury Swipes",
         "redBlueLevel": "21",
+        "type": "Normal",
         "yellowLevel": "21"
       },
       {
         "move": "Focus Energy",
         "redBlueLevel": "27",
+        "type": "Normal",
         "yellowLevel": "27"
       },
       {
         "move": "Seismic Toss",
         "redBlueLevel": "33",
+        "type": "Fighting",
         "yellowLevel": "33"
       },
       {
         "move": "Thrash",
         "redBlueLevel": "39",
+        "type": "Normal",
         "yellowLevel": "39"
       },
       {
         "move": "Low Kick",
         "redBlueLevel": "-",
+        "type": "Fighting",
         "yellowLevel": "9"
       },
       {
         "move": "Screech",
         "redBlueLevel": "-",
+        "type": "Normal",
         "yellowLevel": "45"
       }
     ],
@@ -6078,51 +6774,61 @@ window.kantoReferenceData = {
       {
         "move": "Leer",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Scratch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Karate Chop",
         "redBlueLevel": "15",
+        "type": "Fighting",
         "yellowLevel": "15"
       },
       {
         "move": "Fury Swipes",
         "redBlueLevel": "21",
+        "type": "Normal",
         "yellowLevel": "21"
       },
       {
         "move": "Focus Energy",
         "redBlueLevel": "27",
+        "type": "Normal",
         "yellowLevel": "27"
       },
       {
         "move": "Seismic Toss",
         "redBlueLevel": "37",
+        "type": "Fighting",
         "yellowLevel": "37"
       },
       {
         "move": "Thrash",
         "redBlueLevel": "46",
+        "type": "Normal",
         "yellowLevel": "46"
       },
       {
         "move": "Low Kick",
         "redBlueLevel": "-",
+        "type": "Fighting",
         "yellowLevel": "9"
       },
       {
         "move": "Rage",
         "redBlueLevel": "-",
+        "type": "Normal",
         "yellowLevel": "28"
       },
       {
         "move": "Screech",
         "redBlueLevel": "-",
+        "type": "Normal",
         "yellowLevel": "45"
       }
     ],
@@ -6157,36 +6863,43 @@ window.kantoReferenceData = {
       {
         "move": "Bite",
         "redBlueLevel": "1",
+        "type": "Dark",
         "yellowLevel": "1"
       },
       {
         "move": "Roar",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Ember",
         "redBlueLevel": "18",
+        "type": "Fire",
         "yellowLevel": "18"
       },
       {
         "move": "Leer",
         "redBlueLevel": "23",
+        "type": "Normal",
         "yellowLevel": "23"
       },
       {
         "move": "Take Down",
         "redBlueLevel": "30",
+        "type": "Normal",
         "yellowLevel": "30"
       },
       {
         "move": "Agility",
         "redBlueLevel": "39",
+        "type": "Psychic",
         "yellowLevel": "39"
       },
       {
         "move": "Flamethrower",
         "redBlueLevel": "50",
+        "type": "Fire",
         "yellowLevel": "50"
       }
     ],
@@ -6203,21 +6916,25 @@ window.kantoReferenceData = {
       {
         "move": "Ember",
         "redBlueLevel": "1",
+        "type": "Fire",
         "yellowLevel": "1"
       },
       {
         "move": "Leer",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Roar",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Take Down",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       }
     ],
@@ -6234,41 +6951,49 @@ window.kantoReferenceData = {
       {
         "move": "Growl",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Scratch",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Ember",
         "redBlueLevel": "9",
+        "type": "Fire",
         "yellowLevel": "9"
       },
       {
         "move": "Leer",
         "redBlueLevel": "15",
+        "type": "Normal",
         "yellowLevel": "15"
       },
       {
         "move": "Rage",
         "redBlueLevel": "24",
+        "type": "Normal",
         "yellowLevel": "24"
       },
       {
         "move": "Slash",
         "redBlueLevel": "36",
+        "type": "Normal",
         "yellowLevel": "36"
       },
       {
         "move": "Flamethrower",
         "redBlueLevel": "46",
+        "type": "Fire",
         "yellowLevel": "46"
       },
       {
         "move": "Fire Spin",
         "redBlueLevel": "55",
+        "type": "Fire",
         "yellowLevel": "55"
       }
     ],
@@ -6355,36 +7080,43 @@ window.kantoReferenceData = {
       {
         "move": "Bubble",
         "redBlueLevel": "1",
+        "type": "Water",
         "yellowLevel": "1"
       },
       {
         "move": "Hypnosis",
         "redBlueLevel": "16",
+        "type": "Psychic",
         "yellowLevel": "16"
       },
       {
         "move": "Water Gun",
         "redBlueLevel": "19",
+        "type": "Water",
         "yellowLevel": "19"
       },
       {
         "move": "Double Slap",
         "redBlueLevel": "25",
+        "type": "Normal",
         "yellowLevel": "25"
       },
       {
         "move": "Body Slam",
         "redBlueLevel": "31",
+        "type": "Normal",
         "yellowLevel": "31"
       },
       {
         "move": "Amnesia",
         "redBlueLevel": "38",
+        "type": "Psychic",
         "yellowLevel": "38"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "45",
+        "type": "Water",
         "yellowLevel": "45"
       }
     ],
@@ -6416,36 +7148,43 @@ window.kantoReferenceData = {
       {
         "move": "Bubble",
         "redBlueLevel": "1",
+        "type": "Water",
         "yellowLevel": "1"
       },
       {
         "move": "Hypnosis",
         "redBlueLevel": "16",
+        "type": "Psychic",
         "yellowLevel": "16"
       },
       {
         "move": "Water Gun",
         "redBlueLevel": "19",
+        "type": "Water",
         "yellowLevel": "19"
       },
       {
         "move": "Double Slap",
         "redBlueLevel": "26",
+        "type": "Normal",
         "yellowLevel": "26"
       },
       {
         "move": "Body Slam",
         "redBlueLevel": "33",
+        "type": "Normal",
         "yellowLevel": "33"
       },
       {
         "move": "Amnesia",
         "redBlueLevel": "41",
+        "type": "Psychic",
         "yellowLevel": "41"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "49",
+        "type": "Water",
         "yellowLevel": "49"
       }
     ],
@@ -6462,21 +7201,25 @@ window.kantoReferenceData = {
       {
         "move": "Body Slam",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Double Slap",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Hypnosis",
         "redBlueLevel": "16",
+        "type": "Psychic",
         "yellowLevel": "16"
       },
       {
         "move": "Water Gun",
         "redBlueLevel": "19",
+        "type": "Water",
         "yellowLevel": "19"
       }
     ],
@@ -6510,6 +7253,7 @@ window.kantoReferenceData = {
       {
         "move": "Teleport",
         "redBlueLevel": "1",
+        "type": "Psychic",
         "yellowLevel": "1"
       }
     ],
@@ -6540,41 +7284,49 @@ window.kantoReferenceData = {
       {
         "move": "Teleport",
         "redBlueLevel": "1",
+        "type": "Psychic",
         "yellowLevel": "1"
       },
       {
         "move": "Confusion",
         "redBlueLevel": "16",
+        "type": "Psychic",
         "yellowLevel": "16"
       },
       {
         "move": "Disable",
         "redBlueLevel": "20",
+        "type": "Normal",
         "yellowLevel": "20"
       },
       {
         "move": "Psybeam",
         "redBlueLevel": "27",
+        "type": "Psychic",
         "yellowLevel": "27"
       },
       {
         "move": "Recover",
         "redBlueLevel": "31",
+        "type": "Normal",
         "yellowLevel": "31"
       },
       {
         "move": "Psychic",
         "redBlueLevel": "38",
+        "type": "Psychic",
         "yellowLevel": "38"
       },
       {
         "move": "Reflect",
         "redBlueLevel": "42",
+        "type": "Psychic",
         "yellowLevel": "42"
       },
       {
         "move": "Kinesis",
         "redBlueLevel": "-",
+        "type": "Psychic",
         "yellowLevel": "1"
       }
     ],
@@ -6591,41 +7343,49 @@ window.kantoReferenceData = {
       {
         "move": "Teleport",
         "redBlueLevel": "1",
+        "type": "Psychic",
         "yellowLevel": "1"
       },
       {
         "move": "Confusion",
         "redBlueLevel": "16",
+        "type": "Psychic",
         "yellowLevel": "16"
       },
       {
         "move": "Disable",
         "redBlueLevel": "20",
+        "type": "Normal",
         "yellowLevel": "20"
       },
       {
         "move": "Psybeam",
         "redBlueLevel": "27",
+        "type": "Psychic",
         "yellowLevel": "27"
       },
       {
         "move": "Recover",
         "redBlueLevel": "31",
+        "type": "Normal",
         "yellowLevel": "31"
       },
       {
         "move": "Psychic",
         "redBlueLevel": "38",
+        "type": "Psychic",
         "yellowLevel": "38"
       },
       {
         "move": "Reflect",
         "redBlueLevel": "42",
+        "type": "Psychic",
         "yellowLevel": "42"
       },
       {
         "move": "Kinesis",
         "redBlueLevel": "-",
+        "type": "Psychic",
         "yellowLevel": "1"
       }
     ],
@@ -6661,31 +7421,37 @@ window.kantoReferenceData = {
       {
         "move": "Karate Chop",
         "redBlueLevel": "1",
+        "type": "Fighting",
         "yellowLevel": "1"
       },
       {
         "move": "Low Kick",
         "redBlueLevel": "20",
+        "type": "Fighting",
         "yellowLevel": "20"
       },
       {
         "move": "Leer",
         "redBlueLevel": "25",
+        "type": "Normal",
         "yellowLevel": "25"
       },
       {
         "move": "Focus Energy",
         "redBlueLevel": "32",
+        "type": "Normal",
         "yellowLevel": "32"
       },
       {
         "move": "Seismic Toss",
         "redBlueLevel": "39",
+        "type": "Fighting",
         "yellowLevel": "39"
       },
       {
         "move": "Submission",
         "redBlueLevel": "46",
+        "type": "Fighting",
         "yellowLevel": "46"
       }
     ],
@@ -6718,31 +7484,37 @@ window.kantoReferenceData = {
       {
         "move": "Karate Chop",
         "redBlueLevel": "1",
+        "type": "Fighting",
         "yellowLevel": "1"
       },
       {
         "move": "Low Kick",
         "redBlueLevel": "20",
+        "type": "Fighting",
         "yellowLevel": "20"
       },
       {
         "move": "Leer",
         "redBlueLevel": "25",
+        "type": "Normal",
         "yellowLevel": "25"
       },
       {
         "move": "Focus Energy",
         "redBlueLevel": "36",
+        "type": "Normal",
         "yellowLevel": "36"
       },
       {
         "move": "Seismic Toss",
         "redBlueLevel": "44",
+        "type": "Fighting",
         "yellowLevel": "44"
       },
       {
         "move": "Submission",
         "redBlueLevel": "52",
+        "type": "Fighting",
         "yellowLevel": "52"
       }
     ],
@@ -6759,31 +7531,37 @@ window.kantoReferenceData = {
       {
         "move": "Karate Chop",
         "redBlueLevel": "1",
+        "type": "Fighting",
         "yellowLevel": "1"
       },
       {
         "move": "Low Kick",
         "redBlueLevel": "20",
+        "type": "Fighting",
         "yellowLevel": "20"
       },
       {
         "move": "Leer",
         "redBlueLevel": "25",
+        "type": "Normal",
         "yellowLevel": "25"
       },
       {
         "move": "Focus Energy",
         "redBlueLevel": "36",
+        "type": "Normal",
         "yellowLevel": "36"
       },
       {
         "move": "Seismic Toss",
         "redBlueLevel": "44",
+        "type": "Fighting",
         "yellowLevel": "44"
       },
       {
         "move": "Submission",
         "redBlueLevel": "52",
+        "type": "Fighting",
         "yellowLevel": "52"
       }
     ],
@@ -6826,46 +7604,55 @@ window.kantoReferenceData = {
       {
         "move": "Growth",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Vine Whip",
         "redBlueLevel": "1",
+        "type": "Grass",
         "yellowLevel": "1"
       },
       {
         "move": "Wrap",
         "redBlueLevel": "13",
+        "type": "Normal",
         "yellowLevel": "13"
       },
       {
         "move": "Poison Powder",
         "redBlueLevel": "15",
+        "type": "Poison",
         "yellowLevel": "15"
       },
       {
         "move": "Sleep Powder",
         "redBlueLevel": "18",
+        "type": "Grass",
         "yellowLevel": "18"
       },
       {
         "move": "Stun Spore",
         "redBlueLevel": "21",
+        "type": "Grass",
         "yellowLevel": "21"
       },
       {
         "move": "Acid",
         "redBlueLevel": "26",
+        "type": "Poison",
         "yellowLevel": "26"
       },
       {
         "move": "Razor Leaf",
         "redBlueLevel": "33",
+        "type": "Grass",
         "yellowLevel": "33"
       },
       {
         "move": "Slam",
         "redBlueLevel": "42",
+        "type": "Normal",
         "yellowLevel": "42"
       }
     ],
@@ -6895,41 +7682,49 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Bubble",
         "redBlueLevel": "8",
+        "type": "Water",
         "yellowLevel": "8"
       },
       {
         "move": "Water Gun",
         "redBlueLevel": "15",
+        "type": "Water",
         "yellowLevel": "15"
       },
       {
         "move": "Bite",
         "redBlueLevel": "22",
+        "type": "Dark",
         "yellowLevel": "22"
       },
       {
         "move": "Withdraw",
         "redBlueLevel": "28",
+        "type": "Water",
         "yellowLevel": "28"
       },
       {
         "move": "Skull Bash",
         "redBlueLevel": "35",
+        "type": "Normal",
         "yellowLevel": "35"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "42",
+        "type": "Water",
         "yellowLevel": "42"
       }
     ],
@@ -6967,46 +7762,55 @@ window.kantoReferenceData = {
       {
         "move": "Growth",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Vine Whip",
         "redBlueLevel": "1",
+        "type": "Grass",
         "yellowLevel": "1"
       },
       {
         "move": "Wrap",
         "redBlueLevel": "13",
+        "type": "Normal",
         "yellowLevel": "13"
       },
       {
         "move": "Poison Powder",
         "redBlueLevel": "15",
+        "type": "Poison",
         "yellowLevel": "15"
       },
       {
         "move": "Sleep Powder",
         "redBlueLevel": "18",
+        "type": "Grass",
         "yellowLevel": "18"
       },
       {
         "move": "Stun Spore",
         "redBlueLevel": "23",
+        "type": "Grass",
         "yellowLevel": "23"
       },
       {
         "move": "Acid",
         "redBlueLevel": "29",
+        "type": "Poison",
         "yellowLevel": "29"
       },
       {
         "move": "Razor Leaf",
         "redBlueLevel": "38",
+        "type": "Grass",
         "yellowLevel": "38"
       },
       {
         "move": "Slam",
         "redBlueLevel": "49",
+        "type": "Normal",
         "yellowLevel": "49"
       }
     ],
@@ -7023,31 +7827,37 @@ window.kantoReferenceData = {
       {
         "move": "Acid",
         "redBlueLevel": "1",
+        "type": "Poison",
         "yellowLevel": "1"
       },
       {
         "move": "Razor Leaf",
         "redBlueLevel": "1",
+        "type": "Grass",
         "yellowLevel": "1"
       },
       {
         "move": "Stun Spore",
         "redBlueLevel": "1",
+        "type": "Grass",
         "yellowLevel": "1"
       },
       {
         "move": "Wrap",
         "redBlueLevel": "13",
+        "type": "Normal",
         "yellowLevel": "13"
       },
       {
         "move": "Poison Powder",
         "redBlueLevel": "15",
+        "type": "Poison",
         "yellowLevel": "15"
       },
       {
         "move": "Sleep Powder",
         "redBlueLevel": "18",
+        "type": "Grass",
         "yellowLevel": "18"
       }
     ],
@@ -7097,46 +7907,55 @@ window.kantoReferenceData = {
       {
         "move": "Acid",
         "redBlueLevel": "1",
+        "type": "Poison",
         "yellowLevel": "1"
       },
       {
         "move": "Supersonic",
         "redBlueLevel": "7",
+        "type": "Normal",
         "yellowLevel": "7"
       },
       {
         "move": "Wrap",
         "redBlueLevel": "13",
+        "type": "Normal",
         "yellowLevel": "13"
       },
       {
         "move": "Poison Sting",
         "redBlueLevel": "18",
+        "type": "Poison",
         "yellowLevel": "18"
       },
       {
         "move": "Water Gun",
         "redBlueLevel": "22",
+        "type": "Water",
         "yellowLevel": "22"
       },
       {
         "move": "Constrict",
         "redBlueLevel": "27",
+        "type": "Normal",
         "yellowLevel": "27"
       },
       {
         "move": "Barrier",
         "redBlueLevel": "33",
+        "type": "Psychic",
         "yellowLevel": "33"
       },
       {
         "move": "Screech",
         "redBlueLevel": "40",
+        "type": "Normal",
         "yellowLevel": "40"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "48",
+        "type": "Water",
         "yellowLevel": "48"
       }
     ],
@@ -7162,46 +7981,55 @@ window.kantoReferenceData = {
       {
         "move": "Acid",
         "redBlueLevel": "1",
+        "type": "Poison",
         "yellowLevel": "1"
       },
       {
         "move": "Supersonic",
         "redBlueLevel": "7",
+        "type": "Normal",
         "yellowLevel": "7"
       },
       {
         "move": "Wrap",
         "redBlueLevel": "13",
+        "type": "Normal",
         "yellowLevel": "13"
       },
       {
         "move": "Poison Sting",
         "redBlueLevel": "18",
+        "type": "Poison",
         "yellowLevel": "18"
       },
       {
         "move": "Water Gun",
         "redBlueLevel": "22",
+        "type": "Water",
         "yellowLevel": "22"
       },
       {
         "move": "Constrict",
         "redBlueLevel": "27",
+        "type": "Normal",
         "yellowLevel": "27"
       },
       {
         "move": "Barrier",
         "redBlueLevel": "35",
+        "type": "Psychic",
         "yellowLevel": "35"
       },
       {
         "move": "Screech",
         "redBlueLevel": "43",
+        "type": "Normal",
         "yellowLevel": "43"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "50",
+        "type": "Water",
         "yellowLevel": "50"
       }
     ],
@@ -7245,36 +8073,43 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Defense Curl",
         "redBlueLevel": "11",
+        "type": "Normal",
         "yellowLevel": "11"
       },
       {
         "move": "Rock Throw",
         "redBlueLevel": "16",
+        "type": "Rock",
         "yellowLevel": "16"
       },
       {
         "move": "Self Destruct",
         "redBlueLevel": "21",
+        "type": "Normal",
         "yellowLevel": "21"
       },
       {
         "move": "Harden",
         "redBlueLevel": "26",
+        "type": "Normal",
         "yellowLevel": "26"
       },
       {
         "move": "Earthquake",
         "redBlueLevel": "31",
+        "type": "Ground",
         "yellowLevel": "31"
       },
       {
         "move": "Explosion",
         "redBlueLevel": "36",
+        "type": "Normal",
         "yellowLevel": "36"
       }
     ],
@@ -7311,36 +8146,43 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Defense Curl",
         "redBlueLevel": "11",
+        "type": "Normal",
         "yellowLevel": "11"
       },
       {
         "move": "Rock Throw",
         "redBlueLevel": "16",
+        "type": "Rock",
         "yellowLevel": "16"
       },
       {
         "move": "Self Destruct",
         "redBlueLevel": "21",
+        "type": "Normal",
         "yellowLevel": "21"
       },
       {
         "move": "Harden",
         "redBlueLevel": "29",
+        "type": "Normal",
         "yellowLevel": "29"
       },
       {
         "move": "Earthquake",
         "redBlueLevel": "36",
+        "type": "Ground",
         "yellowLevel": "36"
       },
       {
         "move": "Explosion",
         "redBlueLevel": "43",
+        "type": "Normal",
         "yellowLevel": "43"
       }
     ],
@@ -7357,36 +8199,43 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Defense Curl",
         "redBlueLevel": "11",
+        "type": "Normal",
         "yellowLevel": "11"
       },
       {
         "move": "Rock Throw",
         "redBlueLevel": "16",
+        "type": "Rock",
         "yellowLevel": "16"
       },
       {
         "move": "Self Destruct",
         "redBlueLevel": "21",
+        "type": "Normal",
         "yellowLevel": "21"
       },
       {
         "move": "Harden",
         "redBlueLevel": "29",
+        "type": "Normal",
         "yellowLevel": "29"
       },
       {
         "move": "Earthquake",
         "redBlueLevel": "36",
+        "type": "Ground",
         "yellowLevel": "36"
       },
       {
         "move": "Explosion",
         "redBlueLevel": "43",
+        "type": "Normal",
         "yellowLevel": "43"
       }
     ],
@@ -7419,36 +8268,43 @@ window.kantoReferenceData = {
       {
         "move": "Ember",
         "redBlueLevel": "1",
+        "type": "Fire",
         "yellowLevel": "1"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "30",
+        "type": "Normal",
         "yellowLevel": "30"
       },
       {
         "move": "Stomp",
         "redBlueLevel": "32",
+        "type": "Normal",
         "yellowLevel": "32"
       },
       {
         "move": "Growl",
         "redBlueLevel": "35",
+        "type": "Normal",
         "yellowLevel": "35"
       },
       {
         "move": "Fire Spin",
         "redBlueLevel": "39",
+        "type": "Fire",
         "yellowLevel": "39"
       },
       {
         "move": "Take Down",
         "redBlueLevel": "43",
+        "type": "Normal",
         "yellowLevel": "43"
       },
       {
         "move": "Agility",
         "redBlueLevel": "48",
+        "type": "Psychic",
         "yellowLevel": "48"
       }
     ],
@@ -7465,36 +8321,43 @@ window.kantoReferenceData = {
       {
         "move": "Ember",
         "redBlueLevel": "1",
+        "type": "Fire",
         "yellowLevel": "1"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "30",
+        "type": "Normal",
         "yellowLevel": "30"
       },
       {
         "move": "Stomp",
         "redBlueLevel": "32",
+        "type": "Normal",
         "yellowLevel": "32"
       },
       {
         "move": "Growl",
         "redBlueLevel": "35",
+        "type": "Normal",
         "yellowLevel": "35"
       },
       {
         "move": "Fire Spin",
         "redBlueLevel": "39",
+        "type": "Fire",
         "yellowLevel": "39"
       },
       {
         "move": "Take Down",
         "redBlueLevel": "47",
+        "type": "Normal",
         "yellowLevel": "47"
       },
       {
         "move": "Agility",
         "redBlueLevel": "55",
+        "type": "Psychic",
         "yellowLevel": "55"
       }
     ],
@@ -7538,36 +8401,43 @@ window.kantoReferenceData = {
       {
         "move": "Confusion",
         "redBlueLevel": "1",
+        "type": "Psychic",
         "yellowLevel": "1"
       },
       {
         "move": "Disable",
         "redBlueLevel": "18",
+        "type": "Normal",
         "yellowLevel": "18"
       },
       {
         "move": "Headbutt",
         "redBlueLevel": "22",
+        "type": "Normal",
         "yellowLevel": "22"
       },
       {
         "move": "Growl",
         "redBlueLevel": "27",
+        "type": "Normal",
         "yellowLevel": "27"
       },
       {
         "move": "Water Gun",
         "redBlueLevel": "33",
+        "type": "Water",
         "yellowLevel": "33"
       },
       {
         "move": "Amnesia",
         "redBlueLevel": "40",
+        "type": "Psychic",
         "yellowLevel": "40"
       },
       {
         "move": "Psychic",
         "redBlueLevel": "48",
+        "type": "Psychic",
         "yellowLevel": "48"
       }
     ],
@@ -7584,41 +8454,49 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Bubble",
         "redBlueLevel": "8",
+        "type": "Water",
         "yellowLevel": "8"
       },
       {
         "move": "Water Gun",
         "redBlueLevel": "15",
+        "type": "Water",
         "yellowLevel": "15"
       },
       {
         "move": "Bite",
         "redBlueLevel": "24",
+        "type": "Dark",
         "yellowLevel": "24"
       },
       {
         "move": "Withdraw",
         "redBlueLevel": "31",
+        "type": "Water",
         "yellowLevel": "31"
       },
       {
         "move": "Skull Bash",
         "redBlueLevel": "39",
+        "type": "Normal",
         "yellowLevel": "39"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "47",
+        "type": "Water",
         "yellowLevel": "47"
       }
     ],
@@ -7655,41 +8533,49 @@ window.kantoReferenceData = {
       {
         "move": "Confusion",
         "redBlueLevel": "1",
+        "type": "Psychic",
         "yellowLevel": "1"
       },
       {
         "move": "Disable",
         "redBlueLevel": "18",
+        "type": "Normal",
         "yellowLevel": "18"
       },
       {
         "move": "Headbutt",
         "redBlueLevel": "22",
+        "type": "Normal",
         "yellowLevel": "22"
       },
       {
         "move": "Growl",
         "redBlueLevel": "27",
+        "type": "Normal",
         "yellowLevel": "27"
       },
       {
         "move": "Water Gun",
         "redBlueLevel": "33",
+        "type": "Water",
         "yellowLevel": "33"
       },
       {
         "move": "Withdraw",
         "redBlueLevel": "37",
+        "type": "Water",
         "yellowLevel": "37"
       },
       {
         "move": "Amnesia",
         "redBlueLevel": "44",
+        "type": "Psychic",
         "yellowLevel": "44"
       },
       {
         "move": "Psychic",
         "redBlueLevel": "55",
+        "type": "Psychic",
         "yellowLevel": "55"
       }
     ],
@@ -7720,36 +8606,43 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Sonic Boom",
         "redBlueLevel": "21",
+        "type": "Normal",
         "yellowLevel": "21"
       },
       {
         "move": "Thunder Shock",
         "redBlueLevel": "25",
+        "type": "Electric",
         "yellowLevel": "25"
       },
       {
         "move": "Supersonic",
         "redBlueLevel": "29",
+        "type": "Normal",
         "yellowLevel": "29"
       },
       {
         "move": "Thunder Wave",
         "redBlueLevel": "35",
+        "type": "Electric",
         "yellowLevel": "35"
       },
       {
         "move": "Swift",
         "redBlueLevel": "41",
+        "type": "Normal",
         "yellowLevel": "41"
       },
       {
         "move": "Screech",
         "redBlueLevel": "47",
+        "type": "Normal",
         "yellowLevel": "47"
       }
     ],
@@ -7780,36 +8673,43 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Sonic Boom",
         "redBlueLevel": "21",
+        "type": "Normal",
         "yellowLevel": "21"
       },
       {
         "move": "Thunder Shock",
         "redBlueLevel": "25",
+        "type": "Electric",
         "yellowLevel": "25"
       },
       {
         "move": "Supersonic",
         "redBlueLevel": "29",
+        "type": "Normal",
         "yellowLevel": "29"
       },
       {
         "move": "Thunder Wave",
         "redBlueLevel": "38",
+        "type": "Electric",
         "yellowLevel": "38"
       },
       {
         "move": "Swift",
         "redBlueLevel": "46",
+        "type": "Normal",
         "yellowLevel": "46"
       },
       {
         "move": "Screech",
         "redBlueLevel": "54",
+        "type": "Normal",
         "yellowLevel": "54"
       }
     ],
@@ -7834,36 +8734,43 @@ window.kantoReferenceData = {
       {
         "move": "Peck",
         "redBlueLevel": "1",
+        "type": "Flying",
         "yellowLevel": "1"
       },
       {
         "move": "Sand Attack",
         "redBlueLevel": "1",
+        "type": "Ground",
         "yellowLevel": "1"
       },
       {
         "move": "Leer",
         "redBlueLevel": "7",
+        "type": "Normal",
         "yellowLevel": "7"
       },
       {
         "move": "Fury Attack",
         "redBlueLevel": "15",
+        "type": "Normal",
         "yellowLevel": "15"
       },
       {
         "move": "Swords Dance",
         "redBlueLevel": "23",
+        "type": "Normal",
         "yellowLevel": "23"
       },
       {
         "move": "Agility",
         "redBlueLevel": "31",
+        "type": "Psychic",
         "yellowLevel": "31"
       },
       {
         "move": "Slash",
         "redBlueLevel": "39",
+        "type": "Normal",
         "yellowLevel": "39"
       }
     ],
@@ -7899,36 +8806,43 @@ window.kantoReferenceData = {
       {
         "move": "Peck",
         "redBlueLevel": "1",
+        "type": "Flying",
         "yellowLevel": "1"
       },
       {
         "move": "Growl",
         "redBlueLevel": "20",
+        "type": "Normal",
         "yellowLevel": "20"
       },
       {
         "move": "Fury Attack",
         "redBlueLevel": "24",
+        "type": "Normal",
         "yellowLevel": "24"
       },
       {
         "move": "Drill Peck",
         "redBlueLevel": "30",
+        "type": "Flying",
         "yellowLevel": "30"
       },
       {
         "move": "Rage",
         "redBlueLevel": "36",
+        "type": "Normal",
         "yellowLevel": "36"
       },
       {
         "move": "Tri Attack",
         "redBlueLevel": "40",
+        "type": "Normal",
         "yellowLevel": "40"
       },
       {
         "move": "Agility",
         "redBlueLevel": "44",
+        "type": "Psychic",
         "yellowLevel": "44"
       }
     ],
@@ -7959,36 +8873,43 @@ window.kantoReferenceData = {
       {
         "move": "Peck",
         "redBlueLevel": "1",
+        "type": "Flying",
         "yellowLevel": "1"
       },
       {
         "move": "Growl",
         "redBlueLevel": "20",
+        "type": "Normal",
         "yellowLevel": "20"
       },
       {
         "move": "Fury Attack",
         "redBlueLevel": "24",
+        "type": "Normal",
         "yellowLevel": "24"
       },
       {
         "move": "Drill Peck",
         "redBlueLevel": "30",
+        "type": "Flying",
         "yellowLevel": "30"
       },
       {
         "move": "Rage",
         "redBlueLevel": "39",
+        "type": "Normal",
         "yellowLevel": "39"
       },
       {
         "move": "Tri Attack",
         "redBlueLevel": "45",
+        "type": "Normal",
         "yellowLevel": "45"
       },
       {
         "move": "Agility",
         "redBlueLevel": "51",
+        "type": "Psychic",
         "yellowLevel": "51"
       }
     ],
@@ -8025,31 +8946,37 @@ window.kantoReferenceData = {
       {
         "move": "Headbutt",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Growl",
         "redBlueLevel": "30",
+        "type": "Normal",
         "yellowLevel": "30"
       },
       {
         "move": "Aurora Beam",
         "redBlueLevel": "35",
+        "type": "Ice",
         "yellowLevel": "35"
       },
       {
         "move": "Rest",
         "redBlueLevel": "40",
+        "type": "Psychic",
         "yellowLevel": "40"
       },
       {
         "move": "Take Down",
         "redBlueLevel": "45",
+        "type": "Normal",
         "yellowLevel": "45"
       },
       {
         "move": "Ice Beam",
         "redBlueLevel": "50",
+        "type": "Ice",
         "yellowLevel": "50"
       }
     ],
@@ -8081,31 +9008,37 @@ window.kantoReferenceData = {
       {
         "move": "Headbutt",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Growl",
         "redBlueLevel": "30",
+        "type": "Normal",
         "yellowLevel": "30"
       },
       {
         "move": "Aurora Beam",
         "redBlueLevel": "35",
+        "type": "Ice",
         "yellowLevel": "35"
       },
       {
         "move": "Rest",
         "redBlueLevel": "44",
+        "type": "Psychic",
         "yellowLevel": "44"
       },
       {
         "move": "Take Down",
         "redBlueLevel": "50",
+        "type": "Normal",
         "yellowLevel": "50"
       },
       {
         "move": "Ice Beam",
         "redBlueLevel": "56",
+        "type": "Ice",
         "yellowLevel": "56"
       }
     ],
@@ -8142,41 +9075,49 @@ window.kantoReferenceData = {
       {
         "move": "Disable",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Pound",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Poison Gas",
         "redBlueLevel": "30",
+        "type": "Poison",
         "yellowLevel": "30"
       },
       {
         "move": "Minimize",
         "redBlueLevel": "33",
+        "type": "Normal",
         "yellowLevel": "33"
       },
       {
         "move": "Sludge",
         "redBlueLevel": "37",
+        "type": "Poison",
         "yellowLevel": "37"
       },
       {
         "move": "Harden",
         "redBlueLevel": "42",
+        "type": "Normal",
         "yellowLevel": "42"
       },
       {
         "move": "Screech",
         "redBlueLevel": "48",
+        "type": "Normal",
         "yellowLevel": "48"
       },
       {
         "move": "Acid Armor",
         "redBlueLevel": "55",
+        "type": "Poison",
         "yellowLevel": "55"
       }
     ],
@@ -8212,41 +9153,49 @@ window.kantoReferenceData = {
       {
         "move": "Disable",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Pound",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Poison Gas",
         "redBlueLevel": "30",
+        "type": "Poison",
         "yellowLevel": "30"
       },
       {
         "move": "Minimize",
         "redBlueLevel": "33",
+        "type": "Normal",
         "yellowLevel": "33"
       },
       {
         "move": "Sludge",
         "redBlueLevel": "37",
+        "type": "Poison",
         "yellowLevel": "37"
       },
       {
         "move": "Harden",
         "redBlueLevel": "45",
+        "type": "Normal",
         "yellowLevel": "45"
       },
       {
         "move": "Screech",
         "redBlueLevel": "53",
+        "type": "Normal",
         "yellowLevel": "53"
       },
       {
         "move": "Acid Armor",
         "redBlueLevel": "60",
+        "type": "Poison",
         "yellowLevel": "60"
       }
     ],
@@ -8263,41 +9212,49 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tail Whip",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Bubble",
         "redBlueLevel": "8",
+        "type": "Water",
         "yellowLevel": "8"
       },
       {
         "move": "Water Gun",
         "redBlueLevel": "15",
+        "type": "Water",
         "yellowLevel": "15"
       },
       {
         "move": "Bite",
         "redBlueLevel": "24",
+        "type": "Dark",
         "yellowLevel": "24"
       },
       {
         "move": "Withdraw",
         "redBlueLevel": "31",
+        "type": "Water",
         "yellowLevel": "31"
       },
       {
         "move": "Skull Bash",
         "redBlueLevel": "42",
+        "type": "Normal",
         "yellowLevel": "42"
       },
       {
         "move": "Hydro Pump",
         "redBlueLevel": "52",
+        "type": "Water",
         "yellowLevel": "52"
       }
     ],
@@ -8341,36 +9298,43 @@ window.kantoReferenceData = {
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Withdraw",
         "redBlueLevel": "1",
+        "type": "Water",
         "yellowLevel": "1"
       },
       {
         "move": "Supersonic",
         "redBlueLevel": "18",
+        "type": "Normal",
         "yellowLevel": "18"
       },
       {
         "move": "Clamp",
         "redBlueLevel": "23",
+        "type": "Water",
         "yellowLevel": "23"
       },
       {
         "move": "Aurora Beam",
         "redBlueLevel": "30",
+        "type": "Ice",
         "yellowLevel": "30"
       },
       {
         "move": "Leer",
         "redBlueLevel": "39",
+        "type": "Normal",
         "yellowLevel": "39"
       },
       {
         "move": "Ice Beam",
         "redBlueLevel": "50",
+        "type": "Ice",
         "yellowLevel": "50"
       }
     ],
@@ -8387,26 +9351,31 @@ window.kantoReferenceData = {
       {
         "move": "Aurora Beam",
         "redBlueLevel": "1",
+        "type": "Ice",
         "yellowLevel": "1"
       },
       {
         "move": "Clamp",
         "redBlueLevel": "1",
+        "type": "Water",
         "yellowLevel": "1"
       },
       {
         "move": "Supersonic",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Withdraw",
         "redBlueLevel": "1",
+        "type": "Water",
         "yellowLevel": "1"
       },
       {
         "move": "Spike Cannon",
         "redBlueLevel": "50",
+        "type": "Normal",
         "yellowLevel": "50"
       }
     ],
@@ -8444,26 +9413,31 @@ window.kantoReferenceData = {
       {
         "move": "Confuse Ray",
         "redBlueLevel": "1",
+        "type": "Ghost",
         "yellowLevel": "1"
       },
       {
         "move": "Lick",
         "redBlueLevel": "1",
+        "type": "Ghost",
         "yellowLevel": "1"
       },
       {
         "move": "Night Shade",
         "redBlueLevel": "1",
+        "type": "Ghost",
         "yellowLevel": "1"
       },
       {
         "move": "Hypnosis",
         "redBlueLevel": "27",
+        "type": "Psychic",
         "yellowLevel": "27"
       },
       {
         "move": "Dream Eater",
         "redBlueLevel": "35",
+        "type": "Psychic",
         "yellowLevel": "35"
       }
     ],
@@ -8501,26 +9475,31 @@ window.kantoReferenceData = {
       {
         "move": "Confuse Ray",
         "redBlueLevel": "1",
+        "type": "Ghost",
         "yellowLevel": "1"
       },
       {
         "move": "Lick",
         "redBlueLevel": "1",
+        "type": "Ghost",
         "yellowLevel": "1"
       },
       {
         "move": "Night Shade",
         "redBlueLevel": "1",
+        "type": "Ghost",
         "yellowLevel": "1"
       },
       {
         "move": "Hypnosis",
         "redBlueLevel": "29",
+        "type": "Psychic",
         "yellowLevel": "29"
       },
       {
         "move": "Dream Eater",
         "redBlueLevel": "38",
+        "type": "Psychic",
         "yellowLevel": "38"
       }
     ],
@@ -8537,26 +9516,31 @@ window.kantoReferenceData = {
       {
         "move": "Confuse Ray",
         "redBlueLevel": "1",
+        "type": "Ghost",
         "yellowLevel": "1"
       },
       {
         "move": "Lick",
         "redBlueLevel": "1",
+        "type": "Ghost",
         "yellowLevel": "1"
       },
       {
         "move": "Night Shade",
         "redBlueLevel": "1",
+        "type": "Ghost",
         "yellowLevel": "1"
       },
       {
         "move": "Hypnosis",
         "redBlueLevel": "29",
+        "type": "Psychic",
         "yellowLevel": "29"
       },
       {
         "move": "Dream Eater",
         "redBlueLevel": "38",
+        "type": "Psychic",
         "yellowLevel": "38"
       }
     ],
@@ -8593,36 +9577,43 @@ window.kantoReferenceData = {
       {
         "move": "Screech",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Tackle",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Bind",
         "redBlueLevel": "15",
+        "type": "Normal",
         "yellowLevel": "15"
       },
       {
         "move": "Rock Throw",
         "redBlueLevel": "19",
+        "type": "Rock",
         "yellowLevel": "19"
       },
       {
         "move": "Rage",
         "redBlueLevel": "25",
+        "type": "Normal",
         "yellowLevel": "25"
       },
       {
         "move": "Slam",
         "redBlueLevel": "33",
+        "type": "Normal",
         "yellowLevel": "33"
       },
       {
         "move": "Harden",
         "redBlueLevel": "43",
+        "type": "Normal",
         "yellowLevel": "43"
       }
     ],
@@ -8652,41 +9643,49 @@ window.kantoReferenceData = {
       {
         "move": "Hypnosis",
         "redBlueLevel": "1",
+        "type": "Psychic",
         "yellowLevel": "1"
       },
       {
         "move": "Pound",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Disable",
         "redBlueLevel": "12",
+        "type": "Normal",
         "yellowLevel": "12"
       },
       {
         "move": "Confusion",
         "redBlueLevel": "17",
+        "type": "Psychic",
         "yellowLevel": "17"
       },
       {
         "move": "Headbutt",
         "redBlueLevel": "24",
+        "type": "Normal",
         "yellowLevel": "24"
       },
       {
         "move": "Poison Gas",
         "redBlueLevel": "29",
+        "type": "Poison",
         "yellowLevel": "29"
       },
       {
         "move": "Psychic",
         "redBlueLevel": "32",
+        "type": "Psychic",
         "yellowLevel": "32"
       },
       {
         "move": "Meditate",
         "redBlueLevel": "37",
+        "type": "Psychic",
         "yellowLevel": "37"
       }
     ],
@@ -8710,41 +9709,49 @@ window.kantoReferenceData = {
       {
         "move": "Hypnosis",
         "redBlueLevel": "1",
+        "type": "Psychic",
         "yellowLevel": "1"
       },
       {
         "move": "Pound",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Disable",
         "redBlueLevel": "12",
+        "type": "Normal",
         "yellowLevel": "12"
       },
       {
         "move": "Confusion",
         "redBlueLevel": "17",
+        "type": "Psychic",
         "yellowLevel": "17"
       },
       {
         "move": "Headbutt",
         "redBlueLevel": "24",
+        "type": "Normal",
         "yellowLevel": "24"
       },
       {
         "move": "Poison Gas",
         "redBlueLevel": "33",
+        "type": "Poison",
         "yellowLevel": "33"
       },
       {
         "move": "Psychic",
         "redBlueLevel": "37",
+        "type": "Psychic",
         "yellowLevel": "37"
       },
       {
         "move": "Meditate",
         "redBlueLevel": "43",
+        "type": "Psychic",
         "yellowLevel": "43"
       }
     ],
@@ -8800,36 +9807,43 @@ window.kantoReferenceData = {
       {
         "move": "Bubble",
         "redBlueLevel": "1",
+        "type": "Water",
         "yellowLevel": "1"
       },
       {
         "move": "Leer",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Vice Grip",
         "redBlueLevel": "20",
+        "type": "Normal",
         "yellowLevel": "20"
       },
       {
         "move": "Guillotine",
         "redBlueLevel": "25",
+        "type": "Normal",
         "yellowLevel": "25"
       },
       {
         "move": "Stomp",
         "redBlueLevel": "30",
+        "type": "Normal",
         "yellowLevel": "30"
       },
       {
         "move": "Crabhammer",
         "redBlueLevel": "35",
+        "type": "Water",
         "yellowLevel": "35"
       },
       {
         "move": "Harden",
         "redBlueLevel": "40",
+        "type": "Normal",
         "yellowLevel": "40"
       }
     ],
@@ -8868,36 +9882,43 @@ window.kantoReferenceData = {
       {
         "move": "Bubble",
         "redBlueLevel": "1",
+        "type": "Water",
         "yellowLevel": "1"
       },
       {
         "move": "Leer",
         "redBlueLevel": "1",
+        "type": "Normal",
         "yellowLevel": "1"
       },
       {
         "move": "Vice Grip",
         "redBlueLevel": "20",
+        "type": "Normal",
         "yellowLevel": "20"
       },
       {
         "move": "Guillotine",
         "redBlueLevel": "25",
+        "type": "Normal",
         "yellowLevel": "25"
       },
       {
         "move": "Stomp",
         "redBlueLevel": "34",
+        "type": "Normal",
         "yellowLevel": "34"
       },
       {
         "move": "Crabhammer",
         "redBlueLevel": "42",
+        "type": "Water",
         "yellowLevel": "42"
       },
       {
         "move": "Harden",
         "redBlueLevel": "49",
+        "type": "Normal",
         "yellowLevel": "49"
       }
     ],
