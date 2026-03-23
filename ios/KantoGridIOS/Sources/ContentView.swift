@@ -23,6 +23,7 @@ struct ContentView: View {
                         VStack(alignment: .leading, spacing: 22) {
                             heroSection
                             typeStrip
+                            resultsSummary
                             pokemonList
                         }
                         .frame(maxWidth: .infinity, alignment: .leading)
@@ -105,14 +106,33 @@ struct ContentView: View {
     }
 
     private var pokemonList: some View {
-        LazyVStack(spacing: 14) {
-            ForEach(filteredPokemon) { pokemon in
-                NavigationLink {
-                    PokemonDetailView(pokemon: pokemon)
-                } label: {
-                    PokemonCard(pokemon: pokemon)
+        Group {
+            if filteredPokemon.isEmpty {
+                InfoCard(
+                    title: "No Matches",
+                    text: "Try a broader search or switch the current type filter. Search covers names, routes, Pokédex text, and move names."
+                )
+            } else {
+                LazyVStack(spacing: 14) {
+                    ForEach(filteredPokemon) { pokemon in
+                        NavigationLink {
+                            PokemonDetailView(pokemon: pokemon)
+                        } label: {
+                            PokemonCard(pokemon: pokemon)
+                        }
+                        .buttonStyle(.plain)
+                    }
                 }
-                .buttonStyle(.plain)
+            }
+        }
+    }
+
+    private var resultsSummary: some View {
+        HStack(spacing: 12) {
+            StatBadge(title: "Showing", value: "\(filteredPokemon.count)")
+            StatBadge(title: "Type", value: selectedType)
+            if !store.searchText.isEmpty {
+                StatBadge(title: "Search", value: "\"\(store.searchText)\"")
             }
         }
     }
@@ -121,6 +141,7 @@ struct ContentView: View {
 struct PokemonDetailView: View {
     let pokemon: Pokemon
     @State private var selectedSection: DetailSection = .overview
+    @State private var expandedMoveID: String?
 
     var body: some View {
         ZStack {
@@ -266,18 +287,19 @@ struct PokemonDetailView: View {
 
     private var movesSection: some View {
         VStack(alignment: .leading, spacing: 12) {
-            ForEach(pokemon.reference.learnset) { move in
-                HStack(spacing: 12) {
-                    Text(move.move)
-                        .font(.body.weight(.semibold))
-                        .foregroundStyle(.white)
-                    Spacer()
-                    moveLevelBadge(title: "RB", value: move.redBlueLevel)
-                    moveLevelBadge(title: "Y", value: move.yellowLevel)
+            if pokemon.reference.learnset.isEmpty {
+                InfoCard(title: "Moves", text: "No level-up move data was loaded for this Pokémon.")
+            } else {
+                ForEach(pokemon.reference.learnset) { move in
+                    MoveCard(
+                        move: move,
+                        isExpanded: expandedMoveID == move.id
+                    ) {
+                        withAnimation(.spring(response: 0.28, dampingFraction: 0.82)) {
+                            expandedMoveID = expandedMoveID == move.id ? nil : move.id
+                        }
+                    }
                 }
-                .padding(14)
-                .background(Color.white.opacity(0.05))
-                .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
             }
         }
     }
@@ -365,6 +387,112 @@ struct InfoCard: View {
 
     var body: some View {
         bodyView
+    }
+}
+
+struct MoveCard: View {
+    let move: MoveEntry
+    let isExpanded: Bool
+    let action: () -> Void
+
+    var body: some View {
+        Button(action: action) {
+            VStack(alignment: .leading, spacing: 12) {
+                HStack(alignment: .center, spacing: 12) {
+                    VStack(alignment: .leading, spacing: 8) {
+                        Text(move.move)
+                            .font(.body.weight(.semibold))
+                            .foregroundStyle(.white)
+
+                        HStack(spacing: 8) {
+                            if let type = move.type {
+                                Text(type)
+                                    .font(.caption.weight(.bold))
+                                    .padding(.horizontal, 10)
+                                    .padding(.vertical, 6)
+                                    .background(typeColor(type).opacity(0.18))
+                                    .foregroundStyle(typeColor(type))
+                                    .clipShape(Capsule())
+                            }
+
+                            Text(move.powerLabel)
+                                .font(.caption.weight(.bold))
+                                .foregroundStyle(.cyan)
+                        }
+                    }
+
+                    Spacer(minLength: 8)
+
+                    HStack(spacing: 8) {
+                        MoveLevelBadge(title: "RB", value: move.redBlueLevel)
+                        MoveLevelBadge(title: "Y", value: move.yellowLevel)
+                    }
+                }
+
+                if isExpanded {
+                    VStack(alignment: .leading, spacing: 10) {
+                        HStack(spacing: 8) {
+                            if let damageClass = move.damageClass {
+                                MoveFactChip(text: damageClass)
+                            }
+
+                            if let accuracyLabel = move.accuracyLabel {
+                                MoveFactChip(text: accuracyLabel)
+                            }
+                        }
+
+                        if let effect = move.effect, !effect.isEmpty {
+                            Text(effect)
+                                .font(.subheadline)
+                                .foregroundStyle(.white.opacity(0.82))
+                                .frame(maxWidth: .infinity, alignment: .leading)
+                        }
+                    }
+                    .transition(.move(edge: .top).combined(with: .opacity))
+                }
+            }
+            .padding(14)
+            .background(Color.white.opacity(isExpanded ? 0.08 : 0.05))
+            .clipShape(RoundedRectangle(cornerRadius: 18, style: .continuous))
+            .overlay(
+                RoundedRectangle(cornerRadius: 18, style: .continuous)
+                    .stroke(isExpanded ? typeColor(move.type ?? "Normal").opacity(0.35) : .white.opacity(0.08), lineWidth: 1)
+            )
+        }
+        .buttonStyle(.plain)
+    }
+}
+
+struct MoveFactChip: View {
+    let text: String
+
+    var body: some View {
+        Text(text)
+            .font(.caption.weight(.bold))
+            .foregroundStyle(.white.opacity(0.88))
+            .padding(.horizontal, 10)
+            .padding(.vertical, 7)
+            .background(Color.black.opacity(0.24))
+            .clipShape(Capsule())
+    }
+}
+
+struct MoveLevelBadge: View {
+    let title: String
+    let value: String
+
+    var body: some View {
+        VStack(spacing: 4) {
+            Text(title)
+                .font(.caption2.weight(.bold))
+                .foregroundStyle(.cyan)
+            Text(value)
+                .font(.caption.weight(.bold))
+                .foregroundStyle(.white)
+        }
+        .frame(width: 42, height: 42)
+        .background(Color.black.opacity(0.28))
+        .clipShape(RoundedRectangle(cornerRadius: 12, style: .continuous))
     }
 }
 
@@ -516,10 +644,27 @@ struct EncounterGroup: Decodable, Identifiable {
 
 struct MoveEntry: Decodable, Identifiable {
     let move: String
+    let type: String?
+    let damageClass: String?
+    let power: Int?
+    let accuracy: Int?
+    let effect: String?
     let redBlueLevel: String
     let yellowLevel: String
 
     var id: String { move }
+
+    var powerLabel: String {
+        if let power {
+            return "Power \(power)"
+        }
+        return "Status"
+    }
+
+    var accuracyLabel: String? {
+        guard let accuracy else { return nil }
+        return "\(accuracy)% acc"
+    }
 }
 
 func typeColor(_ type: String) -> Color {
