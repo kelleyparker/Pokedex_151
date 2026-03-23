@@ -16,55 +16,91 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Status",
+        "effect": "Seeds the target, stealing HP from it every turn.",
         "move": "Leech Seed",
+        "power": null,
         "redBlueLevel": "7",
         "type": "Grass",
         "yellowLevel": "7"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Vine Whip",
+        "power": 45,
         "redBlueLevel": "13",
         "type": "Grass",
         "yellowLevel": "13"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Poisons the target.",
         "move": "Poison Powder",
+        "power": null,
         "redBlueLevel": "20",
         "type": "Poison",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 95,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Razor Leaf",
+        "power": 55,
         "redBlueLevel": "27",
         "type": "Grass",
         "yellowLevel": "27"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Attack and Special Attack by one stage.",
         "move": "Growth",
+        "power": null,
         "redBlueLevel": "34",
         "type": "Normal",
         "yellowLevel": "34"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sleep Powder",
+        "power": null,
         "redBlueLevel": "41",
         "type": "Grass",
         "yellowLevel": "41"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Requires a turn to charge before attacking.",
         "move": "Solar Beam",
+        "power": 120,
         "redBlueLevel": "48",
         "type": "Grass",
         "yellowLevel": "48"
@@ -97,13 +133,21 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 95,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Speed by two stages.",
         "move": "String Shot",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Bug",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
@@ -134,43 +178,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 85,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by two stages.",
         "move": "Screech",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Special",
+        "effect": "Inflicts 20 points of damage.",
         "move": "Sonic Boom",
+        "power": null,
         "redBlueLevel": "17",
         "type": "Normal",
         "yellowLevel": "17"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User faints.",
         "move": "Self Destruct",
+        "power": 200,
         "redBlueLevel": "22",
         "type": "Normal",
         "yellowLevel": "22"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Reduces damage from special attacks by 50% for five turns.",
         "move": "Light Screen",
+        "power": null,
         "redBlueLevel": "29",
         "type": "Psychic",
         "yellowLevel": "29"
       },
       {
+        "accuracy": null,
+        "damageClass": "Special",
+        "effect": "Never misses.",
         "move": "Swift",
+        "power": 60,
         "redBlueLevel": "36",
         "type": "Normal",
         "yellowLevel": "36"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User faints.",
         "move": "Explosion",
+        "power": 250,
         "redBlueLevel": "43",
         "type": "Normal",
         "yellowLevel": "43"
@@ -202,43 +274,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 85,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by two stages.",
         "move": "Screech",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Special",
+        "effect": "Inflicts 20 points of damage.",
         "move": "Sonic Boom",
+        "power": null,
         "redBlueLevel": "17",
         "type": "Normal",
         "yellowLevel": "17"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User faints.",
         "move": "Self Destruct",
+        "power": 200,
         "redBlueLevel": "22",
         "type": "Normal",
         "yellowLevel": "22"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Reduces damage from special attacks by 50% for five turns.",
         "move": "Light Screen",
+        "power": null,
         "redBlueLevel": "29",
         "type": "Psychic",
         "yellowLevel": "29"
       },
       {
+        "accuracy": null,
+        "damageClass": "Special",
+        "effect": "Never misses.",
         "move": "Swift",
+        "power": 60,
         "redBlueLevel": "40",
         "type": "Normal",
         "yellowLevel": "40"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User faints.",
         "move": "Explosion",
+        "power": 250,
         "redBlueLevel": "50",
         "type": "Normal",
         "yellowLevel": "50"
@@ -274,49 +374,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Barrage",
+        "power": 15,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 60,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Hypnosis",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Psychic",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Reduces damage from physical attacks by half.",
         "move": "Reflect",
+        "power": null,
         "redBlueLevel": "25",
         "type": "Psychic",
         "yellowLevel": "25"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Status",
+        "effect": "Seeds the target, stealing HP from it every turn.",
         "move": "Leech Seed",
+        "power": null,
         "redBlueLevel": "28",
         "type": "Grass",
         "yellowLevel": "28"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Stun Spore",
+        "power": null,
         "redBlueLevel": "32",
         "type": "Grass",
         "yellowLevel": "32"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Poisons the target.",
         "move": "Poison Powder",
+        "power": null,
         "redBlueLevel": "37",
         "type": "Poison",
         "yellowLevel": "37"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Requires a turn to charge before attacking.",
         "move": "Solar Beam",
+        "power": 120,
         "redBlueLevel": "42",
         "type": "Grass",
         "yellowLevel": "42"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sleep Powder",
+        "power": null,
         "redBlueLevel": "48",
         "type": "Grass",
         "yellowLevel": "48"
@@ -333,19 +465,31 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Barrage",
+        "power": 15,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 60,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Hypnosis",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Psychic",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Stomp",
+        "power": 65,
         "redBlueLevel": "28",
         "type": "Normal",
         "yellowLevel": "28"
@@ -384,55 +528,91 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bone Club",
+        "power": 65,
         "redBlueLevel": "1",
         "type": "Ground",
         "yellowLevel": "10"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "25",
         "type": "Normal",
         "yellowLevel": "25"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Increases the user\u2019s chance to score a critical hit.",
         "move": "Focus Energy",
+        "power": null,
         "redBlueLevel": "31",
         "type": "Normal",
         "yellowLevel": "31"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Hits every turn for 2-3 turns, then confuses the user.",
         "move": "Thrash",
+        "power": 120,
         "redBlueLevel": "38",
         "type": "Normal",
         "yellowLevel": "38"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Hits twice in one turn.",
         "move": "Bonemerang",
+        "power": 50,
         "redBlueLevel": "43",
         "type": "Ground",
         "yellowLevel": "43"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "If the user is hit after using this move, its Attack rises by one stage.",
         "move": "Rage",
+        "power": 20,
         "redBlueLevel": "46",
         "type": "Normal",
         "yellowLevel": "46"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "-",
         "type": "Normal",
         "yellowLevel": "13"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Headbutt",
+        "power": 70,
         "redBlueLevel": "-",
         "type": "Normal",
         "yellowLevel": "18"
@@ -466,55 +646,91 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bone Club",
+        "power": 65,
         "redBlueLevel": "1",
         "type": "Ground",
         "yellowLevel": "10"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "-"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "25",
         "type": "Normal",
         "yellowLevel": "25"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Increases the user\u2019s chance to score a critical hit.",
         "move": "Focus Energy",
+        "power": null,
         "redBlueLevel": "33",
         "type": "Normal",
         "yellowLevel": "33"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Hits every turn for 2-3 turns, then confuses the user.",
         "move": "Thrash",
+        "power": 120,
         "redBlueLevel": "41",
         "type": "Normal",
         "yellowLevel": "41"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Hits twice in one turn.",
         "move": "Bonemerang",
+        "power": 50,
         "redBlueLevel": "48",
         "type": "Ground",
         "yellowLevel": "48"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "If the user is hit after using this move, its Attack rises by one stage.",
         "move": "Rage",
+        "power": 20,
         "redBlueLevel": "55",
         "type": "Normal",
         "yellowLevel": "55"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "-",
         "type": "Normal",
         "yellowLevel": "13"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Headbutt",
+        "power": 70,
         "redBlueLevel": "-",
         "type": "Normal",
         "yellowLevel": "18"
@@ -544,43 +760,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Hits twice in one turn.",
         "move": "Double Kick",
+        "power": 30,
         "redBlueLevel": "1",
         "type": "Fighting",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Attack by one stage.",
         "move": "Meditate",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Psychic",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Rolling Kick",
+        "power": 60,
         "redBlueLevel": "33",
         "type": "Fighting",
         "yellowLevel": "33"
       },
       {
+        "accuracy": 95,
+        "damageClass": "Physical",
+        "effect": "If the user misses, it takes half the damage it would have inflicted in recoil.",
         "move": "Jump Kick",
+        "power": 100,
         "redBlueLevel": "38",
         "type": "Fighting",
         "yellowLevel": "38"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Increases the user\u2019s chance to score a critical hit.",
         "move": "Focus Energy",
+        "power": null,
         "redBlueLevel": "43",
         "type": "Normal",
         "yellowLevel": "43"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "If the user misses, it takes half the damage it would have inflicted in recoil.",
         "move": "High Jump Kick",
+        "power": 130,
         "redBlueLevel": "48",
         "type": "Fighting",
         "yellowLevel": "48"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Mega Kick",
+        "power": 120,
         "redBlueLevel": "53",
         "type": "Normal",
         "yellowLevel": "53"
@@ -610,43 +854,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Psychic",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Comet Punch",
+        "power": 18,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Fire Punch",
+        "power": 75,
         "redBlueLevel": "33",
         "type": "Fire",
         "yellowLevel": "33"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to freeze the target.",
         "move": "Ice Punch",
+        "power": 75,
         "redBlueLevel": "38",
         "type": "Ice",
         "yellowLevel": "38"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Thunder Punch",
+        "power": 75,
         "redBlueLevel": "43",
         "type": "Electric",
         "yellowLevel": "43"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Mega Punch",
+        "power": 80,
         "redBlueLevel": "48",
         "type": "Normal",
         "yellowLevel": "48"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts twice the damage the user received from the last physical hit it took.",
         "move": "Counter",
+        "power": null,
         "redBlueLevel": "53",
         "type": "Fighting",
         "yellowLevel": "53"
@@ -670,43 +942,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Supersonic",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Wrap",
+        "power": 15,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Stomp",
+        "power": 65,
         "redBlueLevel": "7",
         "type": "Normal",
         "yellowLevel": "7"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Disables the target\u2019s last used move for 1-8 turns.",
         "move": "Disable",
+        "power": null,
         "redBlueLevel": "15",
         "type": "Normal",
         "yellowLevel": "15"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises user\u2019s Defense by one stage.",
         "move": "Defense Curl",
+        "power": null,
         "redBlueLevel": "23",
         "type": "Normal",
         "yellowLevel": "23"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Slam",
+        "power": 80,
         "redBlueLevel": "31",
         "type": "Normal",
         "yellowLevel": "31"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by two stages.",
         "move": "Screech",
+        "power": null,
         "redBlueLevel": "39",
         "type": "Normal",
         "yellowLevel": "39"
@@ -733,43 +1033,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 70,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Smog",
+        "power": 30,
         "redBlueLevel": "1",
         "type": "Poison",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Sludge",
+        "power": 65,
         "redBlueLevel": "32",
         "type": "Poison",
         "yellowLevel": "32"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Smokescreen",
+        "power": null,
         "redBlueLevel": "37",
         "type": "Normal",
         "yellowLevel": "37"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User faints.",
         "move": "Self Destruct",
+        "power": 200,
         "redBlueLevel": "40",
         "type": "Normal",
         "yellowLevel": "40"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Resets all Pok\u00e9mon\u2019s stats, accuracy, and evasion.",
         "move": "Haze",
+        "power": null,
         "redBlueLevel": "45",
         "type": "Ice",
         "yellowLevel": "45"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User faints.",
         "move": "Explosion",
+        "power": 250,
         "redBlueLevel": "48",
         "type": "Normal",
         "yellowLevel": "48"
@@ -801,7 +1129,11 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Harden",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "7"
@@ -828,43 +1160,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 70,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Smog",
+        "power": 30,
         "redBlueLevel": "1",
         "type": "Poison",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Sludge",
+        "power": 65,
         "redBlueLevel": "32",
         "type": "Poison",
         "yellowLevel": "32"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Smokescreen",
+        "power": null,
         "redBlueLevel": "39",
         "type": "Normal",
         "yellowLevel": "39"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User faints.",
         "move": "Self Destruct",
+        "power": 200,
         "redBlueLevel": "43",
         "type": "Normal",
         "yellowLevel": "43"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Resets all Pok\u00e9mon\u2019s stats, accuracy, and evasion.",
         "move": "Haze",
+        "power": null,
         "redBlueLevel": "49",
         "type": "Ice",
         "yellowLevel": "49"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User faints.",
         "move": "Explosion",
+        "power": 250,
         "redBlueLevel": "53",
         "type": "Normal",
         "yellowLevel": "53"
@@ -898,43 +1258,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Horn Attack",
+        "power": 65,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Stomp",
+        "power": 65,
         "redBlueLevel": "30",
         "type": "Normal",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "35",
         "type": "Normal",
         "yellowLevel": "35"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Attack",
+        "power": 15,
         "redBlueLevel": "40",
         "type": "Normal",
         "yellowLevel": "40"
       },
       {
+        "accuracy": 30,
+        "damageClass": "Physical",
+        "effect": "Causes a one-hit KO.",
         "move": "Horn Drill",
+        "power": null,
         "redBlueLevel": "45",
         "type": "Normal",
         "yellowLevel": "45"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "50",
         "type": "Normal",
         "yellowLevel": "50"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "User receives 1/4 the damage it inflicts in recoil.",
         "move": "Take Down",
+        "power": 90,
         "redBlueLevel": "55",
         "type": "Normal",
         "yellowLevel": "55"
@@ -966,43 +1354,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Horn Attack",
+        "power": 65,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Stomp",
+        "power": 65,
         "redBlueLevel": "30",
         "type": "Normal",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "35",
         "type": "Normal",
         "yellowLevel": "35"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Attack",
+        "power": 15,
         "redBlueLevel": "40",
         "type": "Normal",
         "yellowLevel": "40"
       },
       {
+        "accuracy": 30,
+        "damageClass": "Physical",
+        "effect": "Causes a one-hit KO.",
         "move": "Horn Drill",
+        "power": null,
         "redBlueLevel": "48",
         "type": "Normal",
         "yellowLevel": "48"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "55",
         "type": "Normal",
         "yellowLevel": "55"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "User receives 1/4 the damage it inflicts in recoil.",
         "move": "Take Down",
+        "power": 90,
         "redBlueLevel": "64",
         "type": "Normal",
         "yellowLevel": "64"
@@ -1037,55 +1453,91 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Pound",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Double Slap",
+        "power": 15,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "12"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sing",
+        "power": null,
         "redBlueLevel": "24",
         "type": "Normal",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "30",
         "type": "Normal",
         "yellowLevel": "30"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s evasion by two stages.",
         "move": "Minimize",
+        "power": null,
         "redBlueLevel": "38",
         "type": "Normal",
         "yellowLevel": "38"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises user\u2019s Defense by one stage.",
         "move": "Defense Curl",
+        "power": null,
         "redBlueLevel": "44",
         "type": "Normal",
         "yellowLevel": "44"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Reduces damage from special attacks by 50% for five turns.",
         "move": "Light Screen",
+        "power": null,
         "redBlueLevel": "48",
         "type": "Psychic",
         "yellowLevel": "48"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User receives 1/3 the damage inflicted in recoil.",
         "move": "Double Edge",
+        "power": 120,
         "redBlueLevel": "54",
         "type": "Normal",
         "yellowLevel": "54"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "-",
         "type": "Normal",
         "yellowLevel": "1"
@@ -1116,55 +1568,91 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Speed by one stage.",
         "move": "Constrict",
+        "power": 10,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Bind",
+        "power": 15,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Drains half the damage inflicted to heal the user.",
         "move": "Absorb",
+        "power": 20,
         "redBlueLevel": "29",
         "type": "Grass",
         "yellowLevel": "27"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Poisons the target.",
         "move": "Poison Powder",
+        "power": null,
         "redBlueLevel": "32",
         "type": "Poison",
         "yellowLevel": "32"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Stun Spore",
+        "power": null,
         "redBlueLevel": "36",
         "type": "Grass",
         "yellowLevel": "36"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sleep Powder",
+        "power": null,
         "redBlueLevel": "39",
         "type": "Grass",
         "yellowLevel": "39"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Slam",
+        "power": 80,
         "redBlueLevel": "45",
         "type": "Normal",
         "yellowLevel": "45"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Attack and Special Attack by one stage.",
         "move": "Growth",
+        "power": null,
         "redBlueLevel": "49",
         "type": "Normal",
         "yellowLevel": "48"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Vine Whip",
+        "power": 45,
         "redBlueLevel": "-",
         "type": "Grass",
         "yellowLevel": "29"
@@ -1195,43 +1683,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Comet Punch",
+        "power": 18,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "If the user is hit after using this move, its Attack rises by one stage.",
         "move": "Rage",
+        "power": 20,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bite",
+        "power": 60,
         "redBlueLevel": "26",
         "type": "Dark",
         "yellowLevel": "26"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "31",
         "type": "Normal",
         "yellowLevel": "31"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Mega Punch",
+        "power": 80,
         "redBlueLevel": "36",
         "type": "Normal",
         "yellowLevel": "36"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "41",
         "type": "Normal",
         "yellowLevel": "41"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Dizzy Punch",
+        "power": 70,
         "redBlueLevel": "46",
         "type": "Normal",
         "yellowLevel": "46"
@@ -1273,37 +1789,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Speed by one stage.",
         "move": "Bubble",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Water",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Smokescreen",
+        "power": null,
         "redBlueLevel": "19",
         "type": "Normal",
         "yellowLevel": "19"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "24",
         "type": "Normal",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Water Gun",
+        "power": 40,
         "redBlueLevel": "30",
         "type": "Water",
         "yellowLevel": "30"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "37",
         "type": "Psychic",
         "yellowLevel": "37"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "45",
         "type": "Water",
         "yellowLevel": "45"
@@ -1338,37 +1878,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Speed by one stage.",
         "move": "Bubble",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Water",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Smokescreen",
+        "power": null,
         "redBlueLevel": "19",
         "type": "Normal",
         "yellowLevel": "19"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "24",
         "type": "Normal",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Water Gun",
+        "power": 40,
         "redBlueLevel": "30",
         "type": "Water",
         "yellowLevel": "30"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "41",
         "type": "Psychic",
         "yellowLevel": "41"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "52",
         "type": "Water",
         "yellowLevel": "52"
@@ -1455,49 +2019,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Peck",
+        "power": 35,
         "redBlueLevel": "1",
         "type": "Flying",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Supersonic",
+        "power": null,
         "redBlueLevel": "19",
         "type": "Normal",
         "yellowLevel": "19"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Horn Attack",
+        "power": 65,
         "redBlueLevel": "24",
         "type": "Normal",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Attack",
+        "power": 15,
         "redBlueLevel": "30",
         "type": "Normal",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Waterfall",
+        "power": 80,
         "redBlueLevel": "37",
         "type": "Water",
         "yellowLevel": "37"
       },
       {
+        "accuracy": 30,
+        "damageClass": "Physical",
+        "effect": "Causes a one-hit KO.",
         "move": "Horn Drill",
+        "power": null,
         "redBlueLevel": "45",
         "type": "Normal",
         "yellowLevel": "45"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "54",
         "type": "Psychic",
         "yellowLevel": "54"
@@ -1533,49 +2129,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Peck",
+        "power": 35,
         "redBlueLevel": "1",
         "type": "Flying",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Supersonic",
+        "power": null,
         "redBlueLevel": "19",
         "type": "Normal",
         "yellowLevel": "19"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Horn Attack",
+        "power": 65,
         "redBlueLevel": "24",
         "type": "Normal",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Attack",
+        "power": 15,
         "redBlueLevel": "30",
         "type": "Normal",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Waterfall",
+        "power": 80,
         "redBlueLevel": "39",
         "type": "Water",
         "yellowLevel": "39"
       },
       {
+        "accuracy": 30,
+        "damageClass": "Physical",
+        "effect": "Causes a one-hit KO.",
         "move": "Horn Drill",
+        "power": null,
         "redBlueLevel": "48",
         "type": "Normal",
         "yellowLevel": "48"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "54",
         "type": "Psychic",
         "yellowLevel": "54"
@@ -1592,49 +2220,81 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Confusion",
+        "power": 50,
         "redBlueLevel": "12",
         "type": "Psychic",
         "yellowLevel": "10"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Poisons the target.",
         "move": "Poison Powder",
+        "power": null,
         "redBlueLevel": "15",
         "type": "Poison",
         "yellowLevel": "13"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Stun Spore",
+        "power": null,
         "redBlueLevel": "16",
         "type": "Grass",
         "yellowLevel": "14"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sleep Powder",
+        "power": null,
         "redBlueLevel": "17",
         "type": "Grass",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Supersonic",
+        "power": null,
         "redBlueLevel": "21",
         "type": "Normal",
         "yellowLevel": "18"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Immediately ends wild battles. Forces trainers to switch Pok\u00e9mon.",
         "move": "Whirlwind",
+        "power": null,
         "redBlueLevel": "26",
         "type": "Normal",
         "yellowLevel": "23"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Psybeam",
+        "power": 65,
         "redBlueLevel": "32",
         "type": "Psychic",
         "yellowLevel": "34"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage and can hit Pok\u00e9mon in the air.",
         "move": "Gust",
+        "power": 40,
         "redBlueLevel": "-",
         "type": "Flying",
         "yellowLevel": "28"
@@ -1679,49 +2339,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Water Gun",
+        "power": 40,
         "redBlueLevel": "17",
         "type": "Water",
         "yellowLevel": "17"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Harden",
+        "power": null,
         "redBlueLevel": "22",
         "type": "Normal",
         "yellowLevel": "22"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Heals the user by half its max HP.",
         "move": "Recover",
+        "power": null,
         "redBlueLevel": "27",
         "type": "Normal",
         "yellowLevel": "27"
       },
       {
+        "accuracy": null,
+        "damageClass": "Special",
+        "effect": "Never misses.",
         "move": "Swift",
+        "power": 60,
         "redBlueLevel": "32",
         "type": "Normal",
         "yellowLevel": "32"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s evasion by two stages.",
         "move": "Minimize",
+        "power": null,
         "redBlueLevel": "37",
         "type": "Normal",
         "yellowLevel": "37"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Reduces damage from special attacks by 50% for five turns.",
         "move": "Light Screen",
+        "power": null,
         "redBlueLevel": "42",
         "type": "Psychic",
         "yellowLevel": "42"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "47",
         "type": "Water",
         "yellowLevel": "47"
@@ -1738,19 +2430,31 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Harden",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Water Gun",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Water",
         "yellowLevel": "1"
@@ -1767,37 +2471,61 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by two stages.",
         "move": "Barrier",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Psychic",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Confusion",
+        "power": 50,
         "redBlueLevel": "15",
         "type": "Psychic",
         "yellowLevel": "15"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Reduces damage from special attacks by 50% for five turns.",
         "move": "Light Screen",
+        "power": null,
         "redBlueLevel": "23",
         "type": "Psychic",
         "yellowLevel": "23"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Double Slap",
+        "power": 15,
         "redBlueLevel": "31",
         "type": "Normal",
         "yellowLevel": "31"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Attack by one stage.",
         "move": "Meditate",
+        "power": null,
         "redBlueLevel": "39",
         "type": "Psychic",
         "yellowLevel": "39"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Transfers 1/4 of the user\u2019s max HP into a doll, protecting the user from further damage or status changes until it breaks.",
         "move": "Substitute",
+        "power": null,
         "redBlueLevel": "47",
         "type": "Normal",
         "yellowLevel": "47"
@@ -1829,49 +2557,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Quick Attack",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "17",
         "type": "Normal",
         "yellowLevel": "17"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Increases the user\u2019s chance to score a critical hit.",
         "move": "Focus Energy",
+        "power": null,
         "redBlueLevel": "20",
         "type": "Normal",
         "yellowLevel": "20"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s evasion by one stage.",
         "move": "Double Team",
+        "power": null,
         "redBlueLevel": "24",
         "type": "Normal",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Slash",
+        "power": 70,
         "redBlueLevel": "29",
         "type": "Normal",
         "yellowLevel": "29"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Attack by two stages.",
         "move": "Swords Dance",
+        "power": null,
         "redBlueLevel": "35",
         "type": "Normal",
         "yellowLevel": "35"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "42",
         "type": "Psychic",
         "yellowLevel": "42"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Wing Attack",
+        "power": 60,
         "redBlueLevel": "-",
         "type": "Flying",
         "yellowLevel": "50"
@@ -1888,49 +2648,81 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Lovely Kiss",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Pound",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Lick",
+        "power": 30,
         "redBlueLevel": "18",
         "type": "Ghost",
         "yellowLevel": "18"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Double Slap",
+        "power": 15,
         "redBlueLevel": "23",
         "type": "Normal",
         "yellowLevel": "23"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to freeze the target.",
         "move": "Ice Punch",
+        "power": 75,
         "redBlueLevel": "31",
         "type": "Ice",
         "yellowLevel": "31"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Body Slam",
+        "power": 85,
         "redBlueLevel": "39",
         "type": "Normal",
         "yellowLevel": "39"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Hits every turn for 2-3 turns, then confuses the user.",
         "move": "Thrash",
+        "power": 120,
         "redBlueLevel": "47",
         "type": "Normal",
         "yellowLevel": "47"
       },
       {
+        "accuracy": 70,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to freeze the target.",
         "move": "Blizzard",
+        "power": 110,
         "redBlueLevel": "58",
         "type": "Ice",
         "yellowLevel": "58"
@@ -1954,43 +2746,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Quick Attack",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Thunder Shock",
+        "power": 40,
         "redBlueLevel": "34",
         "type": "Electric",
         "yellowLevel": "34"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by two stages.",
         "move": "Screech",
+        "power": null,
         "redBlueLevel": "37",
         "type": "Normal",
         "yellowLevel": "37"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Thunder Punch",
+        "power": 75,
         "redBlueLevel": "42",
         "type": "Electric",
         "yellowLevel": "42"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Reduces damage from special attacks by 50% for five turns.",
         "move": "Light Screen",
+        "power": null,
         "redBlueLevel": "49",
         "type": "Psychic",
         "yellowLevel": "49"
       },
       {
+        "accuracy": 70,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Thunder",
+        "power": 110,
         "redBlueLevel": "54",
         "type": "Electric",
         "yellowLevel": "54"
@@ -2015,43 +2835,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Ember",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Fire",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "36",
         "type": "Normal",
         "yellowLevel": "36"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Confuse Ray",
+        "power": null,
         "redBlueLevel": "39",
         "type": "Ghost",
         "yellowLevel": "39"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Fire Punch",
+        "power": 75,
         "redBlueLevel": "43",
         "type": "Fire",
         "yellowLevel": "43"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Smokescreen",
+        "power": null,
         "redBlueLevel": "48",
         "type": "Normal",
         "yellowLevel": "48"
       },
       {
+        "accuracy": 70,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Smog",
+        "power": 30,
         "redBlueLevel": "52",
         "type": "Poison",
         "yellowLevel": "52"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Flamethrower",
+        "power": 90,
         "redBlueLevel": "55",
         "type": "Fire",
         "yellowLevel": "55"
@@ -2083,49 +2931,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Vice Grip",
+        "power": 55,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts damage equal to the user\u2019s level.",
         "move": "Seismic Toss",
+        "power": null,
         "redBlueLevel": "25",
         "type": "Fighting",
         "yellowLevel": "25"
       },
       {
+        "accuracy": 30,
+        "damageClass": "Physical",
+        "effect": "Causes a one-hit KO.",
         "move": "Guillotine",
+        "power": null,
         "redBlueLevel": "30",
         "type": "Normal",
         "yellowLevel": "30"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Increases the user\u2019s chance to score a critical hit.",
         "move": "Focus Energy",
+        "power": null,
         "redBlueLevel": "36",
         "type": "Normal",
         "yellowLevel": "36"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Harden",
+        "power": null,
         "redBlueLevel": "43",
         "type": "Normal",
         "yellowLevel": "43"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Slash",
+        "power": 70,
         "redBlueLevel": "49",
         "type": "Normal",
         "yellowLevel": "49"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Attack by two stages.",
         "move": "Swords Dance",
+        "power": null,
         "redBlueLevel": "54",
         "type": "Normal",
         "yellowLevel": "54"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Bind",
+        "power": 15,
         "redBlueLevel": "-",
         "type": "Normal",
         "yellowLevel": "21"
@@ -2157,37 +3037,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Stomp",
+        "power": 65,
         "redBlueLevel": "21",
         "type": "Normal",
         "yellowLevel": "21"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "28",
         "type": "Normal",
         "yellowLevel": "28"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "35",
         "type": "Normal",
         "yellowLevel": "35"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "If the user is hit after using this move, its Attack rises by one stage.",
         "move": "Rage",
+        "power": 20,
         "redBlueLevel": "44",
         "type": "Normal",
         "yellowLevel": "44"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "User receives 1/4 the damage it inflicts in recoil.",
         "move": "Take Down",
+        "power": 90,
         "redBlueLevel": "51",
         "type": "Normal",
         "yellowLevel": "51"
@@ -2278,13 +3182,21 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Does nothing.",
         "move": "Splash",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "15",
         "type": "Normal",
         "yellowLevel": "15"
@@ -2311,13 +3223,21 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Poison Sting",
+        "power": 15,
         "redBlueLevel": "1",
         "type": "Poison",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 95,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Speed by two stages.",
         "move": "String Shot",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Bug",
         "yellowLevel": "1"
@@ -2341,37 +3261,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bite",
+        "power": 60,
         "redBlueLevel": "20",
         "type": "Dark",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts 40 points of damage.",
         "move": "Dragon Rage",
+        "power": null,
         "redBlueLevel": "25",
         "type": "Dragon",
         "yellowLevel": "25"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "32",
         "type": "Normal",
         "yellowLevel": "32"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "41",
         "type": "Water",
         "yellowLevel": "41"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Special",
+        "effect": "User foregoes its next turn to recharge.",
         "move": "Hyper Beam",
+        "power": 150,
         "redBlueLevel": "52",
         "type": "Normal",
         "yellowLevel": "52"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "-",
         "type": "Normal",
         "yellowLevel": "1"
@@ -2401,49 +3345,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Water Gun",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Water",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sing",
+        "power": null,
         "redBlueLevel": "16",
         "type": "Normal",
         "yellowLevel": "16"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Protects the user\u2019s stats from being changed by enemy moves.",
         "move": "Mist",
+        "power": null,
         "redBlueLevel": "20",
         "type": "Ice",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Body Slam",
+        "power": 85,
         "redBlueLevel": "25",
         "type": "Normal",
         "yellowLevel": "25"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Confuse Ray",
+        "power": null,
         "redBlueLevel": "31",
         "type": "Ghost",
         "yellowLevel": "31"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to freeze the target.",
         "move": "Ice Beam",
+        "power": 90,
         "redBlueLevel": "38",
         "type": "Ice",
         "yellowLevel": "38"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "46",
         "type": "Water",
         "yellowLevel": "46"
@@ -2482,7 +3458,11 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "User becomes a copy of the target until it leaves battle.",
         "move": "Transform",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
@@ -2512,49 +3492,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Sand Attack",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Ground",
         "yellowLevel": "8"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Quick Attack",
+        "power": 40,
         "redBlueLevel": "27",
         "type": "Normal",
         "yellowLevel": "23"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "31",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bite",
+        "power": 60,
         "redBlueLevel": "37",
         "type": "Dark",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "User receives 1/4 the damage it inflicts in recoil.",
         "move": "Take Down",
+        "power": 90,
         "redBlueLevel": "45",
         "type": "Normal",
         "yellowLevel": "42"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "-",
         "type": "Normal",
         "yellowLevel": "16"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Increases the user\u2019s chance to score a critical hit.",
         "move": "Focus Energy",
+        "power": null,
         "redBlueLevel": "-",
         "type": "Normal",
         "yellowLevel": "36"
@@ -2571,67 +3583,111 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Sand Attack",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Ground",
         "yellowLevel": "8"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Quick Attack",
+        "power": 40,
         "redBlueLevel": "27",
         "type": "Normal",
         "yellowLevel": "23"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Water Gun",
+        "power": 40,
         "redBlueLevel": "31",
         "type": "Water",
         "yellowLevel": "16"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "37",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bite",
+        "power": 60,
         "redBlueLevel": "40",
         "type": "Dark",
         "yellowLevel": "30"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by two stages.",
         "move": "Acid Armor",
+        "power": null,
         "redBlueLevel": "42",
         "type": "Poison",
         "yellowLevel": "47"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Resets all Pok\u00e9mon\u2019s stats, accuracy, and evasion.",
         "move": "Haze",
+        "power": null,
         "redBlueLevel": "44",
         "type": "Ice",
         "yellowLevel": "42"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Protects the user\u2019s stats from being changed by enemy moves.",
         "move": "Mist",
+        "power": null,
         "redBlueLevel": "48",
         "type": "Ice",
         "yellowLevel": "42"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "54",
         "type": "Water",
         "yellowLevel": "52"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Attack by one stage.",
         "move": "Aurora Beam",
+        "power": 65,
         "redBlueLevel": "-",
         "type": "Ice",
         "yellowLevel": "36"
@@ -2648,61 +3704,101 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Sand Attack",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Ground",
         "yellowLevel": "8"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Quick Attack",
+        "power": 40,
         "redBlueLevel": "27",
         "type": "Normal",
         "yellowLevel": "23"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Thunder Shock",
+        "power": 40,
         "redBlueLevel": "31",
         "type": "Electric",
         "yellowLevel": "16"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "37",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Thunder Wave",
+        "power": null,
         "redBlueLevel": "40",
         "type": "Electric",
         "yellowLevel": "42"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Hits twice in one turn.",
         "move": "Double Kick",
+        "power": 30,
         "redBlueLevel": "42",
         "type": "Fighting",
         "yellowLevel": "30"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "44",
         "type": "Psychic",
         "yellowLevel": "47"
       },
       {
+        "accuracy": 95,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Pin Missile",
+        "power": 25,
         "redBlueLevel": "48",
         "type": "Bug",
         "yellowLevel": "36"
       },
       {
+        "accuracy": 70,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Thunder",
+        "power": 110,
         "redBlueLevel": "54",
         "type": "Electric",
         "yellowLevel": "52"
@@ -2719,67 +3815,111 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Sand Attack",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Ground",
         "yellowLevel": "8"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Quick Attack",
+        "power": 40,
         "redBlueLevel": "27",
         "type": "Normal",
         "yellowLevel": "23"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Ember",
+        "power": 40,
         "redBlueLevel": "31",
         "type": "Fire",
         "yellowLevel": "16"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "37",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bite",
+        "power": 60,
         "redBlueLevel": "40",
         "type": "Dark",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "42",
         "type": "Normal",
         "yellowLevel": "47"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Special",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Fire Spin",
+        "power": 35,
         "redBlueLevel": "44",
         "type": "Fire",
         "yellowLevel": "36"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "If the user is hit after using this move, its Attack rises by one stage.",
         "move": "Rage",
+        "power": 20,
         "redBlueLevel": "48",
         "type": "Normal",
         "yellowLevel": "-"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Flamethrower",
+        "power": 90,
         "redBlueLevel": "54",
         "type": "Fire",
         "yellowLevel": "52"
       },
       {
+        "accuracy": 70,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Smog",
+        "power": 30,
         "redBlueLevel": "-",
         "type": "Poison",
         "yellowLevel": "42"
@@ -2796,43 +3936,71 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "User\u2019s type changes to the type of one of its moves at random.",
         "move": "Conversion",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Attack by one stage.",
         "move": "Sharpen",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Psybeam",
+        "power": 65,
         "redBlueLevel": "23",
         "type": "Psychic",
         "yellowLevel": "23"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Heals the user by half its max HP.",
         "move": "Recover",
+        "power": null,
         "redBlueLevel": "28",
         "type": "Normal",
         "yellowLevel": "28"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "35",
         "type": "Psychic",
         "yellowLevel": "35"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn, freeze, or paralyze the target.",
         "move": "Tri Attack",
+        "power": 80,
         "redBlueLevel": "42",
         "type": "Normal",
         "yellowLevel": "42"
@@ -2862,37 +4030,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Water Gun",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Water",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Withdraw",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Water",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Horn Attack",
+        "power": 65,
         "redBlueLevel": "34",
         "type": "Normal",
         "yellowLevel": "34"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "39",
         "type": "Normal",
         "yellowLevel": "39"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Spike Cannon",
+        "power": 20,
         "redBlueLevel": "46",
         "type": "Normal",
         "yellowLevel": "46"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "53",
         "type": "Water",
         "yellowLevel": "53"
@@ -2909,37 +4101,61 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Water Gun",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Water",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Withdraw",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Water",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Horn Attack",
+        "power": 65,
         "redBlueLevel": "34",
         "type": "Normal",
         "yellowLevel": "34"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "39",
         "type": "Normal",
         "yellowLevel": "39"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Spike Cannon",
+        "power": 20,
         "redBlueLevel": "44",
         "type": "Normal",
         "yellowLevel": "44"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "49",
         "type": "Water",
         "yellowLevel": "49"
@@ -2965,7 +4181,11 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Harden",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
@@ -2995,37 +4215,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Harden",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Drains half the damage inflicted to heal the user.",
         "move": "Absorb",
+        "power": 20,
         "redBlueLevel": "34",
         "type": "Grass",
         "yellowLevel": "34"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Slash",
+        "power": 70,
         "redBlueLevel": "39",
         "type": "Normal",
         "yellowLevel": "39"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "44",
         "type": "Normal",
         "yellowLevel": "44"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "49",
         "type": "Water",
         "yellowLevel": "49"
@@ -3042,37 +4286,61 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Harden",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Drains half the damage inflicted to heal the user.",
         "move": "Absorb",
+        "power": 20,
         "redBlueLevel": "34",
         "type": "Grass",
         "yellowLevel": "34"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Slash",
+        "power": 70,
         "redBlueLevel": "39",
         "type": "Normal",
         "yellowLevel": "39"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "46",
         "type": "Normal",
         "yellowLevel": "46"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "53",
         "type": "Water",
         "yellowLevel": "53"
@@ -3102,37 +4370,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Psychic",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Wing Attack",
+        "power": 60,
         "redBlueLevel": "1",
         "type": "Flying",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Supersonic",
+        "power": null,
         "redBlueLevel": "33",
         "type": "Normal",
         "yellowLevel": "33"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bite",
+        "power": 60,
         "redBlueLevel": "38",
         "type": "Dark",
         "yellowLevel": "38"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "User receives 1/4 the damage it inflicts in recoil.",
         "move": "Take Down",
+        "power": 90,
         "redBlueLevel": "45",
         "type": "Normal",
         "yellowLevel": "45"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Special",
+        "effect": "User foregoes its next turn to recharge.",
         "move": "Hyper Beam",
+        "power": 150,
         "redBlueLevel": "54",
         "type": "Normal",
         "yellowLevel": "54"
@@ -3164,43 +4456,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Special Defense by two stages.",
         "move": "Amnesia",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Psychic",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Headbutt",
+        "power": 70,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "User sleeps for two turns, completely healing itself.",
         "move": "Rest",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Psychic",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Body Slam",
+        "power": 85,
         "redBlueLevel": "35",
         "type": "Normal",
         "yellowLevel": "35"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Harden",
+        "power": null,
         "redBlueLevel": "41",
         "type": "Normal",
         "yellowLevel": "41"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User receives 1/3 the damage inflicted in recoil.",
         "move": "Double Edge",
+        "power": 120,
         "redBlueLevel": "48",
         "type": "Normal",
         "yellowLevel": "48"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Special",
+        "effect": "User foregoes its next turn to recharge.",
         "move": "Hyper Beam",
+        "power": 150,
         "redBlueLevel": "56",
         "type": "Normal",
         "yellowLevel": "56"
@@ -3230,31 +4550,51 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to freeze the target.",
         "move": "Ice Beam",
+        "power": 90,
         "redBlueLevel": "1",
         "type": "Ice",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Peck",
+        "power": 35,
         "redBlueLevel": "1",
         "type": "Flying",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 70,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to freeze the target.",
         "move": "Blizzard",
+        "power": 110,
         "redBlueLevel": "51",
         "type": "Ice",
         "yellowLevel": "51"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "55",
         "type": "Psychic",
         "yellowLevel": "55"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Protects the user\u2019s stats from being changed by enemy moves.",
         "move": "Mist",
+        "power": null,
         "redBlueLevel": "60",
         "type": "Ice",
         "yellowLevel": "60"
@@ -3284,31 +4624,51 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Drill Peck",
+        "power": 80,
         "redBlueLevel": "1",
         "type": "Flying",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Thunder Shock",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Electric",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 70,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Thunder",
+        "power": 110,
         "redBlueLevel": "51",
         "type": "Electric",
         "yellowLevel": "51"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "55",
         "type": "Psychic",
         "yellowLevel": "55"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Reduces damage from special attacks by 50% for five turns.",
         "move": "Light Screen",
+        "power": null,
         "redBlueLevel": "60",
         "type": "Psychic",
         "yellowLevel": "60"
@@ -3338,31 +4698,51 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 85,
+        "damageClass": "Special",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Fire Spin",
+        "power": 35,
         "redBlueLevel": "1",
         "type": "Fire",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Peck",
+        "power": 35,
         "redBlueLevel": "1",
         "type": "Flying",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "51",
         "type": "Normal",
         "yellowLevel": "51"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "55",
         "type": "Psychic",
         "yellowLevel": "55"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "User charges for one turn before attacking. Has a $effect_chance% chance to make the target flinch.",
         "move": "Sky Attack",
+        "power": 140,
         "redBlueLevel": "60",
         "type": "Flying",
         "yellowLevel": "60"
@@ -3398,43 +4778,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Wrap",
+        "power": 15,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Thunder Wave",
+        "power": null,
         "redBlueLevel": "10",
         "type": "Electric",
         "yellowLevel": "10"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "20",
         "type": "Psychic",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Slam",
+        "power": 80,
         "redBlueLevel": "30",
         "type": "Normal",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts 40 points of damage.",
         "move": "Dragon Rage",
+        "power": null,
         "redBlueLevel": "40",
         "type": "Dragon",
         "yellowLevel": "40"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Special",
+        "effect": "User foregoes its next turn to recharge.",
         "move": "Hyper Beam",
+        "power": 150,
         "redBlueLevel": "50",
         "type": "Normal",
         "yellowLevel": "50"
@@ -3458,43 +4866,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Wrap",
+        "power": 15,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Thunder Wave",
+        "power": null,
         "redBlueLevel": "10",
         "type": "Electric",
         "yellowLevel": "10"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "20",
         "type": "Psychic",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Slam",
+        "power": 80,
         "redBlueLevel": "35",
         "type": "Normal",
         "yellowLevel": "35"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts 40 points of damage.",
         "move": "Dragon Rage",
+        "power": null,
         "redBlueLevel": "45",
         "type": "Dragon",
         "yellowLevel": "45"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Special",
+        "effect": "User foregoes its next turn to recharge.",
         "move": "Hyper Beam",
+        "power": 150,
         "redBlueLevel": "55",
         "type": "Normal",
         "yellowLevel": "55"
@@ -3511,43 +4947,71 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Wrap",
+        "power": 15,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Thunder Wave",
+        "power": null,
         "redBlueLevel": "10",
         "type": "Electric",
         "yellowLevel": "10"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "20",
         "type": "Psychic",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Slam",
+        "power": 80,
         "redBlueLevel": "35",
         "type": "Normal",
         "yellowLevel": "35"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts 40 points of damage.",
         "move": "Dragon Rage",
+        "power": null,
         "redBlueLevel": "45",
         "type": "Dragon",
         "yellowLevel": "45"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Special",
+        "effect": "User foregoes its next turn to recharge.",
         "move": "Hyper Beam",
+        "power": 150,
         "redBlueLevel": "60",
         "type": "Normal",
         "yellowLevel": "60"
@@ -3564,37 +5028,61 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Attack",
+        "power": 15,
         "redBlueLevel": "12",
         "type": "Normal",
         "yellowLevel": "12"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Increases the user\u2019s chance to score a critical hit.",
         "move": "Focus Energy",
+        "power": null,
         "redBlueLevel": "16",
         "type": "Normal",
         "yellowLevel": "16"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Hits twice in the same turn. Has a $effect_chance% chance to poison the target.",
         "move": "Twineedle",
+        "power": 25,
         "redBlueLevel": "20",
         "type": "Bug",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "If the user is hit after using this move, its Attack rises by one stage.",
         "move": "Rage",
+        "power": 20,
         "redBlueLevel": "25",
         "type": "Normal",
         "yellowLevel": "25"
       },
       {
+        "accuracy": 95,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Pin Missile",
+        "power": 25,
         "redBlueLevel": "30",
         "type": "Bug",
         "yellowLevel": "30"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "35",
         "type": "Psychic",
         "yellowLevel": "35"
@@ -3624,49 +5112,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Confusion",
+        "power": 50,
         "redBlueLevel": "1",
         "type": "Psychic",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Disables the target\u2019s last used move for 1-8 turns.",
         "move": "Disable",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Special",
+        "effect": "Never misses.",
         "move": "Swift",
+        "power": 60,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by two stages.",
         "move": "Barrier",
+        "power": null,
         "redBlueLevel": "63",
         "type": "Psychic",
         "yellowLevel": "63"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Psychic",
+        "power": 90,
         "redBlueLevel": "66",
         "type": "Psychic",
         "yellowLevel": "66"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Heals the user by half its max HP.",
         "move": "Recover",
+        "power": null,
         "redBlueLevel": "70",
         "type": "Normal",
         "yellowLevel": "70"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Protects the user\u2019s stats from being changed by enemy moves.",
         "move": "Mist",
+        "power": null,
         "redBlueLevel": "75",
         "type": "Ice",
         "yellowLevel": "75"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Special Defense by two stages.",
         "move": "Amnesia",
+        "power": null,
         "redBlueLevel": "81",
         "type": "Psychic",
         "yellowLevel": "81"
@@ -3683,31 +5203,51 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Pound",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "User becomes a copy of the target until it leaves battle.",
         "move": "Transform",
+        "power": null,
         "redBlueLevel": "10",
         "type": "Normal",
         "yellowLevel": "10"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Mega Punch",
+        "power": 80,
         "redBlueLevel": "20",
         "type": "Normal",
         "yellowLevel": "20"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Randomly selects and uses any move in the game.",
         "move": "Metronome",
+        "power": null,
         "redBlueLevel": "30",
         "type": "Normal",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Psychic",
+        "power": 90,
         "redBlueLevel": "40",
         "type": "Psychic",
         "yellowLevel": "40"
@@ -3762,43 +5302,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage and can hit Pok\u00e9mon in the air.",
         "move": "Gust",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Flying",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Sand Attack",
+        "power": null,
         "redBlueLevel": "5",
         "type": "Ground",
         "yellowLevel": "5"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Quick Attack",
+        "power": 40,
         "redBlueLevel": "12",
         "type": "Normal",
         "yellowLevel": "12"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Immediately ends wild battles. Forces trainers to switch Pok\u00e9mon.",
         "move": "Whirlwind",
+        "power": null,
         "redBlueLevel": "19",
         "type": "Normal",
         "yellowLevel": "19"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Wing Attack",
+        "power": 60,
         "redBlueLevel": "28",
         "type": "Flying",
         "yellowLevel": "28"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "36",
         "type": "Psychic",
         "yellowLevel": "36"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Uses the target\u2019s last used move.",
         "move": "Mirror Move",
+        "power": null,
         "redBlueLevel": "44",
         "type": "Flying",
         "yellowLevel": "44"
@@ -3842,43 +5410,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage and can hit Pok\u00e9mon in the air.",
         "move": "Gust",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Flying",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Sand Attack",
+        "power": null,
         "redBlueLevel": "5",
         "type": "Ground",
         "yellowLevel": "5"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Quick Attack",
+        "power": 40,
         "redBlueLevel": "12",
         "type": "Normal",
         "yellowLevel": "12"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Immediately ends wild battles. Forces trainers to switch Pok\u00e9mon.",
         "move": "Whirlwind",
+        "power": null,
         "redBlueLevel": "21",
         "type": "Normal",
         "yellowLevel": "21"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Wing Attack",
+        "power": 60,
         "redBlueLevel": "31",
         "type": "Flying",
         "yellowLevel": "31"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "40",
         "type": "Psychic",
         "yellowLevel": "40"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Uses the target\u2019s last used move.",
         "move": "Mirror Move",
+        "power": null,
         "redBlueLevel": "49",
         "type": "Flying",
         "yellowLevel": "49"
@@ -3895,43 +5491,71 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage and can hit Pok\u00e9mon in the air.",
         "move": "Gust",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Flying",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Sand Attack",
+        "power": null,
         "redBlueLevel": "5",
         "type": "Ground",
         "yellowLevel": "5"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Quick Attack",
+        "power": 40,
         "redBlueLevel": "12",
         "type": "Normal",
         "yellowLevel": "12"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Immediately ends wild battles. Forces trainers to switch Pok\u00e9mon.",
         "move": "Whirlwind",
+        "power": null,
         "redBlueLevel": "21",
         "type": "Normal",
         "yellowLevel": "21"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Wing Attack",
+        "power": 60,
         "redBlueLevel": "31",
         "type": "Flying",
         "yellowLevel": "31"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "44",
         "type": "Psychic",
         "yellowLevel": "44"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Uses the target\u2019s last used move.",
         "move": "Mirror Move",
+        "power": null,
         "redBlueLevel": "54",
         "type": "Flying",
         "yellowLevel": "54"
@@ -3984,37 +5608,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Quick Attack",
+        "power": 40,
         "redBlueLevel": "7",
         "type": "Normal",
         "yellowLevel": "7"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Hyper Fang",
+        "power": 80,
         "redBlueLevel": "14",
         "type": "Normal",
         "yellowLevel": "14"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Increases the user\u2019s chance to score a critical hit.",
         "move": "Focus Energy",
+        "power": null,
         "redBlueLevel": "23",
         "type": "Normal",
         "yellowLevel": "23"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Inflicts damage equal to half the target\u2019s HP.",
         "move": "Super Fang",
+        "power": null,
         "redBlueLevel": "34",
         "type": "Normal",
         "yellowLevel": "34"
@@ -4031,55 +5679,91 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Status",
+        "effect": "Seeds the target, stealing HP from it every turn.",
         "move": "Leech Seed",
+        "power": null,
         "redBlueLevel": "7",
         "type": "Grass",
         "yellowLevel": "7"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Vine Whip",
+        "power": 45,
         "redBlueLevel": "13",
         "type": "Grass",
         "yellowLevel": "13"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Poisons the target.",
         "move": "Poison Powder",
+        "power": null,
         "redBlueLevel": "22",
         "type": "Poison",
         "yellowLevel": "22"
       },
       {
+        "accuracy": 95,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Razor Leaf",
+        "power": 55,
         "redBlueLevel": "30",
         "type": "Grass",
         "yellowLevel": "30"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Attack and Special Attack by one stage.",
         "move": "Growth",
+        "power": null,
         "redBlueLevel": "38",
         "type": "Normal",
         "yellowLevel": "38"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sleep Powder",
+        "power": null,
         "redBlueLevel": "46",
         "type": "Grass",
         "yellowLevel": "46"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Requires a turn to charge before attacking.",
         "move": "Solar Beam",
+        "power": 120,
         "redBlueLevel": "54",
         "type": "Grass",
         "yellowLevel": "54"
@@ -4121,37 +5805,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Quick Attack",
+        "power": 40,
         "redBlueLevel": "7",
         "type": "Normal",
         "yellowLevel": "7"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Hyper Fang",
+        "power": 80,
         "redBlueLevel": "14",
         "type": "Normal",
         "yellowLevel": "14"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Increases the user\u2019s chance to score a critical hit.",
         "move": "Focus Energy",
+        "power": null,
         "redBlueLevel": "27",
         "type": "Normal",
         "yellowLevel": "27"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Inflicts damage equal to half the target\u2019s HP.",
         "move": "Super Fang",
+        "power": null,
         "redBlueLevel": "41",
         "type": "Normal",
         "yellowLevel": "41"
@@ -4195,43 +5903,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Peck",
+        "power": 35,
         "redBlueLevel": "1",
         "type": "Flying",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "9",
         "type": "Normal",
         "yellowLevel": "9"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Attack",
+        "power": 15,
         "redBlueLevel": "15",
         "type": "Normal",
         "yellowLevel": "15"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Uses the target\u2019s last used move.",
         "move": "Mirror Move",
+        "power": null,
         "redBlueLevel": "22",
         "type": "Flying",
         "yellowLevel": "22"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Drill Peck",
+        "power": 80,
         "redBlueLevel": "29",
         "type": "Flying",
         "yellowLevel": "29"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "36",
         "type": "Psychic",
         "yellowLevel": "36"
@@ -4267,43 +6003,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Peck",
+        "power": 35,
         "redBlueLevel": "1",
         "type": "Flying",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "9",
         "type": "Normal",
         "yellowLevel": "9"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Attack",
+        "power": 15,
         "redBlueLevel": "15",
         "type": "Normal",
         "yellowLevel": "15"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Uses the target\u2019s last used move.",
         "move": "Mirror Move",
+        "power": null,
         "redBlueLevel": "25",
         "type": "Flying",
         "yellowLevel": "25"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Drill Peck",
+        "power": 80,
         "redBlueLevel": "34",
         "type": "Flying",
         "yellowLevel": "34"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "43",
         "type": "Psychic",
         "yellowLevel": "43"
@@ -4332,43 +6096,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Wrap",
+        "power": 15,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Poison Sting",
+        "power": 15,
         "redBlueLevel": "10",
         "type": "Poison",
         "yellowLevel": "10"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bite",
+        "power": 60,
         "redBlueLevel": "17",
         "type": "Dark",
         "yellowLevel": "17"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Glare",
+        "power": null,
         "redBlueLevel": "24",
         "type": "Normal",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by two stages.",
         "move": "Screech",
+        "power": null,
         "redBlueLevel": "31",
         "type": "Normal",
         "yellowLevel": "31"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Acid",
+        "power": 40,
         "redBlueLevel": "38",
         "type": "Poison",
         "yellowLevel": "38"
@@ -4394,43 +6186,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Wrap",
+        "power": 15,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Poison Sting",
+        "power": 15,
         "redBlueLevel": "10",
         "type": "Poison",
         "yellowLevel": "10"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bite",
+        "power": 60,
         "redBlueLevel": "17",
         "type": "Dark",
         "yellowLevel": "17"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Glare",
+        "power": null,
         "redBlueLevel": "27",
         "type": "Normal",
         "yellowLevel": "27"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by two stages.",
         "move": "Screech",
+        "power": null,
         "redBlueLevel": "36",
         "type": "Normal",
         "yellowLevel": "36"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Acid",
+        "power": 40,
         "redBlueLevel": "47",
         "type": "Poison",
         "yellowLevel": "47"
@@ -4461,73 +6281,121 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Thunder Shock",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Electric",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Thunder Wave",
+        "power": null,
         "redBlueLevel": "9",
         "type": "Electric",
         "yellowLevel": "8"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Quick Attack",
+        "power": 40,
         "redBlueLevel": "16",
         "type": "Normal",
         "yellowLevel": "11"
       },
       {
+        "accuracy": null,
+        "damageClass": "Special",
+        "effect": "Never misses.",
         "move": "Swift",
+        "power": 60,
         "redBlueLevel": "26",
         "type": "Normal",
         "yellowLevel": "-"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "33",
         "type": "Psychic",
         "yellowLevel": "33"
       },
       {
+        "accuracy": 70,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Thunder",
+        "power": 110,
         "redBlueLevel": "43",
         "type": "Electric",
         "yellowLevel": "41"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "-",
         "type": "Normal",
         "yellowLevel": "6"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s evasion by one stage.",
         "move": "Double Team",
+        "power": null,
         "redBlueLevel": "-",
         "type": "Normal",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Slam",
+        "power": 80,
         "redBlueLevel": "-",
         "type": "Normal",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Thunderbolt",
+        "power": 90,
         "redBlueLevel": "-",
         "type": "Electric",
         "yellowLevel": "26"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Reduces damage from special attacks by 50% for five turns.",
         "move": "Light Screen",
+        "power": null,
         "redBlueLevel": "-",
         "type": "Psychic",
         "yellowLevel": "50"
@@ -4553,19 +6421,31 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Thunder Shock",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Electric",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Thunder Wave",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Electric",
         "yellowLevel": "1"
@@ -4602,37 +6482,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Sand Attack",
+        "power": null,
         "redBlueLevel": "10",
         "type": "Ground",
         "yellowLevel": "10"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Slash",
+        "power": 70,
         "redBlueLevel": "17",
         "type": "Normal",
         "yellowLevel": "17"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Poison Sting",
+        "power": 15,
         "redBlueLevel": "24",
         "type": "Poison",
         "yellowLevel": "24"
       },
       {
+        "accuracy": null,
+        "damageClass": "Special",
+        "effect": "Never misses.",
         "move": "Swift",
+        "power": 60,
         "redBlueLevel": "31",
         "type": "Normal",
         "yellowLevel": "31"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Swipes",
+        "power": 18,
         "redBlueLevel": "38",
         "type": "Normal",
         "yellowLevel": "38"
@@ -4665,37 +6569,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Sand Attack",
+        "power": null,
         "redBlueLevel": "10",
         "type": "Ground",
         "yellowLevel": "10"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Slash",
+        "power": 70,
         "redBlueLevel": "17",
         "type": "Normal",
         "yellowLevel": "17"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Poison Sting",
+        "power": 15,
         "redBlueLevel": "27",
         "type": "Poison",
         "yellowLevel": "27"
       },
       {
+        "accuracy": null,
+        "damageClass": "Special",
+        "effect": "Never misses.",
         "move": "Swift",
+        "power": 60,
         "redBlueLevel": "36",
         "type": "Normal",
         "yellowLevel": "36"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Swipes",
+        "power": 18,
         "redBlueLevel": "47",
         "type": "Normal",
         "yellowLevel": "47"
@@ -4736,49 +6664,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "8",
         "type": "Normal",
         "yellowLevel": "8"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Poison Sting",
+        "power": 15,
         "redBlueLevel": "14",
         "type": "Poison",
         "yellowLevel": "17"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "21",
         "type": "Normal",
         "yellowLevel": "23"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bite",
+        "power": 60,
         "redBlueLevel": "29",
         "type": "Dark",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Swipes",
+        "power": 18,
         "redBlueLevel": "36",
         "type": "Normal",
         "yellowLevel": "38"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Hits twice in one turn.",
         "move": "Double Kick",
+        "power": 30,
         "redBlueLevel": "43",
         "type": "Fighting",
         "yellowLevel": "12"
@@ -4795,55 +6755,91 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Status",
+        "effect": "Seeds the target, stealing HP from it every turn.",
         "move": "Leech Seed",
+        "power": null,
         "redBlueLevel": "7",
         "type": "Grass",
         "yellowLevel": "7"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Vine Whip",
+        "power": 45,
         "redBlueLevel": "13",
         "type": "Grass",
         "yellowLevel": "13"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Poisons the target.",
         "move": "Poison Powder",
+        "power": null,
         "redBlueLevel": "22",
         "type": "Poison",
         "yellowLevel": "22"
       },
       {
+        "accuracy": 95,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Razor Leaf",
+        "power": 55,
         "redBlueLevel": "30",
         "type": "Grass",
         "yellowLevel": "30"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Attack and Special Attack by one stage.",
         "move": "Growth",
+        "power": null,
         "redBlueLevel": "43",
         "type": "Normal",
         "yellowLevel": "43"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sleep Powder",
+        "power": null,
         "redBlueLevel": "55",
         "type": "Grass",
         "yellowLevel": "55"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Requires a turn to charge before attacking.",
         "move": "Solar Beam",
+        "power": 120,
         "redBlueLevel": "65",
         "type": "Grass",
         "yellowLevel": "65"
@@ -4879,49 +6875,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "8",
         "type": "Normal",
         "yellowLevel": "8"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Poison Sting",
+        "power": 15,
         "redBlueLevel": "14",
         "type": "Poison",
         "yellowLevel": "19"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "23",
         "type": "Normal",
         "yellowLevel": "27"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bite",
+        "power": 60,
         "redBlueLevel": "32",
         "type": "Dark",
         "yellowLevel": "36"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Swipes",
+        "power": 18,
         "redBlueLevel": "41",
         "type": "Normal",
         "yellowLevel": "46"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Hits twice in one turn.",
         "move": "Double Kick",
+        "power": 30,
         "redBlueLevel": "50",
         "type": "Fighting",
         "yellowLevel": "12"
@@ -4938,37 +6966,61 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "8",
         "type": "Normal",
         "yellowLevel": "8"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Poison Sting",
+        "power": 15,
         "redBlueLevel": "14",
         "type": "Poison",
         "yellowLevel": "-"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Body Slam",
+        "power": 85,
         "redBlueLevel": "23",
         "type": "Normal",
         "yellowLevel": "23"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Hits twice in one turn.",
         "move": "Double Kick",
+        "power": 30,
         "redBlueLevel": "-",
         "type": "Fighting",
         "yellowLevel": "12"
@@ -5009,49 +7061,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Horn Attack",
+        "power": 65,
         "redBlueLevel": "8",
         "type": "Normal",
         "yellowLevel": "8"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Poison Sting",
+        "power": 15,
         "redBlueLevel": "14",
         "type": "Poison",
         "yellowLevel": "17"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Increases the user\u2019s chance to score a critical hit.",
         "move": "Focus Energy",
+        "power": null,
         "redBlueLevel": "21",
         "type": "Normal",
         "yellowLevel": "23"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Attack",
+        "power": 15,
         "redBlueLevel": "29",
         "type": "Normal",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 30,
+        "damageClass": "Physical",
+        "effect": "Causes a one-hit KO.",
         "move": "Horn Drill",
+        "power": null,
         "redBlueLevel": "36",
         "type": "Normal",
         "yellowLevel": "38"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Hits twice in one turn.",
         "move": "Double Kick",
+        "power": 30,
         "redBlueLevel": "43",
         "type": "Fighting",
         "yellowLevel": "12"
@@ -5087,49 +7171,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Horn Attack",
+        "power": 65,
         "redBlueLevel": "8",
         "type": "Normal",
         "yellowLevel": "8"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Poison Sting",
+        "power": 15,
         "redBlueLevel": "14",
         "type": "Poison",
         "yellowLevel": "19"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Increases the user\u2019s chance to score a critical hit.",
         "move": "Focus Energy",
+        "power": null,
         "redBlueLevel": "23",
         "type": "Normal",
         "yellowLevel": "27"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Attack",
+        "power": 15,
         "redBlueLevel": "32",
         "type": "Normal",
         "yellowLevel": "36"
       },
       {
+        "accuracy": 30,
+        "damageClass": "Physical",
+        "effect": "Causes a one-hit KO.",
         "move": "Horn Drill",
+        "power": null,
         "redBlueLevel": "41",
         "type": "Normal",
         "yellowLevel": "46"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Hits twice in one turn.",
         "move": "Double Kick",
+        "power": 30,
         "redBlueLevel": "50",
         "type": "Fighting",
         "yellowLevel": "12"
@@ -5146,31 +7262,51 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Horn Attack",
+        "power": 65,
         "redBlueLevel": "8",
         "type": "Normal",
         "yellowLevel": "8"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Poison Sting",
+        "power": 15,
         "redBlueLevel": "14",
         "type": "Poison",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Hits every turn for 2-3 turns, then confuses the user.",
         "move": "Thrash",
+        "power": 120,
         "redBlueLevel": "23",
         "type": "Normal",
         "yellowLevel": "23"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Hits twice in one turn.",
         "move": "Double Kick",
+        "power": 30,
         "redBlueLevel": "-",
         "type": "Fighting",
         "yellowLevel": "12"
@@ -5204,49 +7340,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Pound",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sing",
+        "power": null,
         "redBlueLevel": "13",
         "type": "Normal",
         "yellowLevel": "13"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Double Slap",
+        "power": 15,
         "redBlueLevel": "18",
         "type": "Normal",
         "yellowLevel": "18"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s evasion by two stages.",
         "move": "Minimize",
+        "power": null,
         "redBlueLevel": "24",
         "type": "Normal",
         "yellowLevel": "24"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Randomly selects and uses any move in the game.",
         "move": "Metronome",
+        "power": null,
         "redBlueLevel": "31",
         "type": "Normal",
         "yellowLevel": "31"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises user\u2019s Defense by one stage.",
         "move": "Defense Curl",
+        "power": null,
         "redBlueLevel": "39",
         "type": "Normal",
         "yellowLevel": "39"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Reduces damage from special attacks by 50% for five turns.",
         "move": "Light Screen",
+        "power": null,
         "redBlueLevel": "48",
         "type": "Psychic",
         "yellowLevel": "48"
@@ -5263,25 +7431,41 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Double Slap",
+        "power": 15,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Randomly selects and uses any move in the game.",
         "move": "Metronome",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s evasion by two stages.",
         "move": "Minimize",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sing",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
@@ -5310,43 +7494,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Ember",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Fire",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Quick Attack",
+        "power": 40,
         "redBlueLevel": "16",
         "type": "Normal",
         "yellowLevel": "16"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Immediately ends wild battles. Forces trainers to switch Pok\u00e9mon.",
         "move": "Roar",
+        "power": null,
         "redBlueLevel": "21",
         "type": "Normal",
         "yellowLevel": "21"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Confuse Ray",
+        "power": null,
         "redBlueLevel": "28",
         "type": "Ghost",
         "yellowLevel": "28"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Flamethrower",
+        "power": 90,
         "redBlueLevel": "35",
         "type": "Fire",
         "yellowLevel": "35"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Special",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Fire Spin",
+        "power": 35,
         "redBlueLevel": "42",
         "type": "Fire",
         "yellowLevel": "42"
@@ -5363,25 +7575,41 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Ember",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Fire",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Quick Attack",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Immediately ends wild battles. Forces trainers to switch Pok\u00e9mon.",
         "move": "Roar",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
@@ -5414,49 +7642,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sing",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Pound",
+        "power": 40,
         "redBlueLevel": "9",
         "type": "Normal",
         "yellowLevel": "9"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Disables the target\u2019s last used move for 1-8 turns.",
         "move": "Disable",
+        "power": null,
         "redBlueLevel": "14",
         "type": "Normal",
         "yellowLevel": "14"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises user\u2019s Defense by one stage.",
         "move": "Defense Curl",
+        "power": null,
         "redBlueLevel": "19",
         "type": "Normal",
         "yellowLevel": "19"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Double Slap",
+        "power": 15,
         "redBlueLevel": "24",
         "type": "Normal",
         "yellowLevel": "24"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "User sleeps for two turns, completely healing itself.",
         "move": "Rest",
+        "power": null,
         "redBlueLevel": "29",
         "type": "Psychic",
         "yellowLevel": "29"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Body Slam",
+        "power": 85,
         "redBlueLevel": "34",
         "type": "Normal",
         "yellowLevel": "34"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User receives 1/3 the damage inflicted in recoil.",
         "move": "Double Edge",
+        "power": 120,
         "redBlueLevel": "39",
         "type": "Normal",
         "yellowLevel": "39"
@@ -5486,49 +7746,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Ember",
+        "power": 40,
         "redBlueLevel": "9",
         "type": "Fire",
         "yellowLevel": "9"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "15",
         "type": "Normal",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "If the user is hit after using this move, its Attack rises by one stage.",
         "move": "Rage",
+        "power": 20,
         "redBlueLevel": "22",
         "type": "Normal",
         "yellowLevel": "22"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Slash",
+        "power": 70,
         "redBlueLevel": "30",
         "type": "Normal",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Flamethrower",
+        "power": 90,
         "redBlueLevel": "38",
         "type": "Fire",
         "yellowLevel": "38"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Special",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Fire Spin",
+        "power": 35,
         "redBlueLevel": "46",
         "type": "Fire",
         "yellowLevel": "46"
@@ -5552,25 +7844,41 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises user\u2019s Defense by one stage.",
         "move": "Defense Curl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Disables the target\u2019s last used move for 1-8 turns.",
         "move": "Disable",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Double Slap",
+        "power": 15,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sing",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
@@ -5619,37 +7927,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Drains half the damage inflicted to heal the user.",
         "move": "Leech Life",
+        "power": 80,
         "redBlueLevel": "1",
         "type": "Bug",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Supersonic",
+        "power": null,
         "redBlueLevel": "10",
         "type": "Normal",
         "yellowLevel": "10"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bite",
+        "power": 60,
         "redBlueLevel": "15",
         "type": "Dark",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Confuse Ray",
+        "power": null,
         "redBlueLevel": "21",
         "type": "Ghost",
         "yellowLevel": "21"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Wing Attack",
+        "power": 60,
         "redBlueLevel": "28",
         "type": "Flying",
         "yellowLevel": "28"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Resets all Pok\u00e9mon\u2019s stats, accuracy, and evasion.",
         "move": "Haze",
+        "power": null,
         "redBlueLevel": "36",
         "type": "Ice",
         "yellowLevel": "36"
@@ -5694,43 +8026,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Drains half the damage inflicted to heal the user.",
         "move": "Leech Life",
+        "power": 80,
         "redBlueLevel": "1",
         "type": "Bug",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by two stages.",
         "move": "Screech",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Supersonic",
+        "power": null,
         "redBlueLevel": "10",
         "type": "Normal",
         "yellowLevel": "10"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bite",
+        "power": 60,
         "redBlueLevel": "15",
         "type": "Dark",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Confuse Ray",
+        "power": null,
         "redBlueLevel": "21",
         "type": "Ghost",
         "yellowLevel": "21"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Wing Attack",
+        "power": 60,
         "redBlueLevel": "32",
         "type": "Flying",
         "yellowLevel": "32"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Resets all Pok\u00e9mon\u2019s stats, accuracy, and evasion.",
         "move": "Haze",
+        "power": null,
         "redBlueLevel": "43",
         "type": "Ice",
         "yellowLevel": "43"
@@ -5773,43 +8133,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Drains half the damage inflicted to heal the user.",
         "move": "Absorb",
+        "power": 20,
         "redBlueLevel": "1",
         "type": "Grass",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Poisons the target.",
         "move": "Poison Powder",
+        "power": null,
         "redBlueLevel": "15",
         "type": "Poison",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Stun Spore",
+        "power": null,
         "redBlueLevel": "17",
         "type": "Grass",
         "yellowLevel": "17"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sleep Powder",
+        "power": null,
         "redBlueLevel": "19",
         "type": "Grass",
         "yellowLevel": "19"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Acid",
+        "power": 40,
         "redBlueLevel": "24",
         "type": "Poison",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Hits every turn for 2-3 turns, then confuses the user.",
         "move": "Petal Dance",
+        "power": 120,
         "redBlueLevel": "33",
         "type": "Grass",
         "yellowLevel": "33"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Requires a turn to charge before attacking.",
         "move": "Solar Beam",
+        "power": 120,
         "redBlueLevel": "46",
         "type": "Grass",
         "yellowLevel": "46"
@@ -5847,43 +8235,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Drains half the damage inflicted to heal the user.",
         "move": "Absorb",
+        "power": 20,
         "redBlueLevel": "1",
         "type": "Grass",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Poisons the target.",
         "move": "Poison Powder",
+        "power": null,
         "redBlueLevel": "15",
         "type": "Poison",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Stun Spore",
+        "power": null,
         "redBlueLevel": "17",
         "type": "Grass",
         "yellowLevel": "17"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sleep Powder",
+        "power": null,
         "redBlueLevel": "19",
         "type": "Grass",
         "yellowLevel": "19"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Acid",
+        "power": 40,
         "redBlueLevel": "28",
         "type": "Poison",
         "yellowLevel": "28"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Hits every turn for 2-3 turns, then confuses the user.",
         "move": "Petal Dance",
+        "power": 120,
         "redBlueLevel": "38",
         "type": "Grass",
         "yellowLevel": "38"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Requires a turn to charge before attacking.",
         "move": "Solar Beam",
+        "power": 120,
         "redBlueLevel": "52",
         "type": "Grass",
         "yellowLevel": "52"
@@ -5900,31 +8316,51 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Acid",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Poison",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Hits every turn for 2-3 turns, then confuses the user.",
         "move": "Petal Dance",
+        "power": 120,
         "redBlueLevel": "1",
         "type": "Grass",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Poisons the target.",
         "move": "Poison Powder",
+        "power": null,
         "redBlueLevel": "15",
         "type": "Poison",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Stun Spore",
+        "power": null,
         "redBlueLevel": "17",
         "type": "Grass",
         "yellowLevel": "17"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sleep Powder",
+        "power": null,
         "redBlueLevel": "19",
         "type": "Grass",
         "yellowLevel": "19"
@@ -5960,37 +8396,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Stun Spore",
+        "power": null,
         "redBlueLevel": "13",
         "type": "Grass",
         "yellowLevel": "13"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Drains half the damage inflicted to heal the user.",
         "move": "Leech Life",
+        "power": 80,
         "redBlueLevel": "20",
         "type": "Bug",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Spore",
+        "power": null,
         "redBlueLevel": "27",
         "type": "Grass",
         "yellowLevel": "27"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Slash",
+        "power": 70,
         "redBlueLevel": "34",
         "type": "Normal",
         "yellowLevel": "34"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Attack and Special Attack by one stage.",
         "move": "Growth",
+        "power": null,
         "redBlueLevel": "41",
         "type": "Normal",
         "yellowLevel": "41"
@@ -6024,37 +8484,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Stun Spore",
+        "power": null,
         "redBlueLevel": "13",
         "type": "Grass",
         "yellowLevel": "13"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Drains half the damage inflicted to heal the user.",
         "move": "Leech Life",
+        "power": 80,
         "redBlueLevel": "20",
         "type": "Bug",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Spore",
+        "power": null,
         "redBlueLevel": "30",
         "type": "Grass",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Slash",
+        "power": 70,
         "redBlueLevel": "39",
         "type": "Normal",
         "yellowLevel": "39"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Attack and Special Attack by one stage.",
         "move": "Growth",
+        "power": null,
         "redBlueLevel": "48",
         "type": "Normal",
         "yellowLevel": "48"
@@ -6092,61 +8576,101 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Disables the target\u2019s last used move for 1-8 turns.",
         "move": "Disable",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Poisons the target.",
         "move": "Poison Powder",
+        "power": null,
         "redBlueLevel": "24",
         "type": "Poison",
         "yellowLevel": "22"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Drains half the damage inflicted to heal the user.",
         "move": "Leech Life",
+        "power": 80,
         "redBlueLevel": "27",
         "type": "Bug",
         "yellowLevel": "27"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Stun Spore",
+        "power": null,
         "redBlueLevel": "30",
         "type": "Grass",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Psybeam",
+        "power": 65,
         "redBlueLevel": "35",
         "type": "Psychic",
         "yellowLevel": "35"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sleep Powder",
+        "power": null,
         "redBlueLevel": "38",
         "type": "Grass",
         "yellowLevel": "38"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Psychic",
+        "power": 90,
         "redBlueLevel": "43",
         "type": "Psychic",
         "yellowLevel": "43"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Supersonic",
+        "power": null,
         "redBlueLevel": "-",
         "type": "Normal",
         "yellowLevel": "11"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Confusion",
+        "power": 50,
         "redBlueLevel": "-",
         "type": "Psychic",
         "yellowLevel": "19"
@@ -6182,61 +8706,101 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Disables the target\u2019s last used move for 1-8 turns.",
         "move": "Disable",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Poisons the target.",
         "move": "Poison Powder",
+        "power": null,
         "redBlueLevel": "24",
         "type": "Poison",
         "yellowLevel": "22"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Drains half the damage inflicted to heal the user.",
         "move": "Leech Life",
+        "power": 80,
         "redBlueLevel": "27",
         "type": "Bug",
         "yellowLevel": "27"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Stun Spore",
+        "power": null,
         "redBlueLevel": "30",
         "type": "Grass",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Psybeam",
+        "power": 65,
         "redBlueLevel": "38",
         "type": "Psychic",
         "yellowLevel": "38"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sleep Powder",
+        "power": null,
         "redBlueLevel": "43",
         "type": "Grass",
         "yellowLevel": "43"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Psychic",
+        "power": 90,
         "redBlueLevel": "50",
         "type": "Psychic",
         "yellowLevel": "50"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Confusion",
+        "power": 50,
         "redBlueLevel": "-",
         "type": "Psychic",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Supersonic",
+        "power": null,
         "redBlueLevel": "-",
         "type": "Normal",
         "yellowLevel": "1"
@@ -6253,49 +8817,81 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Ember",
+        "power": 40,
         "redBlueLevel": "9",
         "type": "Fire",
         "yellowLevel": "9"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "15",
         "type": "Normal",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "If the user is hit after using this move, its Attack rises by one stage.",
         "move": "Rage",
+        "power": 20,
         "redBlueLevel": "24",
         "type": "Normal",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Slash",
+        "power": 70,
         "redBlueLevel": "33",
         "type": "Normal",
         "yellowLevel": "33"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Flamethrower",
+        "power": 90,
         "redBlueLevel": "42",
         "type": "Fire",
         "yellowLevel": "42"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Special",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Fire Spin",
+        "power": 35,
         "redBlueLevel": "56",
         "type": "Fire",
         "yellowLevel": "56"
@@ -6325,37 +8921,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "15",
         "type": "Normal",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User digs underground, dodging all attacks, and hits next turn.",
         "move": "Dig",
+        "power": 80,
         "redBlueLevel": "19",
         "type": "Ground",
         "yellowLevel": "19"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Sand Attack",
+        "power": null,
         "redBlueLevel": "24",
         "type": "Ground",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Slash",
+        "power": 70,
         "redBlueLevel": "31",
         "type": "Normal",
         "yellowLevel": "31"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage and can hit Dig users.",
         "move": "Earthquake",
+        "power": 100,
         "redBlueLevel": "40",
         "type": "Ground",
         "yellowLevel": "40"
@@ -6385,37 +9005,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "15",
         "type": "Normal",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User digs underground, dodging all attacks, and hits next turn.",
         "move": "Dig",
+        "power": 80,
         "redBlueLevel": "19",
         "type": "Ground",
         "yellowLevel": "19"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Sand Attack",
+        "power": null,
         "redBlueLevel": "24",
         "type": "Ground",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Slash",
+        "power": 70,
         "redBlueLevel": "35",
         "type": "Normal",
         "yellowLevel": "35"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage and can hit Dig users.",
         "move": "Earthquake",
+        "power": 100,
         "redBlueLevel": "47",
         "type": "Ground",
         "yellowLevel": "47"
@@ -6442,43 +9086,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bite",
+        "power": 60,
         "redBlueLevel": "12",
         "type": "Dark",
         "yellowLevel": "12"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Scatters money on the ground worth five times the user\u2019s level.",
         "move": "Pay Day",
+        "power": 40,
         "redBlueLevel": "17",
         "type": "Normal",
         "yellowLevel": "17"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by two stages.",
         "move": "Screech",
+        "power": null,
         "redBlueLevel": "24",
         "type": "Normal",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Swipes",
+        "power": 18,
         "redBlueLevel": "33",
         "type": "Normal",
         "yellowLevel": "33"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Slash",
+        "power": 70,
         "redBlueLevel": "44",
         "type": "Normal",
         "yellowLevel": "44"
@@ -6495,43 +9167,71 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bite",
+        "power": 60,
         "redBlueLevel": "12",
         "type": "Dark",
         "yellowLevel": "12"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Scatters money on the ground worth five times the user\u2019s level.",
         "move": "Pay Day",
+        "power": 40,
         "redBlueLevel": "17",
         "type": "Normal",
         "yellowLevel": "17"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by two stages.",
         "move": "Screech",
+        "power": null,
         "redBlueLevel": "24",
         "type": "Normal",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Swipes",
+        "power": 18,
         "redBlueLevel": "37",
         "type": "Normal",
         "yellowLevel": "37"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Slash",
+        "power": 70,
         "redBlueLevel": "51",
         "type": "Normal",
         "yellowLevel": "51"
@@ -6572,37 +9272,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "28",
         "type": "Normal",
         "yellowLevel": "28"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Disables the target\u2019s last used move for 1-8 turns.",
         "move": "Disable",
+        "power": null,
         "redBlueLevel": "31",
         "type": "Normal",
         "yellowLevel": "31"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Confusion",
+        "power": 50,
         "redBlueLevel": "36",
         "type": "Psychic",
         "yellowLevel": "36"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Swipes",
+        "power": 18,
         "redBlueLevel": "43",
         "type": "Normal",
         "yellowLevel": "43"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "52",
         "type": "Water",
         "yellowLevel": "52"
@@ -6634,37 +9358,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "28",
         "type": "Normal",
         "yellowLevel": "28"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Disables the target\u2019s last used move for 1-8 turns.",
         "move": "Disable",
+        "power": null,
         "redBlueLevel": "31",
         "type": "Normal",
         "yellowLevel": "31"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Confusion",
+        "power": 50,
         "redBlueLevel": "39",
         "type": "Psychic",
         "yellowLevel": "39"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Swipes",
+        "power": 18,
         "redBlueLevel": "48",
         "type": "Normal",
         "yellowLevel": "48"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "59",
         "type": "Water",
         "yellowLevel": "59"
@@ -6700,55 +9448,91 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Karate Chop",
+        "power": 50,
         "redBlueLevel": "15",
         "type": "Fighting",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Swipes",
+        "power": 18,
         "redBlueLevel": "21",
         "type": "Normal",
         "yellowLevel": "21"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Increases the user\u2019s chance to score a critical hit.",
         "move": "Focus Energy",
+        "power": null,
         "redBlueLevel": "27",
         "type": "Normal",
         "yellowLevel": "27"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts damage equal to the user\u2019s level.",
         "move": "Seismic Toss",
+        "power": null,
         "redBlueLevel": "33",
         "type": "Fighting",
         "yellowLevel": "33"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Hits every turn for 2-3 turns, then confuses the user.",
         "move": "Thrash",
+        "power": 120,
         "redBlueLevel": "39",
         "type": "Normal",
         "yellowLevel": "39"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts more damage to heavier targets, with a maximum of 120 power.",
         "move": "Low Kick",
+        "power": null,
         "redBlueLevel": "-",
         "type": "Fighting",
         "yellowLevel": "9"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by two stages.",
         "move": "Screech",
+        "power": null,
         "redBlueLevel": "-",
         "type": "Normal",
         "yellowLevel": "45"
@@ -6772,61 +9556,101 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Karate Chop",
+        "power": 50,
         "redBlueLevel": "15",
         "type": "Fighting",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Swipes",
+        "power": 18,
         "redBlueLevel": "21",
         "type": "Normal",
         "yellowLevel": "21"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Increases the user\u2019s chance to score a critical hit.",
         "move": "Focus Energy",
+        "power": null,
         "redBlueLevel": "27",
         "type": "Normal",
         "yellowLevel": "27"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts damage equal to the user\u2019s level.",
         "move": "Seismic Toss",
+        "power": null,
         "redBlueLevel": "37",
         "type": "Fighting",
         "yellowLevel": "37"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Hits every turn for 2-3 turns, then confuses the user.",
         "move": "Thrash",
+        "power": 120,
         "redBlueLevel": "46",
         "type": "Normal",
         "yellowLevel": "46"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts more damage to heavier targets, with a maximum of 120 power.",
         "move": "Low Kick",
+        "power": null,
         "redBlueLevel": "-",
         "type": "Fighting",
         "yellowLevel": "9"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "If the user is hit after using this move, its Attack rises by one stage.",
         "move": "Rage",
+        "power": 20,
         "redBlueLevel": "-",
         "type": "Normal",
         "yellowLevel": "28"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by two stages.",
         "move": "Screech",
+        "power": null,
         "redBlueLevel": "-",
         "type": "Normal",
         "yellowLevel": "45"
@@ -6861,43 +9685,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bite",
+        "power": 60,
         "redBlueLevel": "1",
         "type": "Dark",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Immediately ends wild battles. Forces trainers to switch Pok\u00e9mon.",
         "move": "Roar",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Ember",
+        "power": 40,
         "redBlueLevel": "18",
         "type": "Fire",
         "yellowLevel": "18"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "23",
         "type": "Normal",
         "yellowLevel": "23"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "User receives 1/4 the damage it inflicts in recoil.",
         "move": "Take Down",
+        "power": 90,
         "redBlueLevel": "30",
         "type": "Normal",
         "yellowLevel": "30"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "39",
         "type": "Psychic",
         "yellowLevel": "39"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Flamethrower",
+        "power": 90,
         "redBlueLevel": "50",
         "type": "Fire",
         "yellowLevel": "50"
@@ -6914,25 +9766,41 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Ember",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Fire",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Immediately ends wild battles. Forces trainers to switch Pok\u00e9mon.",
         "move": "Roar",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "User receives 1/4 the damage it inflicts in recoil.",
         "move": "Take Down",
+        "power": 90,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
@@ -6949,49 +9817,81 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Scratch",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Ember",
+        "power": 40,
         "redBlueLevel": "9",
         "type": "Fire",
         "yellowLevel": "9"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "15",
         "type": "Normal",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "If the user is hit after using this move, its Attack rises by one stage.",
         "move": "Rage",
+        "power": 20,
         "redBlueLevel": "24",
         "type": "Normal",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Slash",
+        "power": 70,
         "redBlueLevel": "36",
         "type": "Normal",
         "yellowLevel": "36"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Flamethrower",
+        "power": 90,
         "redBlueLevel": "46",
         "type": "Fire",
         "yellowLevel": "46"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Special",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Fire Spin",
+        "power": 35,
         "redBlueLevel": "55",
         "type": "Fire",
         "yellowLevel": "55"
@@ -7078,43 +9978,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Speed by one stage.",
         "move": "Bubble",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Water",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 60,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Hypnosis",
+        "power": null,
         "redBlueLevel": "16",
         "type": "Psychic",
         "yellowLevel": "16"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Water Gun",
+        "power": 40,
         "redBlueLevel": "19",
         "type": "Water",
         "yellowLevel": "19"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Double Slap",
+        "power": 15,
         "redBlueLevel": "25",
         "type": "Normal",
         "yellowLevel": "25"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Body Slam",
+        "power": 85,
         "redBlueLevel": "31",
         "type": "Normal",
         "yellowLevel": "31"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Special Defense by two stages.",
         "move": "Amnesia",
+        "power": null,
         "redBlueLevel": "38",
         "type": "Psychic",
         "yellowLevel": "38"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "45",
         "type": "Water",
         "yellowLevel": "45"
@@ -7146,43 +10074,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Speed by one stage.",
         "move": "Bubble",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Water",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 60,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Hypnosis",
+        "power": null,
         "redBlueLevel": "16",
         "type": "Psychic",
         "yellowLevel": "16"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Water Gun",
+        "power": 40,
         "redBlueLevel": "19",
         "type": "Water",
         "yellowLevel": "19"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Double Slap",
+        "power": 15,
         "redBlueLevel": "26",
         "type": "Normal",
         "yellowLevel": "26"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Body Slam",
+        "power": 85,
         "redBlueLevel": "33",
         "type": "Normal",
         "yellowLevel": "33"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Special Defense by two stages.",
         "move": "Amnesia",
+        "power": null,
         "redBlueLevel": "41",
         "type": "Psychic",
         "yellowLevel": "41"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "49",
         "type": "Water",
         "yellowLevel": "49"
@@ -7199,25 +10155,41 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Body Slam",
+        "power": 85,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Double Slap",
+        "power": 15,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 60,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Hypnosis",
+        "power": null,
         "redBlueLevel": "16",
         "type": "Psychic",
         "yellowLevel": "16"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Water Gun",
+        "power": 40,
         "redBlueLevel": "19",
         "type": "Water",
         "yellowLevel": "19"
@@ -7251,7 +10223,11 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Immediately ends wild battles. No effect otherwise.",
         "move": "Teleport",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Psychic",
         "yellowLevel": "1"
@@ -7282,49 +10258,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Immediately ends wild battles. No effect otherwise.",
         "move": "Teleport",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Psychic",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Confusion",
+        "power": 50,
         "redBlueLevel": "16",
         "type": "Psychic",
         "yellowLevel": "16"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Disables the target\u2019s last used move for 1-8 turns.",
         "move": "Disable",
+        "power": null,
         "redBlueLevel": "20",
         "type": "Normal",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Psybeam",
+        "power": 65,
         "redBlueLevel": "27",
         "type": "Psychic",
         "yellowLevel": "27"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Heals the user by half its max HP.",
         "move": "Recover",
+        "power": null,
         "redBlueLevel": "31",
         "type": "Normal",
         "yellowLevel": "31"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Psychic",
+        "power": 90,
         "redBlueLevel": "38",
         "type": "Psychic",
         "yellowLevel": "38"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Reduces damage from physical attacks by half.",
         "move": "Reflect",
+        "power": null,
         "redBlueLevel": "42",
         "type": "Psychic",
         "yellowLevel": "42"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Kinesis",
+        "power": null,
         "redBlueLevel": "-",
         "type": "Psychic",
         "yellowLevel": "1"
@@ -7341,49 +10349,81 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Immediately ends wild battles. No effect otherwise.",
         "move": "Teleport",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Psychic",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Confusion",
+        "power": 50,
         "redBlueLevel": "16",
         "type": "Psychic",
         "yellowLevel": "16"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Disables the target\u2019s last used move for 1-8 turns.",
         "move": "Disable",
+        "power": null,
         "redBlueLevel": "20",
         "type": "Normal",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Psybeam",
+        "power": 65,
         "redBlueLevel": "27",
         "type": "Psychic",
         "yellowLevel": "27"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Heals the user by half its max HP.",
         "move": "Recover",
+        "power": null,
         "redBlueLevel": "31",
         "type": "Normal",
         "yellowLevel": "31"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Psychic",
+        "power": 90,
         "redBlueLevel": "38",
         "type": "Psychic",
         "yellowLevel": "38"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Reduces damage from physical attacks by half.",
         "move": "Reflect",
+        "power": null,
         "redBlueLevel": "42",
         "type": "Psychic",
         "yellowLevel": "42"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Kinesis",
+        "power": null,
         "redBlueLevel": "-",
         "type": "Psychic",
         "yellowLevel": "1"
@@ -7419,37 +10459,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Karate Chop",
+        "power": 50,
         "redBlueLevel": "1",
         "type": "Fighting",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts more damage to heavier targets, with a maximum of 120 power.",
         "move": "Low Kick",
+        "power": null,
         "redBlueLevel": "20",
         "type": "Fighting",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "25",
         "type": "Normal",
         "yellowLevel": "25"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Increases the user\u2019s chance to score a critical hit.",
         "move": "Focus Energy",
+        "power": null,
         "redBlueLevel": "32",
         "type": "Normal",
         "yellowLevel": "32"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts damage equal to the user\u2019s level.",
         "move": "Seismic Toss",
+        "power": null,
         "redBlueLevel": "39",
         "type": "Fighting",
         "yellowLevel": "39"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Physical",
+        "effect": "User receives 1/4 the damage it inflicts in recoil.",
         "move": "Submission",
+        "power": 80,
         "redBlueLevel": "46",
         "type": "Fighting",
         "yellowLevel": "46"
@@ -7482,37 +10546,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Karate Chop",
+        "power": 50,
         "redBlueLevel": "1",
         "type": "Fighting",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts more damage to heavier targets, with a maximum of 120 power.",
         "move": "Low Kick",
+        "power": null,
         "redBlueLevel": "20",
         "type": "Fighting",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "25",
         "type": "Normal",
         "yellowLevel": "25"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Increases the user\u2019s chance to score a critical hit.",
         "move": "Focus Energy",
+        "power": null,
         "redBlueLevel": "36",
         "type": "Normal",
         "yellowLevel": "36"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts damage equal to the user\u2019s level.",
         "move": "Seismic Toss",
+        "power": null,
         "redBlueLevel": "44",
         "type": "Fighting",
         "yellowLevel": "44"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Physical",
+        "effect": "User receives 1/4 the damage it inflicts in recoil.",
         "move": "Submission",
+        "power": 80,
         "redBlueLevel": "52",
         "type": "Fighting",
         "yellowLevel": "52"
@@ -7529,37 +10617,61 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Karate Chop",
+        "power": 50,
         "redBlueLevel": "1",
         "type": "Fighting",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts more damage to heavier targets, with a maximum of 120 power.",
         "move": "Low Kick",
+        "power": null,
         "redBlueLevel": "20",
         "type": "Fighting",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "25",
         "type": "Normal",
         "yellowLevel": "25"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Increases the user\u2019s chance to score a critical hit.",
         "move": "Focus Energy",
+        "power": null,
         "redBlueLevel": "36",
         "type": "Normal",
         "yellowLevel": "36"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts damage equal to the user\u2019s level.",
         "move": "Seismic Toss",
+        "power": null,
         "redBlueLevel": "44",
         "type": "Fighting",
         "yellowLevel": "44"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Physical",
+        "effect": "User receives 1/4 the damage it inflicts in recoil.",
         "move": "Submission",
+        "power": 80,
         "redBlueLevel": "52",
         "type": "Fighting",
         "yellowLevel": "52"
@@ -7602,55 +10714,91 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Attack and Special Attack by one stage.",
         "move": "Growth",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Vine Whip",
+        "power": 45,
         "redBlueLevel": "1",
         "type": "Grass",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Wrap",
+        "power": 15,
         "redBlueLevel": "13",
         "type": "Normal",
         "yellowLevel": "13"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Poisons the target.",
         "move": "Poison Powder",
+        "power": null,
         "redBlueLevel": "15",
         "type": "Poison",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sleep Powder",
+        "power": null,
         "redBlueLevel": "18",
         "type": "Grass",
         "yellowLevel": "18"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Stun Spore",
+        "power": null,
         "redBlueLevel": "21",
         "type": "Grass",
         "yellowLevel": "21"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Acid",
+        "power": 40,
         "redBlueLevel": "26",
         "type": "Poison",
         "yellowLevel": "26"
       },
       {
+        "accuracy": 95,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Razor Leaf",
+        "power": 55,
         "redBlueLevel": "33",
         "type": "Grass",
         "yellowLevel": "33"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Slam",
+        "power": 80,
         "redBlueLevel": "42",
         "type": "Normal",
         "yellowLevel": "42"
@@ -7680,49 +10828,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Speed by one stage.",
         "move": "Bubble",
+        "power": 40,
         "redBlueLevel": "8",
         "type": "Water",
         "yellowLevel": "8"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Water Gun",
+        "power": 40,
         "redBlueLevel": "15",
         "type": "Water",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bite",
+        "power": 60,
         "redBlueLevel": "22",
         "type": "Dark",
         "yellowLevel": "22"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Withdraw",
+        "power": null,
         "redBlueLevel": "28",
         "type": "Water",
         "yellowLevel": "28"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Raises the user\u2019s Defense by one stage. User charges for one turn before attacking.",
         "move": "Skull Bash",
+        "power": 130,
         "redBlueLevel": "35",
         "type": "Normal",
         "yellowLevel": "35"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "42",
         "type": "Water",
         "yellowLevel": "42"
@@ -7760,55 +10940,91 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Attack and Special Attack by one stage.",
         "move": "Growth",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Vine Whip",
+        "power": 45,
         "redBlueLevel": "1",
         "type": "Grass",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Wrap",
+        "power": 15,
         "redBlueLevel": "13",
         "type": "Normal",
         "yellowLevel": "13"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Poisons the target.",
         "move": "Poison Powder",
+        "power": null,
         "redBlueLevel": "15",
         "type": "Poison",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sleep Powder",
+        "power": null,
         "redBlueLevel": "18",
         "type": "Grass",
         "yellowLevel": "18"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Stun Spore",
+        "power": null,
         "redBlueLevel": "23",
         "type": "Grass",
         "yellowLevel": "23"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Acid",
+        "power": 40,
         "redBlueLevel": "29",
         "type": "Poison",
         "yellowLevel": "29"
       },
       {
+        "accuracy": 95,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Razor Leaf",
+        "power": 55,
         "redBlueLevel": "38",
         "type": "Grass",
         "yellowLevel": "38"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Slam",
+        "power": 80,
         "redBlueLevel": "49",
         "type": "Normal",
         "yellowLevel": "49"
@@ -7825,37 +11041,61 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Acid",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Poison",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 95,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Razor Leaf",
+        "power": 55,
         "redBlueLevel": "1",
         "type": "Grass",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Stun Spore",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Grass",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Wrap",
+        "power": 15,
         "redBlueLevel": "13",
         "type": "Normal",
         "yellowLevel": "13"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Poisons the target.",
         "move": "Poison Powder",
+        "power": null,
         "redBlueLevel": "15",
         "type": "Poison",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Sleep Powder",
+        "power": null,
         "redBlueLevel": "18",
         "type": "Grass",
         "yellowLevel": "18"
@@ -7905,55 +11145,91 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Acid",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Poison",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Supersonic",
+        "power": null,
         "redBlueLevel": "7",
         "type": "Normal",
         "yellowLevel": "7"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Wrap",
+        "power": 15,
         "redBlueLevel": "13",
         "type": "Normal",
         "yellowLevel": "13"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Poison Sting",
+        "power": 15,
         "redBlueLevel": "18",
         "type": "Poison",
         "yellowLevel": "18"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Water Gun",
+        "power": 40,
         "redBlueLevel": "22",
         "type": "Water",
         "yellowLevel": "22"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Speed by one stage.",
         "move": "Constrict",
+        "power": 10,
         "redBlueLevel": "27",
         "type": "Normal",
         "yellowLevel": "27"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by two stages.",
         "move": "Barrier",
+        "power": null,
         "redBlueLevel": "33",
         "type": "Psychic",
         "yellowLevel": "33"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by two stages.",
         "move": "Screech",
+        "power": null,
         "redBlueLevel": "40",
         "type": "Normal",
         "yellowLevel": "40"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "48",
         "type": "Water",
         "yellowLevel": "48"
@@ -7979,55 +11255,91 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Acid",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Poison",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Supersonic",
+        "power": null,
         "redBlueLevel": "7",
         "type": "Normal",
         "yellowLevel": "7"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Wrap",
+        "power": 15,
         "redBlueLevel": "13",
         "type": "Normal",
         "yellowLevel": "13"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Poison Sting",
+        "power": 15,
         "redBlueLevel": "18",
         "type": "Poison",
         "yellowLevel": "18"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Water Gun",
+        "power": 40,
         "redBlueLevel": "22",
         "type": "Water",
         "yellowLevel": "22"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Speed by one stage.",
         "move": "Constrict",
+        "power": 10,
         "redBlueLevel": "27",
         "type": "Normal",
         "yellowLevel": "27"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by two stages.",
         "move": "Barrier",
+        "power": null,
         "redBlueLevel": "35",
         "type": "Psychic",
         "yellowLevel": "35"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by two stages.",
         "move": "Screech",
+        "power": null,
         "redBlueLevel": "43",
         "type": "Normal",
         "yellowLevel": "43"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "50",
         "type": "Water",
         "yellowLevel": "50"
@@ -8071,43 +11383,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises user\u2019s Defense by one stage.",
         "move": "Defense Curl",
+        "power": null,
         "redBlueLevel": "11",
         "type": "Normal",
         "yellowLevel": "11"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Rock Throw",
+        "power": 50,
         "redBlueLevel": "16",
         "type": "Rock",
         "yellowLevel": "16"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User faints.",
         "move": "Self Destruct",
+        "power": 200,
         "redBlueLevel": "21",
         "type": "Normal",
         "yellowLevel": "21"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Harden",
+        "power": null,
         "redBlueLevel": "26",
         "type": "Normal",
         "yellowLevel": "26"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage and can hit Dig users.",
         "move": "Earthquake",
+        "power": 100,
         "redBlueLevel": "31",
         "type": "Ground",
         "yellowLevel": "31"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User faints.",
         "move": "Explosion",
+        "power": 250,
         "redBlueLevel": "36",
         "type": "Normal",
         "yellowLevel": "36"
@@ -8144,43 +11484,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises user\u2019s Defense by one stage.",
         "move": "Defense Curl",
+        "power": null,
         "redBlueLevel": "11",
         "type": "Normal",
         "yellowLevel": "11"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Rock Throw",
+        "power": 50,
         "redBlueLevel": "16",
         "type": "Rock",
         "yellowLevel": "16"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User faints.",
         "move": "Self Destruct",
+        "power": 200,
         "redBlueLevel": "21",
         "type": "Normal",
         "yellowLevel": "21"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Harden",
+        "power": null,
         "redBlueLevel": "29",
         "type": "Normal",
         "yellowLevel": "29"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage and can hit Dig users.",
         "move": "Earthquake",
+        "power": 100,
         "redBlueLevel": "36",
         "type": "Ground",
         "yellowLevel": "36"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User faints.",
         "move": "Explosion",
+        "power": 250,
         "redBlueLevel": "43",
         "type": "Normal",
         "yellowLevel": "43"
@@ -8197,43 +11565,71 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises user\u2019s Defense by one stage.",
         "move": "Defense Curl",
+        "power": null,
         "redBlueLevel": "11",
         "type": "Normal",
         "yellowLevel": "11"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Rock Throw",
+        "power": 50,
         "redBlueLevel": "16",
         "type": "Rock",
         "yellowLevel": "16"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User faints.",
         "move": "Self Destruct",
+        "power": 200,
         "redBlueLevel": "21",
         "type": "Normal",
         "yellowLevel": "21"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Harden",
+        "power": null,
         "redBlueLevel": "29",
         "type": "Normal",
         "yellowLevel": "29"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage and can hit Dig users.",
         "move": "Earthquake",
+        "power": 100,
         "redBlueLevel": "36",
         "type": "Ground",
         "yellowLevel": "36"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "User faints.",
         "move": "Explosion",
+        "power": 250,
         "redBlueLevel": "43",
         "type": "Normal",
         "yellowLevel": "43"
@@ -8266,43 +11662,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Ember",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Fire",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "30",
         "type": "Normal",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Stomp",
+        "power": 65,
         "redBlueLevel": "32",
         "type": "Normal",
         "yellowLevel": "32"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "35",
         "type": "Normal",
         "yellowLevel": "35"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Special",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Fire Spin",
+        "power": 35,
         "redBlueLevel": "39",
         "type": "Fire",
         "yellowLevel": "39"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "User receives 1/4 the damage it inflicts in recoil.",
         "move": "Take Down",
+        "power": 90,
         "redBlueLevel": "43",
         "type": "Normal",
         "yellowLevel": "43"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "48",
         "type": "Psychic",
         "yellowLevel": "48"
@@ -8319,43 +11743,71 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn the target.",
         "move": "Ember",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Fire",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "30",
         "type": "Normal",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Stomp",
+        "power": 65,
         "redBlueLevel": "32",
         "type": "Normal",
         "yellowLevel": "32"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "35",
         "type": "Normal",
         "yellowLevel": "35"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Special",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Fire Spin",
+        "power": 35,
         "redBlueLevel": "39",
         "type": "Fire",
         "yellowLevel": "39"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "User receives 1/4 the damage it inflicts in recoil.",
         "move": "Take Down",
+        "power": 90,
         "redBlueLevel": "47",
         "type": "Normal",
         "yellowLevel": "47"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "55",
         "type": "Psychic",
         "yellowLevel": "55"
@@ -8399,43 +11851,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Confusion",
+        "power": 50,
         "redBlueLevel": "1",
         "type": "Psychic",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Disables the target\u2019s last used move for 1-8 turns.",
         "move": "Disable",
+        "power": null,
         "redBlueLevel": "18",
         "type": "Normal",
         "yellowLevel": "18"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Headbutt",
+        "power": 70,
         "redBlueLevel": "22",
         "type": "Normal",
         "yellowLevel": "22"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "27",
         "type": "Normal",
         "yellowLevel": "27"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Water Gun",
+        "power": 40,
         "redBlueLevel": "33",
         "type": "Water",
         "yellowLevel": "33"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Special Defense by two stages.",
         "move": "Amnesia",
+        "power": null,
         "redBlueLevel": "40",
         "type": "Psychic",
         "yellowLevel": "40"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Psychic",
+        "power": 90,
         "redBlueLevel": "48",
         "type": "Psychic",
         "yellowLevel": "48"
@@ -8452,49 +11932,81 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Speed by one stage.",
         "move": "Bubble",
+        "power": 40,
         "redBlueLevel": "8",
         "type": "Water",
         "yellowLevel": "8"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Water Gun",
+        "power": 40,
         "redBlueLevel": "15",
         "type": "Water",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bite",
+        "power": 60,
         "redBlueLevel": "24",
         "type": "Dark",
         "yellowLevel": "24"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Withdraw",
+        "power": null,
         "redBlueLevel": "31",
         "type": "Water",
         "yellowLevel": "31"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Raises the user\u2019s Defense by one stage. User charges for one turn before attacking.",
         "move": "Skull Bash",
+        "power": 130,
         "redBlueLevel": "39",
         "type": "Normal",
         "yellowLevel": "39"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "47",
         "type": "Water",
         "yellowLevel": "47"
@@ -8531,49 +12043,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Confusion",
+        "power": 50,
         "redBlueLevel": "1",
         "type": "Psychic",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Disables the target\u2019s last used move for 1-8 turns.",
         "move": "Disable",
+        "power": null,
         "redBlueLevel": "18",
         "type": "Normal",
         "yellowLevel": "18"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Headbutt",
+        "power": 70,
         "redBlueLevel": "22",
         "type": "Normal",
         "yellowLevel": "22"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "27",
         "type": "Normal",
         "yellowLevel": "27"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Water Gun",
+        "power": 40,
         "redBlueLevel": "33",
         "type": "Water",
         "yellowLevel": "33"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Withdraw",
+        "power": null,
         "redBlueLevel": "37",
         "type": "Water",
         "yellowLevel": "37"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Special Defense by two stages.",
         "move": "Amnesia",
+        "power": null,
         "redBlueLevel": "44",
         "type": "Psychic",
         "yellowLevel": "44"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Psychic",
+        "power": 90,
         "redBlueLevel": "55",
         "type": "Psychic",
         "yellowLevel": "55"
@@ -8604,43 +12148,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Special",
+        "effect": "Inflicts 20 points of damage.",
         "move": "Sonic Boom",
+        "power": null,
         "redBlueLevel": "21",
         "type": "Normal",
         "yellowLevel": "21"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Thunder Shock",
+        "power": 40,
         "redBlueLevel": "25",
         "type": "Electric",
         "yellowLevel": "25"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Supersonic",
+        "power": null,
         "redBlueLevel": "29",
         "type": "Normal",
         "yellowLevel": "29"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Thunder Wave",
+        "power": null,
         "redBlueLevel": "35",
         "type": "Electric",
         "yellowLevel": "35"
       },
       {
+        "accuracy": null,
+        "damageClass": "Special",
+        "effect": "Never misses.",
         "move": "Swift",
+        "power": 60,
         "redBlueLevel": "41",
         "type": "Normal",
         "yellowLevel": "41"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by two stages.",
         "move": "Screech",
+        "power": null,
         "redBlueLevel": "47",
         "type": "Normal",
         "yellowLevel": "47"
@@ -8671,43 +12243,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Special",
+        "effect": "Inflicts 20 points of damage.",
         "move": "Sonic Boom",
+        "power": null,
         "redBlueLevel": "21",
         "type": "Normal",
         "yellowLevel": "21"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Thunder Shock",
+        "power": 40,
         "redBlueLevel": "25",
         "type": "Electric",
         "yellowLevel": "25"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Supersonic",
+        "power": null,
         "redBlueLevel": "29",
         "type": "Normal",
         "yellowLevel": "29"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Status",
+        "effect": "Paralyzes the target.",
         "move": "Thunder Wave",
+        "power": null,
         "redBlueLevel": "38",
         "type": "Electric",
         "yellowLevel": "38"
       },
       {
+        "accuracy": null,
+        "damageClass": "Special",
+        "effect": "Never misses.",
         "move": "Swift",
+        "power": 60,
         "redBlueLevel": "46",
         "type": "Normal",
         "yellowLevel": "46"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by two stages.",
         "move": "Screech",
+        "power": null,
         "redBlueLevel": "54",
         "type": "Normal",
         "yellowLevel": "54"
@@ -8732,43 +12332,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Peck",
+        "power": 35,
         "redBlueLevel": "1",
         "type": "Flying",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s accuracy by one stage.",
         "move": "Sand Attack",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Ground",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "7",
         "type": "Normal",
         "yellowLevel": "7"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Attack",
+        "power": 15,
         "redBlueLevel": "15",
         "type": "Normal",
         "yellowLevel": "15"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Attack by two stages.",
         "move": "Swords Dance",
+        "power": null,
         "redBlueLevel": "23",
         "type": "Normal",
         "yellowLevel": "23"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "31",
         "type": "Psychic",
         "yellowLevel": "31"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Slash",
+        "power": 70,
         "redBlueLevel": "39",
         "type": "Normal",
         "yellowLevel": "39"
@@ -8804,43 +12432,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Peck",
+        "power": 35,
         "redBlueLevel": "1",
         "type": "Flying",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "20",
         "type": "Normal",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Attack",
+        "power": 15,
         "redBlueLevel": "24",
         "type": "Normal",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Drill Peck",
+        "power": 80,
         "redBlueLevel": "30",
         "type": "Flying",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "If the user is hit after using this move, its Attack rises by one stage.",
         "move": "Rage",
+        "power": 20,
         "redBlueLevel": "36",
         "type": "Normal",
         "yellowLevel": "36"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn, freeze, or paralyze the target.",
         "move": "Tri Attack",
+        "power": 80,
         "redBlueLevel": "40",
         "type": "Normal",
         "yellowLevel": "40"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "44",
         "type": "Psychic",
         "yellowLevel": "44"
@@ -8871,43 +12527,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Peck",
+        "power": 35,
         "redBlueLevel": "1",
         "type": "Flying",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "20",
         "type": "Normal",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Fury Attack",
+        "power": 15,
         "redBlueLevel": "24",
         "type": "Normal",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Drill Peck",
+        "power": 80,
         "redBlueLevel": "30",
         "type": "Flying",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "If the user is hit after using this move, its Attack rises by one stage.",
         "move": "Rage",
+        "power": 20,
         "redBlueLevel": "39",
         "type": "Normal",
         "yellowLevel": "39"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to burn, freeze, or paralyze the target.",
         "move": "Tri Attack",
+        "power": 80,
         "redBlueLevel": "45",
         "type": "Normal",
         "yellowLevel": "45"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Speed by two stages.",
         "move": "Agility",
+        "power": null,
         "redBlueLevel": "51",
         "type": "Psychic",
         "yellowLevel": "51"
@@ -8944,37 +12628,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Headbutt",
+        "power": 70,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "30",
         "type": "Normal",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Attack by one stage.",
         "move": "Aurora Beam",
+        "power": 65,
         "redBlueLevel": "35",
         "type": "Ice",
         "yellowLevel": "35"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "User sleeps for two turns, completely healing itself.",
         "move": "Rest",
+        "power": null,
         "redBlueLevel": "40",
         "type": "Psychic",
         "yellowLevel": "40"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "User receives 1/4 the damage it inflicts in recoil.",
         "move": "Take Down",
+        "power": 90,
         "redBlueLevel": "45",
         "type": "Normal",
         "yellowLevel": "45"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to freeze the target.",
         "move": "Ice Beam",
+        "power": 90,
         "redBlueLevel": "50",
         "type": "Ice",
         "yellowLevel": "50"
@@ -9006,37 +12714,61 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Headbutt",
+        "power": 70,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Attack by one stage.",
         "move": "Growl",
+        "power": null,
         "redBlueLevel": "30",
         "type": "Normal",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Attack by one stage.",
         "move": "Aurora Beam",
+        "power": 65,
         "redBlueLevel": "35",
         "type": "Ice",
         "yellowLevel": "35"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "User sleeps for two turns, completely healing itself.",
         "move": "Rest",
+        "power": null,
         "redBlueLevel": "44",
         "type": "Psychic",
         "yellowLevel": "44"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "User receives 1/4 the damage it inflicts in recoil.",
         "move": "Take Down",
+        "power": 90,
         "redBlueLevel": "50",
         "type": "Normal",
         "yellowLevel": "50"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to freeze the target.",
         "move": "Ice Beam",
+        "power": 90,
         "redBlueLevel": "56",
         "type": "Ice",
         "yellowLevel": "56"
@@ -9073,49 +12805,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Disables the target\u2019s last used move for 1-8 turns.",
         "move": "Disable",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Pound",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Status",
+        "effect": "Poisons the target.",
         "move": "Poison Gas",
+        "power": null,
         "redBlueLevel": "30",
         "type": "Poison",
         "yellowLevel": "30"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s evasion by two stages.",
         "move": "Minimize",
+        "power": null,
         "redBlueLevel": "33",
         "type": "Normal",
         "yellowLevel": "33"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Sludge",
+        "power": 65,
         "redBlueLevel": "37",
         "type": "Poison",
         "yellowLevel": "37"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Harden",
+        "power": null,
         "redBlueLevel": "42",
         "type": "Normal",
         "yellowLevel": "42"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by two stages.",
         "move": "Screech",
+        "power": null,
         "redBlueLevel": "48",
         "type": "Normal",
         "yellowLevel": "48"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by two stages.",
         "move": "Acid Armor",
+        "power": null,
         "redBlueLevel": "55",
         "type": "Poison",
         "yellowLevel": "55"
@@ -9151,49 +12915,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Disables the target\u2019s last used move for 1-8 turns.",
         "move": "Disable",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Pound",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Status",
+        "effect": "Poisons the target.",
         "move": "Poison Gas",
+        "power": null,
         "redBlueLevel": "30",
         "type": "Poison",
         "yellowLevel": "30"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s evasion by two stages.",
         "move": "Minimize",
+        "power": null,
         "redBlueLevel": "33",
         "type": "Normal",
         "yellowLevel": "33"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to poison the target.",
         "move": "Sludge",
+        "power": 65,
         "redBlueLevel": "37",
         "type": "Poison",
         "yellowLevel": "37"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Harden",
+        "power": null,
         "redBlueLevel": "45",
         "type": "Normal",
         "yellowLevel": "45"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by two stages.",
         "move": "Screech",
+        "power": null,
         "redBlueLevel": "53",
         "type": "Normal",
         "yellowLevel": "53"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by two stages.",
         "move": "Acid Armor",
+        "power": null,
         "redBlueLevel": "60",
         "type": "Poison",
         "yellowLevel": "60"
@@ -9210,49 +13006,81 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Tail Whip",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Speed by one stage.",
         "move": "Bubble",
+        "power": 40,
         "redBlueLevel": "8",
         "type": "Water",
         "yellowLevel": "8"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Water Gun",
+        "power": 40,
         "redBlueLevel": "15",
         "type": "Water",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Bite",
+        "power": 60,
         "redBlueLevel": "24",
         "type": "Dark",
         "yellowLevel": "24"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Withdraw",
+        "power": null,
         "redBlueLevel": "31",
         "type": "Water",
         "yellowLevel": "31"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Raises the user\u2019s Defense by one stage. User charges for one turn before attacking.",
         "move": "Skull Bash",
+        "power": 130,
         "redBlueLevel": "42",
         "type": "Normal",
         "yellowLevel": "42"
       },
       {
+        "accuracy": 80,
+        "damageClass": "Special",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Hydro Pump",
+        "power": 110,
         "redBlueLevel": "52",
         "type": "Water",
         "yellowLevel": "52"
@@ -9296,43 +13124,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Withdraw",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Water",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Supersonic",
+        "power": null,
         "redBlueLevel": "18",
         "type": "Normal",
         "yellowLevel": "18"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Clamp",
+        "power": 35,
         "redBlueLevel": "23",
         "type": "Water",
         "yellowLevel": "23"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Attack by one stage.",
         "move": "Aurora Beam",
+        "power": 65,
         "redBlueLevel": "30",
         "type": "Ice",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "39",
         "type": "Normal",
         "yellowLevel": "39"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to freeze the target.",
         "move": "Ice Beam",
+        "power": 90,
         "redBlueLevel": "50",
         "type": "Ice",
         "yellowLevel": "50"
@@ -9349,31 +13205,51 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Attack by one stage.",
         "move": "Aurora Beam",
+        "power": 65,
         "redBlueLevel": "1",
         "type": "Ice",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Clamp",
+        "power": 35,
         "redBlueLevel": "1",
         "type": "Water",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 55,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Supersonic",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Withdraw",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Water",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Hits 2-5 times in one turn.",
         "move": "Spike Cannon",
+        "power": 20,
         "redBlueLevel": "50",
         "type": "Normal",
         "yellowLevel": "50"
@@ -9411,31 +13287,51 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Confuse Ray",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Ghost",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Lick",
+        "power": 30,
         "redBlueLevel": "1",
         "type": "Ghost",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts damage equal to the user\u2019s level.",
         "move": "Night Shade",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Ghost",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 60,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Hypnosis",
+        "power": null,
         "redBlueLevel": "27",
         "type": "Psychic",
         "yellowLevel": "27"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Only works on sleeping Pok\u00e9mon. Drains half the damage inflicted to heal the user.",
         "move": "Dream Eater",
+        "power": 100,
         "redBlueLevel": "35",
         "type": "Psychic",
         "yellowLevel": "35"
@@ -9473,31 +13369,51 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Confuse Ray",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Ghost",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Lick",
+        "power": 30,
         "redBlueLevel": "1",
         "type": "Ghost",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts damage equal to the user\u2019s level.",
         "move": "Night Shade",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Ghost",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 60,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Hypnosis",
+        "power": null,
         "redBlueLevel": "29",
         "type": "Psychic",
         "yellowLevel": "29"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Only works on sleeping Pok\u00e9mon. Drains half the damage inflicted to heal the user.",
         "move": "Dream Eater",
+        "power": 100,
         "redBlueLevel": "38",
         "type": "Psychic",
         "yellowLevel": "38"
@@ -9514,31 +13430,51 @@ window.kantoReferenceData = {
     "encounterLocations": [],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Confuses the target.",
         "move": "Confuse Ray",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Ghost",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to paralyze the target.",
         "move": "Lick",
+        "power": 30,
         "redBlueLevel": "1",
         "type": "Ghost",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Inflicts damage equal to the user\u2019s level.",
         "move": "Night Shade",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Ghost",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 60,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Hypnosis",
+        "power": null,
         "redBlueLevel": "29",
         "type": "Psychic",
         "yellowLevel": "29"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Only works on sleeping Pok\u00e9mon. Drains half the damage inflicted to heal the user.",
         "move": "Dream Eater",
+        "power": 100,
         "redBlueLevel": "38",
         "type": "Psychic",
         "yellowLevel": "38"
@@ -9575,43 +13511,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 85,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by two stages.",
         "move": "Screech",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Tackle",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 85,
+        "damageClass": "Physical",
+        "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
         "move": "Bind",
+        "power": 15,
         "redBlueLevel": "15",
         "type": "Normal",
         "yellowLevel": "15"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Rock Throw",
+        "power": 50,
         "redBlueLevel": "19",
         "type": "Rock",
         "yellowLevel": "19"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "If the user is hit after using this move, its Attack rises by one stage.",
         "move": "Rage",
+        "power": 20,
         "redBlueLevel": "25",
         "type": "Normal",
         "yellowLevel": "25"
       },
       {
+        "accuracy": 75,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Slam",
+        "power": 80,
         "redBlueLevel": "33",
         "type": "Normal",
         "yellowLevel": "33"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Harden",
+        "power": null,
         "redBlueLevel": "43",
         "type": "Normal",
         "yellowLevel": "43"
@@ -9641,49 +13605,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 60,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Hypnosis",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Psychic",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Pound",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Disables the target\u2019s last used move for 1-8 turns.",
         "move": "Disable",
+        "power": null,
         "redBlueLevel": "12",
         "type": "Normal",
         "yellowLevel": "12"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Confusion",
+        "power": 50,
         "redBlueLevel": "17",
         "type": "Psychic",
         "yellowLevel": "17"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Headbutt",
+        "power": 70,
         "redBlueLevel": "24",
         "type": "Normal",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Status",
+        "effect": "Poisons the target.",
         "move": "Poison Gas",
+        "power": null,
         "redBlueLevel": "29",
         "type": "Poison",
         "yellowLevel": "29"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Psychic",
+        "power": 90,
         "redBlueLevel": "32",
         "type": "Psychic",
         "yellowLevel": "32"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Attack by one stage.",
         "move": "Meditate",
+        "power": null,
         "redBlueLevel": "37",
         "type": "Psychic",
         "yellowLevel": "37"
@@ -9707,49 +13703,81 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 60,
+        "damageClass": "Status",
+        "effect": "Puts the target to sleep.",
         "move": "Hypnosis",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Psychic",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Pound",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Disables the target\u2019s last used move for 1-8 turns.",
         "move": "Disable",
+        "power": null,
         "redBlueLevel": "12",
         "type": "Normal",
         "yellowLevel": "12"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to confuse the target.",
         "move": "Confusion",
+        "power": 50,
         "redBlueLevel": "17",
         "type": "Psychic",
         "yellowLevel": "17"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Headbutt",
+        "power": 70,
         "redBlueLevel": "24",
         "type": "Normal",
         "yellowLevel": "24"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Status",
+        "effect": "Poisons the target.",
         "move": "Poison Gas",
+        "power": null,
         "redBlueLevel": "33",
         "type": "Poison",
         "yellowLevel": "33"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Special Defense by one stage.",
         "move": "Psychic",
+        "power": 90,
         "redBlueLevel": "37",
         "type": "Psychic",
         "yellowLevel": "37"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Attack by one stage.",
         "move": "Meditate",
+        "power": null,
         "redBlueLevel": "43",
         "type": "Psychic",
         "yellowLevel": "43"
@@ -9805,43 +13833,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Speed by one stage.",
         "move": "Bubble",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Water",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Vice Grip",
+        "power": 55,
         "redBlueLevel": "20",
         "type": "Normal",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 30,
+        "damageClass": "Physical",
+        "effect": "Causes a one-hit KO.",
         "move": "Guillotine",
+        "power": null,
         "redBlueLevel": "25",
         "type": "Normal",
         "yellowLevel": "25"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Stomp",
+        "power": 65,
         "redBlueLevel": "30",
         "type": "Normal",
         "yellowLevel": "30"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Crabhammer",
+        "power": 100,
         "redBlueLevel": "35",
         "type": "Water",
         "yellowLevel": "35"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Harden",
+        "power": null,
         "redBlueLevel": "40",
         "type": "Normal",
         "yellowLevel": "40"
@@ -9880,43 +13936,71 @@ window.kantoReferenceData = {
     ],
     "learnset": [
       {
+        "accuracy": 100,
+        "damageClass": "Special",
+        "effect": "Has a $effect_chance% chance to lower the target\u2019s Speed by one stage.",
         "move": "Bubble",
+        "power": 40,
         "redBlueLevel": "1",
         "type": "Water",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Status",
+        "effect": "Lowers the target\u2019s Defense by one stage.",
         "move": "Leer",
+        "power": null,
         "redBlueLevel": "1",
         "type": "Normal",
         "yellowLevel": "1"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Inflicts regular damage with no additional effect.",
         "move": "Vice Grip",
+        "power": 55,
         "redBlueLevel": "20",
         "type": "Normal",
         "yellowLevel": "20"
       },
       {
+        "accuracy": 30,
+        "damageClass": "Physical",
+        "effect": "Causes a one-hit KO.",
         "move": "Guillotine",
+        "power": null,
         "redBlueLevel": "25",
         "type": "Normal",
         "yellowLevel": "25"
       },
       {
+        "accuracy": 100,
+        "damageClass": "Physical",
+        "effect": "Has a $effect_chance% chance to make the target flinch.",
         "move": "Stomp",
+        "power": 65,
         "redBlueLevel": "34",
         "type": "Normal",
         "yellowLevel": "34"
       },
       {
+        "accuracy": 90,
+        "damageClass": "Physical",
+        "effect": "Has an increased chance for a critical hit.",
         "move": "Crabhammer",
+        "power": 100,
         "redBlueLevel": "42",
         "type": "Water",
         "yellowLevel": "42"
       },
       {
+        "accuracy": null,
+        "damageClass": "Status",
+        "effect": "Raises the user\u2019s Defense by one stage.",
         "move": "Harden",
+        "power": null,
         "redBlueLevel": "49",
         "type": "Normal",
         "yellowLevel": "49"

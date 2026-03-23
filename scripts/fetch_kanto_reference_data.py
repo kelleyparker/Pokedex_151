@@ -45,6 +45,13 @@ def clean_text(value: str) -> str:
     return " ".join(value.replace("\f", " ").replace("\n", " ").split())
 
 
+def english_short_effect(move_payload: dict) -> str:
+    for entry in move_payload.get("effect_entries", []):
+        if entry["language"]["name"] == "en":
+            return clean_text(entry["short_effect"])
+    return ""
+
+
 def english_flavor_text(species_payload: dict) -> dict:
     texts = {}
     for version in VERSION_ORDER:
@@ -101,6 +108,10 @@ def level_up_learnset(pokemon_payload: dict) -> list:
         row = {
             "move": move_name.replace("-", " ").title(),
             "type": move_payload["type"]["name"].title(),
+            "damageClass": move_payload["damage_class"]["name"].title(),
+            "power": move_payload.get("power"),
+            "accuracy": move_payload.get("accuracy"),
+            "effect": english_short_effect(move_payload),
             "redBlueLevel": "-",
             "yellowLevel": "-",
         }
