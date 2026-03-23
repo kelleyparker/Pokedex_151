@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kanto Grid | Red Blue Yellow Pokedex</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;800&family=Rajdhani:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="grid-overlay"></div>
+    <header class="hero">
+      <div class="hero__copy">
+        <p class="eyebrow">Game Boy Era Field Index</p>
+        <h1>Kanto Grid 151</h1>
+        <p class="hero__text">
+          A cyber-styled Pokedex focused on the first 151 Pokemon and how they
+          live, battle, evolve, and show up across Pokemon Red, Blue, and
+          Yellow.
+        </p>
+      </div>
+      <div class="hero__panel">
+        <div class="stat">
+          <span class="stat__label">Dex Range</span>
+          <span class="stat__value">001-151</span>
+        </div>
+        <div class="stat">
+          <span class="stat__label">Regions</span>
+          <span class="stat__value">Kanto</span>
+        </div>
+        <div class="stat">
+          <span class="stat__label">Versions</span>
+          <span class="stat__value">Red / Blue / Yellow</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="shell">
+      <section class="controls panel">
+        <label class="control">
+          <span>Search</span>
+          <input id="search" type="search" placeholder="Name, type, route, role..." />
+        </label>
+
+        <label class="control">
+          <span>Type</span>
+          <select id="typeFilter">
+            <option value="All">All types</option>
+          </select>
+        </label>
+
+        <label class="control">
+          <span>Version</span>
+          <select id="versionFilter">
+            <option value="All">All versions</option>
+            <option value="Red">Red</option>
+            <option value="Blue">Blue</option>
+            <option value="Yellow">Yellow</option>
+          </select>
+        </label>
+
+        <label class="control">
+          <span>Habitat</span>
+          <select id="habitatFilter">
+            <option value="All">All habitats</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="content-grid">
+        <aside class="list-panel panel">
+          <div class="list-panel__header">
+            <h2>Signal List</h2>
+            <p id="resultsCount">151 entries</p>
+          </div>
+          <div id="pokemonList" class="pokemon-list"></div>
+        </aside>
+
+        <section class="detail-panel panel">
+          <div id="pokemonDetail" class="detail"></div>
+        </section>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>
+        Tech-art presentation inspired by cyber UI design. Typeface uses
+        web-safe techno fonts rather than the proprietary EA family.
+      </p>
+    </footer>
+
+    <script src="./pokemon-data.js"></script>
+    <script src="./generated/kanto-reference.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
