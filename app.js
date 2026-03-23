@@ -75,6 +75,29 @@ function moveGlowColor(type) {
   return moveTypeGlowMap[type] || moveTypeGlowMap.Normal;
 }
 
+function escapeHtml(value) {
+  return String(value)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
+}
+
+function movePowerLabel(move) {
+  if (move.damageClass === "Status" || move.power === null || move.power === undefined) {
+    return "Status";
+  }
+  return `Power ${move.power}`;
+}
+
+function moveEffectLabel(move) {
+  if (!move.effect) {
+    return "No extra effect.";
+  }
+  return move.effect;
+}
+
 function renderMoveName(move) {
   const type = move.type || "Normal";
   const glow = moveGlowColor(type);
@@ -99,7 +122,19 @@ function renderMoveName(move) {
       style="--move-glow: ${glow}"
       onmouseenter="${enter}"
       onmouseleave="${leave}"
-    >${move.move}</button>
+    >
+      <span class="move-name__label">${escapeHtml(move.move)}</span>
+      <span class="move-tooltip" role="tooltip">
+        <span class="move-tooltip__top">
+          <span class="move-tooltip__type">${escapeHtml(type)}</span>
+          <span class="move-tooltip__power">${escapeHtml(movePowerLabel(move))}</span>
+        </span>
+        <span class="move-tooltip__meta">
+          ${escapeHtml(move.damageClass)}${move.accuracy ? ` • ${move.accuracy}% acc` : ""}
+        </span>
+        <span class="move-tooltip__effect">${escapeHtml(moveEffectLabel(move))}</span>
+      </span>
+    </button>
   `;
 }
 
