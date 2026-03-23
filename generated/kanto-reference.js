@@ -1,0 +1,8911 @@
+window.kantoReferenceData = {
+  "1": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Pallet Town Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cerulean City Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Growl",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Leech Seed",
+        "redBlueLevel": "7",
+        "yellowLevel": "7"
+      },
+      {
+        "move": "Vine Whip",
+        "redBlueLevel": "13",
+        "yellowLevel": "13"
+      },
+      {
+        "move": "Poison Powder",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Razor Leaf",
+        "redBlueLevel": "27",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Growth",
+        "redBlueLevel": "34",
+        "yellowLevel": "34"
+      },
+      {
+        "move": "Sleep Powder",
+        "redBlueLevel": "41",
+        "yellowLevel": "41"
+      },
+      {
+        "move": "Solar Beam",
+        "redBlueLevel": "48",
+        "yellowLevel": "48"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POK\u00e9MON.",
+      "red": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POK\u00e9MON.",
+      "yellow": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy."
+    }
+  },
+  "10": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 2 South Towards Viridian City",
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area",
+          "Viridian Forest Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Viridian Forest Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "String Shot",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+      "red": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+      "yellow": "If you touch the feeler on top of its head, it will release a horrible stink to protect itself."
+    }
+  },
+  "100": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 10 Area",
+          "Power Plant Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Power Plant Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Screech",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sonic Boom",
+        "redBlueLevel": "17",
+        "yellowLevel": "17"
+      },
+      {
+        "move": "Self Destruct",
+        "redBlueLevel": "22",
+        "yellowLevel": "22"
+      },
+      {
+        "move": "Light Screen",
+        "redBlueLevel": "29",
+        "yellowLevel": "29"
+      },
+      {
+        "move": "Swift",
+        "redBlueLevel": "36",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Explosion",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Usually found in power plants. Easily mistaken for a POK\u00e9 BALL, they have zapped many people.",
+      "red": "Usually found in power plants. Easily mistaken for a POK\u00e9 BALL, they have zapped many people.",
+      "yellow": "It is said to camouflage itself as a POK\u00e9 BALL. It will self-destruct with very little stimulus."
+    }
+  },
+  "101": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 2F",
+          "Cerulean Cave B1F",
+          "Power Plant Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Power Plant Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Screech",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sonic Boom",
+        "redBlueLevel": "17",
+        "yellowLevel": "17"
+      },
+      {
+        "move": "Self Destruct",
+        "redBlueLevel": "22",
+        "yellowLevel": "22"
+      },
+      {
+        "move": "Light Screen",
+        "redBlueLevel": "29",
+        "yellowLevel": "29"
+      },
+      {
+        "move": "Swift",
+        "redBlueLevel": "40",
+        "yellowLevel": "40"
+      },
+      {
+        "move": "Explosion",
+        "redBlueLevel": "50",
+        "yellowLevel": "50"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
+      "red": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
+      "yellow": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion."
+    }
+  },
+  "102": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Barrage",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Hypnosis",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Reflect",
+        "redBlueLevel": "25",
+        "yellowLevel": "25"
+      },
+      {
+        "move": "Leech Seed",
+        "redBlueLevel": "28",
+        "yellowLevel": "28"
+      },
+      {
+        "move": "Stun Spore",
+        "redBlueLevel": "32",
+        "yellowLevel": "32"
+      },
+      {
+        "move": "Poison Powder",
+        "redBlueLevel": "37",
+        "yellowLevel": "37"
+      },
+      {
+        "move": "Solar Beam",
+        "redBlueLevel": "42",
+        "yellowLevel": "42"
+      },
+      {
+        "move": "Sleep Powder",
+        "redBlueLevel": "48",
+        "yellowLevel": "48"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+      "red": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+      "yellow": "The heads attract each other and spin around. There must be 6 heads for it to maintain balance."
+    }
+  },
+  "103": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Barrage",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Hypnosis",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Stomp",
+        "redBlueLevel": "28",
+        "yellowLevel": "28"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE.",
+      "red": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE.",
+      "yellow": "Its cries are very noisy. This is because each of the 3 heads thinks about whatever it likes."
+    }
+  },
+  "104": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Pokemon Tower 3F",
+          "Pokemon Tower 4F",
+          "Pokemon Tower 5F",
+          "Pokemon Tower 6F",
+          "Pokemon Tower 7F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Pokemon Tower 5F",
+          "Pokemon Tower 6F",
+          "Pokemon Tower 7F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Growl",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Bone Club",
+        "redBlueLevel": "1",
+        "yellowLevel": "10"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "25",
+        "yellowLevel": "25"
+      },
+      {
+        "move": "Focus Energy",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Thrash",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      },
+      {
+        "move": "Bonemerang",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      },
+      {
+        "move": "Rage",
+        "redBlueLevel": "46",
+        "yellowLevel": "46"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "-",
+        "yellowLevel": "13"
+      },
+      {
+        "move": "Headbutt",
+        "redBlueLevel": "-",
+        "yellowLevel": "18"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
+      "red": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON's real face.",
+      "yellow": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody."
+    }
+  },
+  "105": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 2F",
+          "Cerulean Cave B1F",
+          "Kanto Victory Road 2 1F",
+          "Kanto Victory Road 2 2F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 3 West"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Bone Club",
+        "redBlueLevel": "1",
+        "yellowLevel": "10"
+      },
+      {
+        "move": "Growl",
+        "redBlueLevel": "1",
+        "yellowLevel": "-"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "25",
+        "yellowLevel": "25"
+      },
+      {
+        "move": "Focus Energy",
+        "redBlueLevel": "33",
+        "yellowLevel": "33"
+      },
+      {
+        "move": "Thrash",
+        "redBlueLevel": "41",
+        "yellowLevel": "41"
+      },
+      {
+        "move": "Bonemerang",
+        "redBlueLevel": "48",
+        "yellowLevel": "48"
+      },
+      {
+        "move": "Rage",
+        "redBlueLevel": "55",
+        "yellowLevel": "55"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "-",
+        "yellowLevel": "13"
+      },
+      {
+        "move": "Headbutt",
+        "redBlueLevel": "-",
+        "yellowLevel": "18"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+      "red": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+      "yellow": "Small and weak, this POK\u00e9MON is adept with its bone club. It has grown more vicious over the ages."
+    }
+  },
+  "106": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Saffron City Fighting Dojo"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Saffron City Fighting Dojo"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Double Kick",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Meditate",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Rolling Kick",
+        "redBlueLevel": "33",
+        "yellowLevel": "33"
+      },
+      {
+        "move": "Jump Kick",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      },
+      {
+        "move": "Focus Energy",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      },
+      {
+        "move": "High Jump Kick",
+        "redBlueLevel": "48",
+        "yellowLevel": "48"
+      },
+      {
+        "move": "Mega Kick",
+        "redBlueLevel": "53",
+        "yellowLevel": "53"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+      "red": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+      "yellow": "When kicking, the sole of its foot turns as hard as a diamond on im\u00ad pact and destroys its enemy."
+    }
+  },
+  "107": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Saffron City Fighting Dojo"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Saffron City Fighting Dojo"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Agility",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Comet Punch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Fire Punch",
+        "redBlueLevel": "33",
+        "yellowLevel": "33"
+      },
+      {
+        "move": "Ice Punch",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      },
+      {
+        "move": "Thunder Punch",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      },
+      {
+        "move": "Mega Punch",
+        "redBlueLevel": "48",
+        "yellowLevel": "48"
+      },
+      {
+        "move": "Counter",
+        "redBlueLevel": "53",
+        "yellowLevel": "53"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
+      "red": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
+      "yellow": "Punches in cork\u00ad screw fashion. It can punch its way through a concrete wall in the same way as a drill."
+    }
+  },
+  "108": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave B1F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Supersonic",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Wrap",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Stomp",
+        "redBlueLevel": "7",
+        "yellowLevel": "7"
+      },
+      {
+        "move": "Disable",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Defense Curl",
+        "redBlueLevel": "23",
+        "yellowLevel": "23"
+      },
+      {
+        "move": "Slam",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Screech",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.",
+      "red": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.",
+      "yellow": "Its tongue spans almost 7 feet and moves more freely than its forelegs. Its licks can cause paralysis."
+    }
+  },
+  "109": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Pokemon Mansion 1F",
+          "Pokemon Mansion 2F",
+          "Pokemon Mansion 3F",
+          "Pokemon Mansion B1F"
+        ],
+        "versionLabel": "Red/Blue"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Smog",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sludge",
+        "redBlueLevel": "32",
+        "yellowLevel": "32"
+      },
+      {
+        "move": "Smokescreen",
+        "redBlueLevel": "37",
+        "yellowLevel": "37"
+      },
+      {
+        "move": "Self Destruct",
+        "redBlueLevel": "40",
+        "yellowLevel": "40"
+      },
+      {
+        "move": "Haze",
+        "redBlueLevel": "45",
+        "yellowLevel": "45"
+      },
+      {
+        "move": "Explosion",
+        "redBlueLevel": "48",
+        "yellowLevel": "48"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+      "red": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+      "yellow": "In hot places, its internal gases could expand and explode without any warning. Be very careful!"
+    }
+  },
+  "11": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area",
+          "Viridian Forest Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Viridian Forest Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Harden",
+        "redBlueLevel": "1",
+        "yellowLevel": "7"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+      "red": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+      "yellow": "Hardens its shell to protect itself. However, a large impact may cause it to pop out of its shell."
+    }
+  },
+  "110": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Pokemon Mansion 1F",
+          "Pokemon Mansion 2F",
+          "Pokemon Mansion 3F",
+          "Pokemon Mansion B1F"
+        ],
+        "versionLabel": "Red/Blue"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Smog",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sludge",
+        "redBlueLevel": "32",
+        "yellowLevel": "32"
+      },
+      {
+        "move": "Smokescreen",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Self Destruct",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      },
+      {
+        "move": "Haze",
+        "redBlueLevel": "49",
+        "yellowLevel": "49"
+      },
+      {
+        "move": "Explosion",
+        "redBlueLevel": "53",
+        "yellowLevel": "53"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years.",
+      "red": "Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years.",
+      "yellow": "It lives and grows by absorbing dust, germs and poison gases that are contained in toxic waste and garbage."
+    }
+  },
+  "111": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cerulean Cave 2F",
+          "Cerulean Cave B1F",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Horn Attack",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Stomp",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Fury Attack",
+        "redBlueLevel": "40",
+        "yellowLevel": "40"
+      },
+      {
+        "move": "Horn Drill",
+        "redBlueLevel": "45",
+        "yellowLevel": "45"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "50",
+        "yellowLevel": "50"
+      },
+      {
+        "move": "Take Down",
+        "redBlueLevel": "55",
+        "yellowLevel": "55"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
+      "red": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
+      "yellow": "A POK\u00e9MON with a one-track mind. Once it charges, it won't stop running until it falls asleep."
+    }
+  },
+  "112": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 2F",
+          "Cerulean Cave B1F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cerulean Cave 2F",
+          "Cerulean Cave B1F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Horn Attack",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Stomp",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Fury Attack",
+        "redBlueLevel": "40",
+        "yellowLevel": "40"
+      },
+      {
+        "move": "Horn Drill",
+        "redBlueLevel": "48",
+        "yellowLevel": "48"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "55",
+        "yellowLevel": "55"
+      },
+      {
+        "move": "Take Down",
+        "redBlueLevel": "64",
+        "yellowLevel": "64"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees.",
+      "red": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees.",
+      "yellow": "Walks on its hind legs. Shows signs of intelligence. Its armor-like hide even repels molten lava."
+    }
+  },
+  "113": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 2F",
+          "Cerulean Cave B1F",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cerulean Cave B1F",
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Pound",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Double Slap",
+        "redBlueLevel": "1",
+        "yellowLevel": "12"
+      },
+      {
+        "move": "Sing",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Growl",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Minimize",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      },
+      {
+        "move": "Defense Curl",
+        "redBlueLevel": "44",
+        "yellowLevel": "44"
+      },
+      {
+        "move": "Light Screen",
+        "redBlueLevel": "48",
+        "yellowLevel": "48"
+      },
+      {
+        "move": "Double Edge",
+        "redBlueLevel": "54",
+        "yellowLevel": "54"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "-",
+        "yellowLevel": "1"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
+      "red": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it.",
+      "yellow": "A gentle and kind\u00ad hearted POK\u00e9MON that shares its nutritious eggs if it sees an injured POK\u00e9MON."
+    }
+  },
+  "114": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Sea Route 21 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Constrict",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Bind",
+        "redBlueLevel": "1",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Absorb",
+        "redBlueLevel": "29",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Poison Powder",
+        "redBlueLevel": "32",
+        "yellowLevel": "32"
+      },
+      {
+        "move": "Stun Spore",
+        "redBlueLevel": "36",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Sleep Powder",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Slam",
+        "redBlueLevel": "45",
+        "yellowLevel": "45"
+      },
+      {
+        "move": "Growth",
+        "redBlueLevel": "49",
+        "yellowLevel": "48"
+      },
+      {
+        "move": "Vine Whip",
+        "redBlueLevel": "-",
+        "yellowLevel": "29"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "The whole body is swathed with wide vines that are similar to sea\u00ad weed. Its vines shake as it walks.",
+      "red": "The whole body is swathed with wide vines that are similar to sea\u00ad weed. Its vines shake as it walks.",
+      "yellow": "Its identity is obscured by masses of thick, blue vines. The vines are said to never stop growing."
+    }
+  },
+  "115": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 3 West"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Safari Zone Area 2 North"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Comet Punch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Rage",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Bite",
+        "redBlueLevel": "26",
+        "yellowLevel": "26"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Mega Punch",
+        "redBlueLevel": "36",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "41",
+        "yellowLevel": "41"
+      },
+      {
+        "move": "Dizzy Punch",
+        "redBlueLevel": "46",
+        "yellowLevel": "46"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
+      "red": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
+      "yellow": "Raises its young in its belly pouch. Won't run from any fight to keep its young protected."
+    }
+  },
+  "116": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cinnabar Island Area",
+          "Kanto Sea Route 19 Area",
+          "Kanto Sea Route 20 Area",
+          "Kanto Sea Route 21 Area",
+          "Seafoam Islands 1F",
+          "Seafoam Islands B1F",
+          "Seafoam Islands B2F",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 10 Area",
+          "Kanto Route 11 Area",
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Vermilion City Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Bubble",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Smokescreen",
+        "redBlueLevel": "19",
+        "yellowLevel": "19"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Water Gun",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "37",
+        "yellowLevel": "37"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "45",
+        "yellowLevel": "45"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+      "red": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+      "yellow": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth."
+    }
+  },
+  "117": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave B1F",
+          "Kanto Route 23 Area",
+          "Seafoam Islands B1F",
+          "Seafoam Islands B3F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Bubble",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Smokescreen",
+        "redBlueLevel": "19",
+        "yellowLevel": "19"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Water Gun",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "41",
+        "yellowLevel": "41"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "52",
+        "yellowLevel": "52"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Capable of swim\u00ad ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+      "red": "Capable of swim\u00ad ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+      "yellow": "Touching the back fin causes numb\u00ad ness. It hooks its tail to coral to stay in place while sleeping."
+    }
+  },
+  "118": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Celadon City Area",
+          "Cerulean Cave 1F",
+          "Cerulean Cave B1F",
+          "Cerulean City Area",
+          "Cinnabar Island Area",
+          "Fuchsia City Area",
+          "Kanto Route 10 Area",
+          "Kanto Route 11 Area",
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 17 Area",
+          "Kanto Route 18 Area",
+          "Kanto Route 22 Area",
+          "Kanto Route 23 Area",
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area",
+          "Kanto Route 6 Area",
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle",
+          "Kanto Sea Route 19 Area",
+          "Kanto Sea Route 20 Area",
+          "Kanto Sea Route 21 Area",
+          "Pallet Town Area",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F",
+          "Vermilion City Area",
+          "Vermilion City Ss Anne Dock",
+          "Viridian City Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Celadon City Area",
+          "Cerulean Cave 1F",
+          "Cerulean Cave B1F",
+          "Cerulean City Area",
+          "Cinnabar Island Area",
+          "Fuchsia City Area",
+          "Kanto Route 10 Area",
+          "Kanto Route 11 Area",
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 17 Area",
+          "Kanto Route 18 Area",
+          "Kanto Route 22 Area",
+          "Kanto Route 23 Area",
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area",
+          "Kanto Route 6 Area",
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle",
+          "Kanto Sea Route 19 Area",
+          "Kanto Sea Route 20 Area",
+          "Kanto Sea Route 21 Area",
+          "Pallet Town Area",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F",
+          "Vermilion City Area",
+          "Viridian City Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Peck",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Supersonic",
+        "redBlueLevel": "19",
+        "yellowLevel": "19"
+      },
+      {
+        "move": "Horn Attack",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Fury Attack",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Waterfall",
+        "redBlueLevel": "37",
+        "yellowLevel": "37"
+      },
+      {
+        "move": "Horn Drill",
+        "redBlueLevel": "45",
+        "yellowLevel": "45"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "54",
+        "yellowLevel": "54"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
+      "red": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
+      "yellow": "When it is time for them to lay eggs, they can be seen swimming up rivers and falls in large groups."
+    }
+  },
+  "119": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave B1F",
+          "Fuchsia City Area",
+          "Kanto Route 23 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave B1F",
+          "Cerulean City Area",
+          "Kanto Route 24 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Peck",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Supersonic",
+        "redBlueLevel": "19",
+        "yellowLevel": "19"
+      },
+      {
+        "move": "Horn Attack",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Fury Attack",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Waterfall",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Horn Drill",
+        "redBlueLevel": "48",
+        "yellowLevel": "48"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "54",
+        "yellowLevel": "54"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "In the autumn spawning season, they can be seen swimming power\u00ad fully up rivers and creeks.",
+      "red": "In the autumn spawning season, they can be seen swimming power\u00ad fully up rivers and creeks.",
+      "yellow": "It is the male's job to make a nest by carving out boulders in a stream using the horn on its head."
+    }
+  },
+  "12": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Confusion",
+        "redBlueLevel": "12",
+        "yellowLevel": "10"
+      },
+      {
+        "move": "Poison Powder",
+        "redBlueLevel": "15",
+        "yellowLevel": "13"
+      },
+      {
+        "move": "Stun Spore",
+        "redBlueLevel": "16",
+        "yellowLevel": "14"
+      },
+      {
+        "move": "Sleep Powder",
+        "redBlueLevel": "17",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Supersonic",
+        "redBlueLevel": "21",
+        "yellowLevel": "18"
+      },
+      {
+        "move": "Whirlwind",
+        "redBlueLevel": "26",
+        "yellowLevel": "23"
+      },
+      {
+        "move": "Psybeam",
+        "redBlueLevel": "32",
+        "yellowLevel": "34"
+      },
+      {
+        "move": "Gust",
+        "redBlueLevel": "-",
+        "yellowLevel": "28"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+      "red": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+      "yellow": "Its wings, covered with poisonous powders, repel water. This allows it to fly in the rain."
+    }
+  },
+  "120": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cinnabar Island Area",
+          "Kanto Sea Route 19 Area",
+          "Kanto Sea Route 20 Area",
+          "Kanto Sea Route 21 Area",
+          "Seafoam Islands 1F",
+          "Seafoam Islands B1F",
+          "Seafoam Islands B2F",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cinnabar Island Area",
+          "Kanto Sea Route 19 Area",
+          "Kanto Sea Route 20 Area",
+          "Kanto Sea Route 21 Area",
+          "Pallet Town Area",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F",
+          "Vermilion City Ss Anne Dock"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Water Gun",
+        "redBlueLevel": "17",
+        "yellowLevel": "17"
+      },
+      {
+        "move": "Harden",
+        "redBlueLevel": "22",
+        "yellowLevel": "22"
+      },
+      {
+        "move": "Recover",
+        "redBlueLevel": "27",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Swift",
+        "redBlueLevel": "32",
+        "yellowLevel": "32"
+      },
+      {
+        "move": "Minimize",
+        "redBlueLevel": "37",
+        "yellowLevel": "37"
+      },
+      {
+        "move": "Light Screen",
+        "redBlueLevel": "42",
+        "yellowLevel": "42"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "47",
+        "yellowLevel": "47"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "An enigmatic POK\u00e9MON that can effortlessly regenerate any appendage it loses in battle.",
+      "red": "An enigmatic POK\u00e9MON that can effortlessly regenerate any appendage it loses in battle.",
+      "yellow": "As long as the center section is unharmed, it can grow back fully even if it is chopped to bits."
+    }
+  },
+  "121": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Harden",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Water Gun",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
+      "red": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
+      "yellow": "The center section is named the core. People think it is communicating when it glows in 7 colors."
+    }
+  },
+  "122": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Barrier",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Confusion",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Light Screen",
+        "redBlueLevel": "23",
+        "yellowLevel": "23"
+      },
+      {
+        "move": "Double Slap",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Meditate",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Substitute",
+        "redBlueLevel": "47",
+        "yellowLevel": "47"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "If interrupted while it is miming, it will slap around the offender with its broad hands.",
+      "red": "If interrupted while it is miming, it will slap around the offender with its broad hands.",
+      "yellow": "Always practices its pantomime act. It makes enemies believe something exists that really doesn't."
+    }
+  },
+  "123": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Quick Attack",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "17",
+        "yellowLevel": "17"
+      },
+      {
+        "move": "Focus Energy",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Double Team",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Slash",
+        "redBlueLevel": "29",
+        "yellowLevel": "29"
+      },
+      {
+        "move": "Swords Dance",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "42",
+        "yellowLevel": "42"
+      },
+      {
+        "move": "Wing Attack",
+        "redBlueLevel": "-",
+        "yellowLevel": "50"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
+      "red": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
+      "yellow": "Leaps out of tall grass and slices prey with its scythes. The move\u00ad ment looks like that of a ninja."
+    }
+  },
+  "124": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Lovely Kiss",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Pound",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Lick",
+        "redBlueLevel": "18",
+        "yellowLevel": "18"
+      },
+      {
+        "move": "Double Slap",
+        "redBlueLevel": "23",
+        "yellowLevel": "23"
+      },
+      {
+        "move": "Ice Punch",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Body Slam",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Thrash",
+        "redBlueLevel": "47",
+        "yellowLevel": "47"
+      },
+      {
+        "move": "Blizzard",
+        "redBlueLevel": "58",
+        "yellowLevel": "58"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
+      "red": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
+      "yellow": "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks."
+    }
+  },
+  "125": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Power Plant Area"
+        ],
+        "versionLabel": "Red/Blue"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Leer",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Quick Attack",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Thunder Shock",
+        "redBlueLevel": "34",
+        "yellowLevel": "34"
+      },
+      {
+        "move": "Screech",
+        "redBlueLevel": "37",
+        "yellowLevel": "37"
+      },
+      {
+        "move": "Thunder Punch",
+        "redBlueLevel": "42",
+        "yellowLevel": "42"
+      },
+      {
+        "move": "Light Screen",
+        "redBlueLevel": "49",
+        "yellowLevel": "49"
+      },
+      {
+        "move": "Thunder",
+        "redBlueLevel": "54",
+        "yellowLevel": "54"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
+      "red": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
+      "yellow": "If a major power outage occurs, it is certain that this POK\u00e9MON has eaten electricity at a power plant."
+    }
+  },
+  "126": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Pokemon Mansion 3F",
+          "Pokemon Mansion B1F"
+        ],
+        "versionLabel": "Red/Blue"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Ember",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "36",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Confuse Ray",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Fire Punch",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      },
+      {
+        "move": "Smokescreen",
+        "redBlueLevel": "48",
+        "yellowLevel": "48"
+      },
+      {
+        "move": "Smog",
+        "redBlueLevel": "52",
+        "yellowLevel": "52"
+      },
+      {
+        "move": "Flamethrower",
+        "redBlueLevel": "55",
+        "yellowLevel": "55"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
+      "red": "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
+      "yellow": "Born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire."
+    }
+  },
+  "127": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Vice Grip",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Seismic Toss",
+        "redBlueLevel": "25",
+        "yellowLevel": "25"
+      },
+      {
+        "move": "Guillotine",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Focus Energy",
+        "redBlueLevel": "36",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Harden",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      },
+      {
+        "move": "Slash",
+        "redBlueLevel": "49",
+        "yellowLevel": "49"
+      },
+      {
+        "move": "Swords Dance",
+        "redBlueLevel": "54",
+        "yellowLevel": "54"
+      },
+      {
+        "move": "Bind",
+        "redBlueLevel": "-",
+        "yellowLevel": "21"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
+      "red": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
+      "yellow": "Grips its prey in its pincers and squeezes hard! It can't move if it's cold, so it lives in warm places."
+    }
+  },
+  "128": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 3 West"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Stomp",
+        "redBlueLevel": "21",
+        "yellowLevel": "21"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "28",
+        "yellowLevel": "28"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Rage",
+        "redBlueLevel": "44",
+        "yellowLevel": "44"
+      },
+      {
+        "move": "Take Down",
+        "redBlueLevel": "51",
+        "yellowLevel": "51"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+      "red": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+      "yellow": "A rowdy POK\u00e9MON with a lot of stamina. Once running, it won't stop until it hits something."
+    }
+  },
+  "129": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Celadon City Area",
+          "Cerulean Cave 1F",
+          "Cerulean Cave B1F",
+          "Cerulean City Area",
+          "Cinnabar Island Area",
+          "Fuchsia City Area",
+          "Kanto Route 10 Area",
+          "Kanto Route 11 Area",
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 17 Area",
+          "Kanto Route 18 Area",
+          "Kanto Route 22 Area",
+          "Kanto Route 23 Area",
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area",
+          "Kanto Route 3 Pokemon Center",
+          "Kanto Route 4 Pokemon Center",
+          "Kanto Route 6 Area",
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle",
+          "Kanto Sea Route 19 Area",
+          "Kanto Sea Route 20 Area",
+          "Kanto Sea Route 21 Area",
+          "Pallet Town Area",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F",
+          "Vermilion City Area",
+          "Vermilion City Ss Anne Dock",
+          "Viridian City Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Celadon City Area",
+          "Cerulean Cave 1F",
+          "Cerulean Cave B1F",
+          "Cerulean City Area",
+          "Cinnabar Island Area",
+          "Fuchsia City Area",
+          "Kanto Route 10 Area",
+          "Kanto Route 11 Area",
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 17 Area",
+          "Kanto Route 18 Area",
+          "Kanto Route 22 Area",
+          "Kanto Route 23 Area",
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area",
+          "Kanto Route 3 Pokemon Center",
+          "Kanto Route 4 Pokemon Center",
+          "Kanto Route 6 Area",
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle",
+          "Kanto Sea Route 19 Area",
+          "Kanto Sea Route 20 Area",
+          "Kanto Sea Route 21 Area",
+          "Pallet Town Area",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F",
+          "Vermilion City Area",
+          "Viridian City Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Splash",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+      "red": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+      "yellow": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles."
+    }
+  },
+  "13": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 2 South Towards Viridian City",
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area",
+          "Viridian Forest Area"
+        ],
+        "versionLabel": "Red/Blue"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Poison Sting",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "String Shot",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+      "red": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+      "yellow": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves."
+    }
+  },
+  "130": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Fuchsia City Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Bite",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Dragon Rage",
+        "redBlueLevel": "25",
+        "yellowLevel": "25"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "32",
+        "yellowLevel": "32"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "41",
+        "yellowLevel": "41"
+      },
+      {
+        "move": "Hyper Beam",
+        "redBlueLevel": "52",
+        "yellowLevel": "52"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "-",
+        "yellowLevel": "1"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
+      "red": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
+      "yellow": "Brutally vicious and enormously destructive. Known for totally destroying cities in ancient times."
+    }
+  },
+  "131": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Saffron City Silph Co 7F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Saffron City Silph Co 7F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Growl",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Water Gun",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sing",
+        "redBlueLevel": "16",
+        "yellowLevel": "16"
+      },
+      {
+        "move": "Mist",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Body Slam",
+        "redBlueLevel": "25",
+        "yellowLevel": "25"
+      },
+      {
+        "move": "Confuse Ray",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Ice Beam",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "46",
+        "yellowLevel": "46"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "A POK\u00e9MON that has been over\u00ad hunted almost to extinction. It can ferry people across the water.",
+      "red": "A POK\u00e9MON that has been over\u00ad hunted almost to extinction. It can ferry people across the water.",
+      "yellow": "A gentle soul that can read the minds of people. It can ferry people across the sea on its back."
+    }
+  },
+  "132": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave 2F",
+          "Cerulean Cave B1F",
+          "Kanto Route 13 Area",
+          "Kanto Route 14 Area",
+          "Kanto Route 15 Area",
+          "Kanto Route 23 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave 2F",
+          "Cerulean Cave B1F",
+          "Pokemon Mansion B1F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Transform",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
+      "red": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
+      "yellow": "When it spots an enemy, its body transfigures into an almost perfect copy of its oppo\u00ad nent."
+    }
+  },
+  "133": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Celadon City Celadon Mansion"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Celadon City Celadon Mansion"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sand Attack",
+        "redBlueLevel": "1",
+        "yellowLevel": "8"
+      },
+      {
+        "move": "Quick Attack",
+        "redBlueLevel": "27",
+        "yellowLevel": "23"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "31",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Bite",
+        "redBlueLevel": "37",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Take Down",
+        "redBlueLevel": "45",
+        "yellowLevel": "42"
+      },
+      {
+        "move": "Growl",
+        "redBlueLevel": "-",
+        "yellowLevel": "16"
+      },
+      {
+        "move": "Focus Energy",
+        "redBlueLevel": "-",
+        "yellowLevel": "36"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.",
+      "red": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.",
+      "yellow": "Its genetic code is unstable, so it could evolve in a variety of ways. There are only a few alive."
+    }
+  },
+  "134": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sand Attack",
+        "redBlueLevel": "1",
+        "yellowLevel": "8"
+      },
+      {
+        "move": "Quick Attack",
+        "redBlueLevel": "27",
+        "yellowLevel": "23"
+      },
+      {
+        "move": "Water Gun",
+        "redBlueLevel": "31",
+        "yellowLevel": "16"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "37",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Bite",
+        "redBlueLevel": "40",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Acid Armor",
+        "redBlueLevel": "42",
+        "yellowLevel": "47"
+      },
+      {
+        "move": "Haze",
+        "redBlueLevel": "44",
+        "yellowLevel": "42"
+      },
+      {
+        "move": "Mist",
+        "redBlueLevel": "48",
+        "yellowLevel": "42"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "54",
+        "yellowLevel": "52"
+      },
+      {
+        "move": "Aurora Beam",
+        "redBlueLevel": "-",
+        "yellowLevel": "36"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
+      "red": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
+      "yellow": "Its cell structure is similar to water molecules. It will melt away and become invis\u00ad ible in water."
+    }
+  },
+  "135": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sand Attack",
+        "redBlueLevel": "1",
+        "yellowLevel": "8"
+      },
+      {
+        "move": "Quick Attack",
+        "redBlueLevel": "27",
+        "yellowLevel": "23"
+      },
+      {
+        "move": "Thunder Shock",
+        "redBlueLevel": "31",
+        "yellowLevel": "16"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "37",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Thunder Wave",
+        "redBlueLevel": "40",
+        "yellowLevel": "42"
+      },
+      {
+        "move": "Double Kick",
+        "redBlueLevel": "42",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "44",
+        "yellowLevel": "47"
+      },
+      {
+        "move": "Pin Missile",
+        "redBlueLevel": "48",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Thunder",
+        "redBlueLevel": "54",
+        "yellowLevel": "52"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "It accumulates negative ions in the atmosphere to blast out 10000- volt lightning bolts.",
+      "red": "It accumulates negative ions in the atmosphere to blast out 10000- volt lightning bolts.",
+      "yellow": "A sensitive POK\u00e9\u00ad MON that easily becomes sad or angry. Every time its mood changes, it charges power."
+    }
+  },
+  "136": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sand Attack",
+        "redBlueLevel": "1",
+        "yellowLevel": "8"
+      },
+      {
+        "move": "Quick Attack",
+        "redBlueLevel": "27",
+        "yellowLevel": "23"
+      },
+      {
+        "move": "Ember",
+        "redBlueLevel": "31",
+        "yellowLevel": "16"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "37",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Bite",
+        "redBlueLevel": "40",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "42",
+        "yellowLevel": "47"
+      },
+      {
+        "move": "Fire Spin",
+        "redBlueLevel": "44",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Rage",
+        "redBlueLevel": "48",
+        "yellowLevel": "-"
+      },
+      {
+        "move": "Flamethrower",
+        "redBlueLevel": "54",
+        "yellowLevel": "52"
+      },
+      {
+        "move": "Smog",
+        "redBlueLevel": "-",
+        "yellowLevel": "42"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
+      "red": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
+      "yellow": "It has a flame chamber inside its body. It inhales, then blows out fire that is over 3,000F degrees."
+    }
+  },
+  "137": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Conversion",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sharpen",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Psybeam",
+        "redBlueLevel": "23",
+        "yellowLevel": "23"
+      },
+      {
+        "move": "Recover",
+        "redBlueLevel": "28",
+        "yellowLevel": "28"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Tri Attack",
+        "redBlueLevel": "42",
+        "yellowLevel": "42"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "A POK\u00e9MON that consists entirely of programming code. Capable of moving freely in cyberspace.",
+      "red": "A POK\u00e9MON that consists entirely of programming code. Capable of moving freely in cyberspace.",
+      "yellow": "The only POK\u00e9MON people anticipate can fly into space. None has managed the feat yet, however."
+    }
+  },
+  "138": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cinnabar Island Cinnabar Lab"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cinnabar Island Cinnabar Lab"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Water Gun",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Withdraw",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Horn Attack",
+        "redBlueLevel": "34",
+        "yellowLevel": "34"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Spike Cannon",
+        "redBlueLevel": "46",
+        "yellowLevel": "46"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "53",
+        "yellowLevel": "53"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
+      "red": "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
+      "yellow": "An ancient POK\u00e9MON that was recovered from a fossil. It swims by cleverly twisting its 10 tentacles about."
+    }
+  },
+  "139": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Water Gun",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Withdraw",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Horn Attack",
+        "redBlueLevel": "34",
+        "yellowLevel": "34"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Spike Cannon",
+        "redBlueLevel": "44",
+        "yellowLevel": "44"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "49",
+        "yellowLevel": "49"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "A prehistoric POK\u00e9MON that died out when its heavy shell made it impossible to catch prey.",
+      "red": "A prehistoric POK\u00e9MON that died out when its heavy shell made it impossible to catch prey.",
+      "yellow": "Sharp beaks ring its mouth. Its shell was too big for it to move freely, so it became extinct."
+    }
+  },
+  "14": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area",
+          "Viridian Forest Area"
+        ],
+        "versionLabel": "Red/Blue"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Harden",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "red": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators.",
+      "yellow": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy."
+    }
+  },
+  "140": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cinnabar Island Cinnabar Lab"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cinnabar Island Cinnabar Lab"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Harden",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Scratch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Absorb",
+        "redBlueLevel": "34",
+        "yellowLevel": "34"
+      },
+      {
+        "move": "Slash",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "44",
+        "yellowLevel": "44"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "49",
+        "yellowLevel": "49"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+      "red": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+      "yellow": "A POK\u00e9MON that was recovered from a fossil. It uses the eyes on its back while hiding on the sea floor."
+    }
+  },
+  "141": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Harden",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Scratch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Absorb",
+        "redBlueLevel": "34",
+        "yellowLevel": "34"
+      },
+      {
+        "move": "Slash",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "46",
+        "yellowLevel": "46"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "53",
+        "yellowLevel": "53"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Its sleek shape is perfect for swim\u00ad ming. It slashes prey with its claws and drains the body fluids.",
+      "red": "Its sleek shape is perfect for swim\u00ad ming. It slashes prey with its claws and drains the body fluids.",
+      "yellow": "A slim and fast swimmer. It slices its prey with its sharp sickles and drinks the body fluids."
+    }
+  },
+  "142": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cinnabar Island Cinnabar Lab"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cinnabar Island Cinnabar Lab"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Agility",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Wing Attack",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Supersonic",
+        "redBlueLevel": "33",
+        "yellowLevel": "33"
+      },
+      {
+        "move": "Bite",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      },
+      {
+        "move": "Take Down",
+        "redBlueLevel": "45",
+        "yellowLevel": "45"
+      },
+      {
+        "move": "Hyper Beam",
+        "redBlueLevel": "54",
+        "yellowLevel": "54"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "A ferocious, pre\u00ad historic POK\u00e9MON that goes for the enemy's throat with its serrated saw-like fangs.",
+      "red": "A ferocious, pre\u00ad historic POK\u00e9MON that goes for the enemy's throat with its serrated saw-like fangs.",
+      "yellow": "A savage POK\u00e9MON that died out in ancient times. It was resurrected using DNA taken from amber."
+    }
+  },
+  "143": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 12 Area",
+          "Kanto Route 16 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 12 Area",
+          "Kanto Route 16 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Amnesia",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Headbutt",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Rest",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Body Slam",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Harden",
+        "redBlueLevel": "41",
+        "yellowLevel": "41"
+      },
+      {
+        "move": "Double Edge",
+        "redBlueLevel": "48",
+        "yellowLevel": "48"
+      },
+      {
+        "move": "Hyper Beam",
+        "redBlueLevel": "56",
+        "yellowLevel": "56"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+      "red": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+      "yellow": "Will eat anything, even if the food happens to be a little moldy. It never gets an upset stomach."
+    }
+  },
+  "144": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Seafoam Islands B4F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Seafoam Islands B4F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Ice Beam",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Peck",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Blizzard",
+        "redBlueLevel": "51",
+        "yellowLevel": "51"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "55",
+        "yellowLevel": "55"
+      },
+      {
+        "move": "Mist",
+        "redBlueLevel": "60",
+        "yellowLevel": "60"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "A legendary bird POK\u00e9MON that is said to appear to doomed people who are lost in icy mountains.",
+      "red": "A legendary bird POK\u00e9MON that is said to appear to doomed people who are lost in icy mountains.",
+      "yellow": "A legendary bird POK\u00e9MON. It freezes water that is contained in winter air and makes it snow."
+    }
+  },
+  "145": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Power Plant Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Power Plant Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Drill Peck",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Thunder Shock",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Thunder",
+        "redBlueLevel": "51",
+        "yellowLevel": "51"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "55",
+        "yellowLevel": "55"
+      },
+      {
+        "move": "Light Screen",
+        "redBlueLevel": "60",
+        "yellowLevel": "60"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "A legendary bird POK\u00e9MON that is said to appear from clouds while dropping enormous lightning bolts.",
+      "red": "A legendary bird POK\u00e9MON that is said to appear from clouds while dropping enormous lightning bolts.",
+      "yellow": "This legendary bird POK\u00e9MON is said to appear when the sky turns dark and lightning showers down."
+    }
+  },
+  "146": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Victory Road 2 2F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Victory Road 2 2F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Fire Spin",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Peck",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "51",
+        "yellowLevel": "51"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "55",
+        "yellowLevel": "55"
+      },
+      {
+        "move": "Sky Attack",
+        "redBlueLevel": "60",
+        "yellowLevel": "60"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
+      "red": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
+      "yellow": "A legendary bird POK\u00e9MON. As it flaps its flaming wings, even the night sky will turn red."
+    }
+  },
+  "147": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Leer",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Wrap",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Thunder Wave",
+        "redBlueLevel": "10",
+        "yellowLevel": "10"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Slam",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Dragon Rage",
+        "redBlueLevel": "40",
+        "yellowLevel": "40"
+      },
+      {
+        "move": "Hyper Beam",
+        "redBlueLevel": "50",
+        "yellowLevel": "50"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Long considered a mythical POK\u00e9MON until recently when a small colony was found living underwater.",
+      "red": "Long considered a mythical POK\u00e9MON until recently when a small colony was found living underwater.",
+      "yellow": "The existence of this mythical POK\u00e9MON was only recently confirmed by a fisherman who caught one."
+    }
+  },
+  "148": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Leer",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Wrap",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Thunder Wave",
+        "redBlueLevel": "10",
+        "yellowLevel": "10"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Slam",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Dragon Rage",
+        "redBlueLevel": "45",
+        "yellowLevel": "45"
+      },
+      {
+        "move": "Hyper Beam",
+        "redBlueLevel": "55",
+        "yellowLevel": "55"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "A mystical POK\u00e9MON that exudes a gentle aura. Has the ability to change climate conditions.",
+      "red": "A mystical POK\u00e9MON that exudes a gentle aura. Has the ability to change climate conditions.",
+      "yellow": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look."
+    }
+  },
+  "149": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Leer",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Wrap",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Thunder Wave",
+        "redBlueLevel": "10",
+        "yellowLevel": "10"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Slam",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Dragon Rage",
+        "redBlueLevel": "45",
+        "yellowLevel": "45"
+      },
+      {
+        "move": "Hyper Beam",
+        "redBlueLevel": "60",
+        "yellowLevel": "60"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "An extremely rarely seen marine POK\u00e9MON. Its intelligence is said to match that of humans.",
+      "red": "An extremely rarely seen marine POK\u00e9MON. Its intelligence is said to match that of humans.",
+      "yellow": "It is said that this POK\u00e9MON lives somewhere in the sea and that it flies. However, it is only a rumor."
+    }
+  },
+  "15": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Fury Attack",
+        "redBlueLevel": "12",
+        "yellowLevel": "12"
+      },
+      {
+        "move": "Focus Energy",
+        "redBlueLevel": "16",
+        "yellowLevel": "16"
+      },
+      {
+        "move": "Twineedle",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Rage",
+        "redBlueLevel": "25",
+        "yellowLevel": "25"
+      },
+      {
+        "move": "Pin Missile",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
+      "red": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
+      "yellow": "It has 3 poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly."
+    }
+  },
+  "150": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave B1F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cerulean Cave B1F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Confusion",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Disable",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Swift",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Barrier",
+        "redBlueLevel": "63",
+        "yellowLevel": "63"
+      },
+      {
+        "move": "Psychic",
+        "redBlueLevel": "66",
+        "yellowLevel": "66"
+      },
+      {
+        "move": "Recover",
+        "redBlueLevel": "70",
+        "yellowLevel": "70"
+      },
+      {
+        "move": "Mist",
+        "redBlueLevel": "75",
+        "yellowLevel": "75"
+      },
+      {
+        "move": "Amnesia",
+        "redBlueLevel": "81",
+        "yellowLevel": "81"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+      "red": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+      "yellow": "Its DNA is almost the same as MEW's. However, its size and disposition are vastly dif\u00ad ferent."
+    }
+  },
+  "151": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Pound",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Transform",
+        "redBlueLevel": "10",
+        "yellowLevel": "10"
+      },
+      {
+        "move": "Mega Punch",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Metronome",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Psychic",
+        "redBlueLevel": "40",
+        "yellowLevel": "40"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+      "red": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+      "yellow": "When viewed through a micro\u00ad scope, this POK\u00e9MON's short, fine, delicate hair can be seen."
+    }
+  },
+  "16": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 1 Area",
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 14 Area",
+          "Kanto Route 15 Area",
+          "Kanto Route 2 South Towards Viridian City",
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area",
+          "Kanto Route 3 Area",
+          "Kanto Route 5 Area",
+          "Kanto Route 6 Area",
+          "Kanto Route 7 Area",
+          "Kanto Route 8 Area",
+          "Kanto Sea Route 21 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 1 Area",
+          "Kanto Route 11 Area",
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 2 South Towards Viridian City",
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area",
+          "Kanto Route 5 Area",
+          "Kanto Route 6 Area",
+          "Kanto Route 7 Area",
+          "Kanto Route 8 Area",
+          "Kanto Sea Route 21 Area",
+          "Viridian Forest Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Gust",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sand Attack",
+        "redBlueLevel": "5",
+        "yellowLevel": "5"
+      },
+      {
+        "move": "Quick Attack",
+        "redBlueLevel": "12",
+        "yellowLevel": "12"
+      },
+      {
+        "move": "Whirlwind",
+        "redBlueLevel": "19",
+        "yellowLevel": "19"
+      },
+      {
+        "move": "Wing Attack",
+        "redBlueLevel": "28",
+        "yellowLevel": "28"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "36",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Mirror Move",
+        "redBlueLevel": "44",
+        "yellowLevel": "44"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+      "red": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+      "yellow": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back."
+    }
+  },
+  "17": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 14 Area",
+          "Kanto Route 15 Area",
+          "Kanto Sea Route 21 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 11 Area",
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 14 Area",
+          "Kanto Route 15 Area",
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area",
+          "Kanto Route 5 Area",
+          "Kanto Route 6 Area",
+          "Kanto Route 7 Area",
+          "Kanto Route 8 Area",
+          "Kanto Sea Route 21 Area",
+          "Viridian Forest Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Gust",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sand Attack",
+        "redBlueLevel": "5",
+        "yellowLevel": "5"
+      },
+      {
+        "move": "Quick Attack",
+        "redBlueLevel": "12",
+        "yellowLevel": "12"
+      },
+      {
+        "move": "Whirlwind",
+        "redBlueLevel": "21",
+        "yellowLevel": "21"
+      },
+      {
+        "move": "Wing Attack",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "40",
+        "yellowLevel": "40"
+      },
+      {
+        "move": "Mirror Move",
+        "redBlueLevel": "49",
+        "yellowLevel": "49"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Very protective of its sprawling territorial area, this POK\u00e9MON will fiercely peck at any intruder.",
+      "red": "Very protective of its sprawling territorial area, this POK\u00e9MON will fiercely peck at any intruder.",
+      "yellow": "This POK\u00e9MON is full of vitality. It constantly flies around its large territory in search of prey."
+    }
+  },
+  "18": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Gust",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sand Attack",
+        "redBlueLevel": "5",
+        "yellowLevel": "5"
+      },
+      {
+        "move": "Quick Attack",
+        "redBlueLevel": "12",
+        "yellowLevel": "12"
+      },
+      {
+        "move": "Whirlwind",
+        "redBlueLevel": "21",
+        "yellowLevel": "21"
+      },
+      {
+        "move": "Wing Attack",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "44",
+        "yellowLevel": "44"
+      },
+      {
+        "move": "Mirror Move",
+        "redBlueLevel": "54",
+        "yellowLevel": "54"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",
+      "red": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",
+      "yellow": "This POK\u00e9MON flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons."
+    }
+  },
+  "19": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 1 Area",
+          "Kanto Route 16 Area",
+          "Kanto Route 2 South Towards Viridian City",
+          "Kanto Route 22 Area",
+          "Kanto Route 4 Area",
+          "Kanto Route 9 Area",
+          "Kanto Sea Route 21 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 1 Area",
+          "Kanto Route 10 Area",
+          "Kanto Route 11 Area",
+          "Kanto Route 16 Area",
+          "Kanto Route 18 Area",
+          "Kanto Route 2 South Towards Viridian City",
+          "Kanto Route 22 Area",
+          "Kanto Route 3 Area",
+          "Kanto Route 4 Area",
+          "Kanto Route 5 Area",
+          "Kanto Route 6 Area",
+          "Kanto Route 7 Area",
+          "Kanto Route 8 Area",
+          "Kanto Route 9 Area",
+          "Kanto Sea Route 21 Area",
+          "Pokemon Mansion 1F",
+          "Pokemon Mansion 2F",
+          "Pokemon Mansion 3F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Quick Attack",
+        "redBlueLevel": "7",
+        "yellowLevel": "7"
+      },
+      {
+        "move": "Hyper Fang",
+        "redBlueLevel": "14",
+        "yellowLevel": "14"
+      },
+      {
+        "move": "Focus Energy",
+        "redBlueLevel": "23",
+        "yellowLevel": "23"
+      },
+      {
+        "move": "Super Fang",
+        "redBlueLevel": "34",
+        "yellowLevel": "34"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+      "red": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+      "yellow": "Will chew on any\u00ad thing with its fangs. If you see one, it is certain that 40 more live in the area."
+    }
+  },
+  "2": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Growl",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Leech Seed",
+        "redBlueLevel": "7",
+        "yellowLevel": "7"
+      },
+      {
+        "move": "Vine Whip",
+        "redBlueLevel": "13",
+        "yellowLevel": "13"
+      },
+      {
+        "move": "Poison Powder",
+        "redBlueLevel": "22",
+        "yellowLevel": "22"
+      },
+      {
+        "move": "Razor Leaf",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Growth",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      },
+      {
+        "move": "Sleep Powder",
+        "redBlueLevel": "46",
+        "yellowLevel": "46"
+      },
+      {
+        "move": "Solar Beam",
+        "redBlueLevel": "54",
+        "yellowLevel": "54"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+      "red": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+      "yellow": "The bulb on its back grows by drawing energy. It gives off an aroma when it is ready to bloom."
+    }
+  },
+  "20": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 16 Area",
+          "Kanto Route 17 Area",
+          "Kanto Route 18 Area",
+          "Kanto Sea Route 21 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 10 Area",
+          "Kanto Route 11 Area",
+          "Kanto Route 16 Area",
+          "Kanto Route 18 Area",
+          "Kanto Route 9 Area",
+          "Kanto Sea Route 21 Area",
+          "Pokemon Mansion 1F",
+          "Pokemon Mansion 2F",
+          "Pokemon Mansion 3F",
+          "Pokemon Mansion B1F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Quick Attack",
+        "redBlueLevel": "7",
+        "yellowLevel": "7"
+      },
+      {
+        "move": "Hyper Fang",
+        "redBlueLevel": "14",
+        "yellowLevel": "14"
+      },
+      {
+        "move": "Focus Energy",
+        "redBlueLevel": "27",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Super Fang",
+        "redBlueLevel": "41",
+        "yellowLevel": "41"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "It uses its whis\u00ad kers to maintain its balance. It apparently slows down if they are cut off.",
+      "red": "It uses its whis\u00ad kers to maintain its balance. It apparently slows down if they are cut off.",
+      "yellow": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey."
+    }
+  },
+  "21": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 10 Area",
+          "Kanto Route 11 Area",
+          "Kanto Route 16 Area",
+          "Kanto Route 17 Area",
+          "Kanto Route 18 Area",
+          "Kanto Route 22 Area",
+          "Kanto Route 23 Area",
+          "Kanto Route 3 Area",
+          "Kanto Route 4 Area",
+          "Kanto Route 9 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 16 Area",
+          "Kanto Route 18 Area",
+          "Kanto Route 22 Area",
+          "Kanto Route 3 Area",
+          "Kanto Route 4 Area",
+          "Kanto Route 9 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Growl",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Peck",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "9",
+        "yellowLevel": "9"
+      },
+      {
+        "move": "Fury Attack",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Mirror Move",
+        "redBlueLevel": "22",
+        "yellowLevel": "22"
+      },
+      {
+        "move": "Drill Peck",
+        "redBlueLevel": "29",
+        "yellowLevel": "29"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "36",
+        "yellowLevel": "36"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+      "red": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+      "yellow": "Inept at flying high. However, it can fly around very fast to protect its ter\u00ad ritory."
+    }
+  },
+  "22": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 17 Area",
+          "Kanto Route 18 Area",
+          "Kanto Route 23 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 16 Area",
+          "Kanto Route 17 Area",
+          "Kanto Route 18 Area",
+          "Kanto Route 23 Area",
+          "Kanto Route 9 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Growl",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Peck",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "9",
+        "yellowLevel": "9"
+      },
+      {
+        "move": "Fury Attack",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Mirror Move",
+        "redBlueLevel": "25",
+        "yellowLevel": "25"
+      },
+      {
+        "move": "Drill Peck",
+        "redBlueLevel": "34",
+        "yellowLevel": "34"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
+      "red": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
+      "yellow": "A POK\u00e9MON that dates back many years. If it senses danger, it flies high and away, instantly."
+    }
+  },
+  "23": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 10 Area",
+          "Kanto Route 11 Area",
+          "Kanto Route 23 Area",
+          "Kanto Route 4 Area",
+          "Kanto Route 8 Area",
+          "Kanto Route 9 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Leer",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Wrap",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Poison Sting",
+        "redBlueLevel": "10",
+        "yellowLevel": "10"
+      },
+      {
+        "move": "Bite",
+        "redBlueLevel": "17",
+        "yellowLevel": "17"
+      },
+      {
+        "move": "Glare",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Screech",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Acid",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
+      "red": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
+      "yellow": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest."
+    }
+  },
+  "24": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave B1F",
+          "Kanto Route 23 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Leer",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Wrap",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Poison Sting",
+        "redBlueLevel": "10",
+        "yellowLevel": "10"
+      },
+      {
+        "move": "Bite",
+        "redBlueLevel": "17",
+        "yellowLevel": "17"
+      },
+      {
+        "move": "Glare",
+        "redBlueLevel": "27",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Screech",
+        "redBlueLevel": "36",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Acid",
+        "redBlueLevel": "47",
+        "yellowLevel": "47"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "It is rumored that the ferocious warning markings on its belly differ from area to area.",
+      "red": "It is rumored that the ferocious warning markings on its belly differ from area to area.",
+      "yellow": "The frightening patterns on its belly have been studied. Six variations have been confirmed."
+    }
+  },
+  "25": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Power Plant Area",
+          "Viridian Forest Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Pallet Town Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Growl",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Thunder Shock",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Thunder Wave",
+        "redBlueLevel": "9",
+        "yellowLevel": "8"
+      },
+      {
+        "move": "Quick Attack",
+        "redBlueLevel": "16",
+        "yellowLevel": "11"
+      },
+      {
+        "move": "Swift",
+        "redBlueLevel": "26",
+        "yellowLevel": "-"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "33",
+        "yellowLevel": "33"
+      },
+      {
+        "move": "Thunder",
+        "redBlueLevel": "43",
+        "yellowLevel": "41"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "-",
+        "yellowLevel": "6"
+      },
+      {
+        "move": "Double Team",
+        "redBlueLevel": "-",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Slam",
+        "redBlueLevel": "-",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Thunderbolt",
+        "redBlueLevel": "-",
+        "yellowLevel": "26"
+      },
+      {
+        "move": "Light Screen",
+        "redBlueLevel": "-",
+        "yellowLevel": "50"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "When several of these POK\u00e9MON gather, their electricity could build and cause lightning storms.",
+      "red": "When several of these POK\u00e9MON gather, their electricity could build and cause lightning storms.",
+      "yellow": "It keeps its tail raised to monitor its surroundings. If you yank its tail, it will try to bite you."
+    }
+  },
+  "26": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave B1F",
+          "Power Plant Area"
+        ],
+        "versionLabel": "Red/Blue"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Growl",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Thunder Shock",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Thunder Wave",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Its long tail serves as a ground to protect itself from its own high voltage power.",
+      "red": "Its long tail serves as a ground to protect itself from its own high voltage power.",
+      "yellow": "When electricity builds up inside its body, it becomes feisty. It also glows in the dark."
+    }
+  },
+  "27": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 10 Area",
+          "Kanto Route 11 Area",
+          "Kanto Route 23 Area",
+          "Kanto Route 4 Area",
+          "Kanto Route 8 Area",
+          "Kanto Route 9 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 3 Area",
+          "Kanto Route 4 Area",
+          "Mt Moon 1F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Scratch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sand Attack",
+        "redBlueLevel": "10",
+        "yellowLevel": "10"
+      },
+      {
+        "move": "Slash",
+        "redBlueLevel": "17",
+        "yellowLevel": "17"
+      },
+      {
+        "move": "Poison Sting",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Swift",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Fury Swipes",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
+      "red": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
+      "yellow": "Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew."
+    }
+  },
+  "28": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave B1F",
+          "Kanto Route 23 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave 2F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Scratch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sand Attack",
+        "redBlueLevel": "10",
+        "yellowLevel": "10"
+      },
+      {
+        "move": "Slash",
+        "redBlueLevel": "17",
+        "yellowLevel": "17"
+      },
+      {
+        "move": "Poison Sting",
+        "redBlueLevel": "27",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Swift",
+        "redBlueLevel": "36",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Fury Swipes",
+        "redBlueLevel": "47",
+        "yellowLevel": "47"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
+      "red": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
+      "yellow": "It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day."
+    }
+  },
+  "29": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 22 Area",
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 10 Area",
+          "Kanto Route 2 South Towards Viridian City",
+          "Kanto Route 22 Area",
+          "Kanto Route 9 Area",
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Growl",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Scratch",
+        "redBlueLevel": "8",
+        "yellowLevel": "8"
+      },
+      {
+        "move": "Poison Sting",
+        "redBlueLevel": "14",
+        "yellowLevel": "17"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "21",
+        "yellowLevel": "23"
+      },
+      {
+        "move": "Bite",
+        "redBlueLevel": "29",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Fury Swipes",
+        "redBlueLevel": "36",
+        "yellowLevel": "38"
+      },
+      {
+        "move": "Double Kick",
+        "redBlueLevel": "43",
+        "yellowLevel": "12"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
+      "red": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns.",
+      "yellow": "A mild-mannered POK\u00e9MON that does not like to fight. Beware, its small horns secrete venom."
+    }
+  },
+  "3": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Growl",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Leech Seed",
+        "redBlueLevel": "7",
+        "yellowLevel": "7"
+      },
+      {
+        "move": "Vine Whip",
+        "redBlueLevel": "13",
+        "yellowLevel": "13"
+      },
+      {
+        "move": "Poison Powder",
+        "redBlueLevel": "22",
+        "yellowLevel": "22"
+      },
+      {
+        "move": "Razor Leaf",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Growth",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      },
+      {
+        "move": "Sleep Powder",
+        "redBlueLevel": "55",
+        "yellowLevel": "55"
+      },
+      {
+        "move": "Solar Beam",
+        "redBlueLevel": "65",
+        "yellowLevel": "65"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+      "red": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+      "yellow": "The flower on its back catches the sun's rays. The sunlight is then absorbed and used for energy."
+    }
+  },
+  "30": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 23 Area",
+          "Kanto Route 9 Area",
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Growl",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Scratch",
+        "redBlueLevel": "8",
+        "yellowLevel": "8"
+      },
+      {
+        "move": "Poison Sting",
+        "redBlueLevel": "14",
+        "yellowLevel": "19"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "23",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Bite",
+        "redBlueLevel": "32",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Fury Swipes",
+        "redBlueLevel": "41",
+        "yellowLevel": "46"
+      },
+      {
+        "move": "Double Kick",
+        "redBlueLevel": "50",
+        "yellowLevel": "12"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
+      "red": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
+      "yellow": "When resting deep in its burrow, its thorns always retract. This is proof that it is relaxed."
+    }
+  },
+  "31": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Scratch",
+        "redBlueLevel": "8",
+        "yellowLevel": "8"
+      },
+      {
+        "move": "Poison Sting",
+        "redBlueLevel": "14",
+        "yellowLevel": "-"
+      },
+      {
+        "move": "Body Slam",
+        "redBlueLevel": "23",
+        "yellowLevel": "23"
+      },
+      {
+        "move": "Double Kick",
+        "redBlueLevel": "-",
+        "yellowLevel": "12"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
+      "red": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
+      "yellow": "Tough scales cover the sturdy body of this POK\u00e9MON. It appears that the scales grow in cycles."
+    }
+  },
+  "32": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 22 Area",
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 10 Area",
+          "Kanto Route 2 South Towards Viridian City",
+          "Kanto Route 22 Area",
+          "Kanto Route 9 Area",
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Leer",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Horn Attack",
+        "redBlueLevel": "8",
+        "yellowLevel": "8"
+      },
+      {
+        "move": "Poison Sting",
+        "redBlueLevel": "14",
+        "yellowLevel": "17"
+      },
+      {
+        "move": "Focus Energy",
+        "redBlueLevel": "21",
+        "yellowLevel": "23"
+      },
+      {
+        "move": "Fury Attack",
+        "redBlueLevel": "29",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Horn Drill",
+        "redBlueLevel": "36",
+        "yellowLevel": "38"
+      },
+      {
+        "move": "Double Kick",
+        "redBlueLevel": "43",
+        "yellowLevel": "12"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
+      "red": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
+      "yellow": "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting."
+    }
+  },
+  "33": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 23 Area",
+          "Kanto Route 9 Area",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Leer",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Horn Attack",
+        "redBlueLevel": "8",
+        "yellowLevel": "8"
+      },
+      {
+        "move": "Poison Sting",
+        "redBlueLevel": "14",
+        "yellowLevel": "19"
+      },
+      {
+        "move": "Focus Energy",
+        "redBlueLevel": "23",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Fury Attack",
+        "redBlueLevel": "32",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Horn Drill",
+        "redBlueLevel": "41",
+        "yellowLevel": "46"
+      },
+      {
+        "move": "Double Kick",
+        "redBlueLevel": "50",
+        "yellowLevel": "12"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "An aggressive POK\u00e9MON that is quick to attack. The horn on its head secretes a powerful venom.",
+      "red": "An aggressive POK\u00e9MON that is quick to attack. The horn on its head secretes a powerful venom.",
+      "yellow": "Its horns contain venom. If they are stabbed into an enemy, the impact makes the poison leak out."
+    }
+  },
+  "34": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Horn Attack",
+        "redBlueLevel": "8",
+        "yellowLevel": "8"
+      },
+      {
+        "move": "Poison Sting",
+        "redBlueLevel": "14",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Thrash",
+        "redBlueLevel": "23",
+        "yellowLevel": "23"
+      },
+      {
+        "move": "Double Kick",
+        "redBlueLevel": "-",
+        "yellowLevel": "12"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
+      "red": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
+      "yellow": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond."
+    }
+  },
+  "35": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Mt Moon 1F",
+          "Mt Moon B1F",
+          "Mt Moon B2F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Mt Moon 1F",
+          "Mt Moon B1F",
+          "Mt Moon B2F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Growl",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Pound",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sing",
+        "redBlueLevel": "13",
+        "yellowLevel": "13"
+      },
+      {
+        "move": "Double Slap",
+        "redBlueLevel": "18",
+        "yellowLevel": "18"
+      },
+      {
+        "move": "Minimize",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Metronome",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Defense Curl",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Light Screen",
+        "redBlueLevel": "48",
+        "yellowLevel": "48"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+      "red": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+      "yellow": "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often."
+    }
+  },
+  "36": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Double Slap",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Metronome",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Minimize",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sing",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "A timid fairy POK\u00e9MON that is rarely seen. It will run and hide the moment it senses people.",
+      "red": "A timid fairy POK\u00e9MON that is rarely seen. It will run and hide the moment it senses people.",
+      "yellow": "They appear to be very protective of their own world. It is a kind of fairy, rarely seen by people."
+    }
+  },
+  "37": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 7 Area",
+          "Kanto Route 8 Area",
+          "Pokemon Mansion 1F",
+          "Pokemon Mansion 2F",
+          "Pokemon Mansion 3F",
+          "Pokemon Mansion B1F"
+        ],
+        "versionLabel": "Red/Blue"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Ember",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Quick Attack",
+        "redBlueLevel": "16",
+        "yellowLevel": "16"
+      },
+      {
+        "move": "Roar",
+        "redBlueLevel": "21",
+        "yellowLevel": "21"
+      },
+      {
+        "move": "Confuse Ray",
+        "redBlueLevel": "28",
+        "yellowLevel": "28"
+      },
+      {
+        "move": "Flamethrower",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Fire Spin",
+        "redBlueLevel": "42",
+        "yellowLevel": "42"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",
+      "red": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",
+      "yellow": "Both its fur and its tails are beautiful. As it grows, the tails split and form more tails."
+    }
+  },
+  "38": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Ember",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Quick Attack",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Roar",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
+      "red": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
+      "yellow": "According to an enduring legend, 9 noble saints were united and reincarnated as this POK\u00e9MON."
+    }
+  },
+  "39": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 3 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 5 Area",
+          "Kanto Route 6 Area",
+          "Kanto Route 7 Area",
+          "Kanto Route 8 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Sing",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Pound",
+        "redBlueLevel": "9",
+        "yellowLevel": "9"
+      },
+      {
+        "move": "Disable",
+        "redBlueLevel": "14",
+        "yellowLevel": "14"
+      },
+      {
+        "move": "Defense Curl",
+        "redBlueLevel": "19",
+        "yellowLevel": "19"
+      },
+      {
+        "move": "Double Slap",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Rest",
+        "redBlueLevel": "29",
+        "yellowLevel": "29"
+      },
+      {
+        "move": "Body Slam",
+        "redBlueLevel": "34",
+        "yellowLevel": "34"
+      },
+      {
+        "move": "Double Edge",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+      "red": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+      "yellow": "Uses its alluring eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep."
+    }
+  },
+  "4": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Pallet Town Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 24 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Growl",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Scratch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Ember",
+        "redBlueLevel": "9",
+        "yellowLevel": "9"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Rage",
+        "redBlueLevel": "22",
+        "yellowLevel": "22"
+      },
+      {
+        "move": "Slash",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Flamethrower",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      },
+      {
+        "move": "Fire Spin",
+        "redBlueLevel": "46",
+        "yellowLevel": "46"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
+      "red": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
+      "yellow": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places."
+    }
+  },
+  "40": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 2F"
+        ],
+        "versionLabel": "Red/Blue"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Defense Curl",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Disable",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Double Slap",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sing",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+      "red": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+      "yellow": "Its body is full of elasticity. By inhaling deeply, it can continue to inflate itself without limit."
+    }
+  },
+  "41": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Victory Road 2 1F",
+          "Kanto Victory Road 2 2F",
+          "Kanto Victory Road 2 3F",
+          "Mt Moon 1F",
+          "Mt Moon B1F",
+          "Mt Moon B2F",
+          "Rock Tunnel B1F",
+          "Rock Tunnel B2F",
+          "Seafoam Islands 1F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Victory Road 2 1F",
+          "Kanto Victory Road 2 2F",
+          "Mt Moon 1F",
+          "Mt Moon B1F",
+          "Mt Moon B2F",
+          "Rock Tunnel B1F",
+          "Rock Tunnel B2F",
+          "Seafoam Islands 1F",
+          "Seafoam Islands B1F",
+          "Seafoam Islands B2F",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Leech Life",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Supersonic",
+        "redBlueLevel": "10",
+        "yellowLevel": "10"
+      },
+      {
+        "move": "Bite",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Confuse Ray",
+        "redBlueLevel": "21",
+        "yellowLevel": "21"
+      },
+      {
+        "move": "Wing Attack",
+        "redBlueLevel": "28",
+        "yellowLevel": "28"
+      },
+      {
+        "move": "Haze",
+        "redBlueLevel": "36",
+        "yellowLevel": "36"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
+      "red": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
+      "yellow": "Emits ultrasonic cries while it flies. They act as a sonar used to check for ob\u00ad jects in its way."
+    }
+  },
+  "42": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Kanto Victory Road 2 1F",
+          "Kanto Victory Road 2 2F",
+          "Kanto Victory Road 2 3F",
+          "Seafoam Islands 1F",
+          "Seafoam Islands B2F",
+          "Seafoam Islands B4F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave 2F",
+          "Cerulean Cave B1F",
+          "Kanto Victory Road 2 2F",
+          "Kanto Victory Road 2 3F",
+          "Seafoam Islands 1F",
+          "Seafoam Islands B1F",
+          "Seafoam Islands B2F",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Leech Life",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Screech",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Supersonic",
+        "redBlueLevel": "10",
+        "yellowLevel": "10"
+      },
+      {
+        "move": "Bite",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Confuse Ray",
+        "redBlueLevel": "21",
+        "yellowLevel": "21"
+      },
+      {
+        "move": "Wing Attack",
+        "redBlueLevel": "32",
+        "yellowLevel": "32"
+      },
+      {
+        "move": "Haze",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+      "red": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+      "yellow": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and suck blood."
+    }
+  },
+  "43": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 14 Area",
+          "Kanto Route 15 Area",
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area",
+          "Kanto Route 5 Area",
+          "Kanto Route 6 Area",
+          "Kanto Route 7 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 14 Area",
+          "Kanto Route 15 Area",
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Absorb",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Poison Powder",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Stun Spore",
+        "redBlueLevel": "17",
+        "yellowLevel": "17"
+      },
+      {
+        "move": "Sleep Powder",
+        "redBlueLevel": "19",
+        "yellowLevel": "19"
+      },
+      {
+        "move": "Acid",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Petal Dance",
+        "redBlueLevel": "33",
+        "yellowLevel": "33"
+      },
+      {
+        "move": "Solar Beam",
+        "redBlueLevel": "46",
+        "yellowLevel": "46"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+      "red": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+      "yellow": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly."
+    }
+  },
+  "44": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 14 Area",
+          "Kanto Route 15 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave 2F",
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 14 Area",
+          "Kanto Route 15 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Absorb",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Poison Powder",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Stun Spore",
+        "redBlueLevel": "17",
+        "yellowLevel": "17"
+      },
+      {
+        "move": "Sleep Powder",
+        "redBlueLevel": "19",
+        "yellowLevel": "19"
+      },
+      {
+        "move": "Acid",
+        "redBlueLevel": "28",
+        "yellowLevel": "28"
+      },
+      {
+        "move": "Petal Dance",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      },
+      {
+        "move": "Solar Beam",
+        "redBlueLevel": "52",
+        "yellowLevel": "52"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.",
+      "red": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.",
+      "yellow": "Smells incredibly foul! However, around 1 out of 1,000 people enjoy sniffing its nose- bending stink."
+    }
+  },
+  "45": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Acid",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Petal Dance",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Poison Powder",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Stun Spore",
+        "redBlueLevel": "17",
+        "yellowLevel": "17"
+      },
+      {
+        "move": "Sleep Powder",
+        "redBlueLevel": "19",
+        "yellowLevel": "19"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+      "red": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+      "yellow": "Flaps its broad flower petals to scatter its poisonous pollen. The flapping sound is very loud."
+    }
+  },
+  "46": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Mt Moon 1F",
+          "Mt Moon B1F",
+          "Mt Moon B2F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Safari Zone Middle",
+          "Mt Moon B1F",
+          "Mt Moon B2F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Scratch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Stun Spore",
+        "redBlueLevel": "13",
+        "yellowLevel": "13"
+      },
+      {
+        "move": "Leech Life",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Spore",
+        "redBlueLevel": "27",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Slash",
+        "redBlueLevel": "34",
+        "yellowLevel": "34"
+      },
+      {
+        "move": "Growth",
+        "redBlueLevel": "41",
+        "yellowLevel": "41"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Burrows to suck tree roots. The mushrooms on its back grow by draw\u00ad ing nutrients from the bug host.",
+      "red": "Burrows to suck tree roots. The mushrooms on its back grow by draw\u00ad ing nutrients from the bug host.",
+      "yellow": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition."
+    }
+  },
+  "47": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave B1F",
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Scratch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Stun Spore",
+        "redBlueLevel": "13",
+        "yellowLevel": "13"
+      },
+      {
+        "move": "Leech Life",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Spore",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Slash",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Growth",
+        "redBlueLevel": "48",
+        "yellowLevel": "48"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
+      "red": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
+      "yellow": "The bug host is drained of energy by the mushrooms on its back. They appear to do all the thinking."
+    }
+  },
+  "48": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 14 Area",
+          "Kanto Route 15 Area",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 14 Area",
+          "Kanto Route 15 Area",
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Disable",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Poison Powder",
+        "redBlueLevel": "24",
+        "yellowLevel": "22"
+      },
+      {
+        "move": "Leech Life",
+        "redBlueLevel": "27",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Stun Spore",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Psybeam",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Sleep Powder",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      },
+      {
+        "move": "Psychic",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      },
+      {
+        "move": "Supersonic",
+        "redBlueLevel": "-",
+        "yellowLevel": "11"
+      },
+      {
+        "move": "Confusion",
+        "redBlueLevel": "-",
+        "yellowLevel": "19"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
+      "red": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
+      "yellow": "Its large eyes act as radars. In a bright place, you can see that they are clusters of many tiny eyes."
+    }
+  },
+  "49": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave 2F",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Victory Road 2 3F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Kanto Route 14 Area",
+          "Kanto Route 15 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Disable",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Poison Powder",
+        "redBlueLevel": "24",
+        "yellowLevel": "22"
+      },
+      {
+        "move": "Leech Life",
+        "redBlueLevel": "27",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Stun Spore",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Psybeam",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      },
+      {
+        "move": "Sleep Powder",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      },
+      {
+        "move": "Psychic",
+        "redBlueLevel": "50",
+        "yellowLevel": "50"
+      },
+      {
+        "move": "Confusion",
+        "redBlueLevel": "-",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Supersonic",
+        "redBlueLevel": "-",
+        "yellowLevel": "1"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
+      "red": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
+      "yellow": "The powdery scales on its wings are hard to remove. They also contain poison that leaks out on contact."
+    }
+  },
+  "5": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Growl",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Scratch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Ember",
+        "redBlueLevel": "9",
+        "yellowLevel": "9"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Rage",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Slash",
+        "redBlueLevel": "33",
+        "yellowLevel": "33"
+      },
+      {
+        "move": "Flamethrower",
+        "redBlueLevel": "42",
+        "yellowLevel": "42"
+      },
+      {
+        "move": "Fire Spin",
+        "redBlueLevel": "56",
+        "yellowLevel": "56"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
+      "red": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
+      "yellow": "Tough fights could excite this POK\u00e9MON. When excited, it may blow out bluish- white flames."
+    }
+  },
+  "50": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Digletts Cave Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Digletts Cave Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Scratch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Growl",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Dig",
+        "redBlueLevel": "19",
+        "yellowLevel": "19"
+      },
+      {
+        "move": "Sand Attack",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Slash",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Earthquake",
+        "redBlueLevel": "40",
+        "yellowLevel": "40"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
+      "red": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
+      "yellow": "It prefers dark places. It spends most of its time underground, though it may pop up in caves."
+    }
+  },
+  "51": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Digletts Cave Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Digletts Cave Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Scratch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Growl",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Dig",
+        "redBlueLevel": "19",
+        "yellowLevel": "19"
+      },
+      {
+        "move": "Sand Attack",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Slash",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Earthquake",
+        "redBlueLevel": "47",
+        "yellowLevel": "47"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
+      "red": "A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
+      "yellow": "A team of triplets that can burrow over 60 MPH. Due to this, some people think it's an earthquake."
+    }
+  },
+  "52": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 5 Area",
+          "Kanto Route 6 Area",
+          "Kanto Route 7 Area",
+          "Kanto Route 8 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Growl",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Scratch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Bite",
+        "redBlueLevel": "12",
+        "yellowLevel": "12"
+      },
+      {
+        "move": "Pay Day",
+        "redBlueLevel": "17",
+        "yellowLevel": "17"
+      },
+      {
+        "move": "Screech",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Fury Swipes",
+        "redBlueLevel": "33",
+        "yellowLevel": "33"
+      },
+      {
+        "move": "Slash",
+        "redBlueLevel": "44",
+        "yellowLevel": "44"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+      "red": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+      "yellow": "Appears to be more active at night. It loves round and shiny things. It can't stop from picking them up."
+    }
+  },
+  "53": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Growl",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Scratch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Bite",
+        "redBlueLevel": "12",
+        "yellowLevel": "12"
+      },
+      {
+        "move": "Pay Day",
+        "redBlueLevel": "17",
+        "yellowLevel": "17"
+      },
+      {
+        "move": "Screech",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Fury Swipes",
+        "redBlueLevel": "37",
+        "yellowLevel": "37"
+      },
+      {
+        "move": "Slash",
+        "redBlueLevel": "51",
+        "yellowLevel": "51"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+      "red": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+      "yellow": "The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen."
+    }
+  },
+  "54": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean City Area",
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area",
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle",
+          "Seafoam Islands 1F",
+          "Seafoam Islands B1F",
+          "Seafoam Islands B2F",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 6 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Scratch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "28",
+        "yellowLevel": "28"
+      },
+      {
+        "move": "Disable",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Confusion",
+        "redBlueLevel": "36",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Fury Swipes",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "52",
+        "yellowLevel": "52"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
+      "red": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
+      "yellow": "Always tormented by headaches. It uses psychic powers, but it is not known if it intends to do so."
+    }
+  },
+  "55": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Seafoam Islands 1F",
+          "Seafoam Islands B2F",
+          "Seafoam Islands B4F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 6 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Scratch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "28",
+        "yellowLevel": "28"
+      },
+      {
+        "move": "Disable",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Confusion",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Fury Swipes",
+        "redBlueLevel": "48",
+        "yellowLevel": "48"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "59",
+        "yellowLevel": "59"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Often seen swim\u00ad ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+      "red": "Often seen swim\u00ad ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+      "yellow": "Its slim and long limbs end in broad flippers. They are used for swim\u00ad ming gracefully in lakes."
+    }
+  },
+  "56": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 5 Area",
+          "Kanto Route 6 Area",
+          "Kanto Route 7 Area",
+          "Kanto Route 8 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 22 Area",
+          "Kanto Route 23 Area",
+          "Kanto Route 3 Area",
+          "Kanto Route 4 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Leer",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Scratch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Karate Chop",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Fury Swipes",
+        "redBlueLevel": "21",
+        "yellowLevel": "21"
+      },
+      {
+        "move": "Focus Energy",
+        "redBlueLevel": "27",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Seismic Toss",
+        "redBlueLevel": "33",
+        "yellowLevel": "33"
+      },
+      {
+        "move": "Thrash",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Low Kick",
+        "redBlueLevel": "-",
+        "yellowLevel": "9"
+      },
+      {
+        "move": "Screech",
+        "redBlueLevel": "-",
+        "yellowLevel": "45"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
+      "red": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
+      "yellow": "An agile POK\u00e9MON that lives in trees. It angers easily and will not hesitate to attack anything."
+    }
+  },
+  "57": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 23 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Leer",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Scratch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Karate Chop",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Fury Swipes",
+        "redBlueLevel": "21",
+        "yellowLevel": "21"
+      },
+      {
+        "move": "Focus Energy",
+        "redBlueLevel": "27",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Seismic Toss",
+        "redBlueLevel": "37",
+        "yellowLevel": "37"
+      },
+      {
+        "move": "Thrash",
+        "redBlueLevel": "46",
+        "yellowLevel": "46"
+      },
+      {
+        "move": "Low Kick",
+        "redBlueLevel": "-",
+        "yellowLevel": "9"
+      },
+      {
+        "move": "Rage",
+        "redBlueLevel": "-",
+        "yellowLevel": "28"
+      },
+      {
+        "move": "Screech",
+        "redBlueLevel": "-",
+        "yellowLevel": "45"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
+      "red": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
+      "yellow": "It stops being angry only when nobody else is around. To view this moment is very difficult."
+    }
+  },
+  "58": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 7 Area",
+          "Kanto Route 8 Area",
+          "Pokemon Mansion 1F",
+          "Pokemon Mansion 2F",
+          "Pokemon Mansion 3F",
+          "Pokemon Mansion B1F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Pokemon Mansion 1F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Bite",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Roar",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Ember",
+        "redBlueLevel": "18",
+        "yellowLevel": "18"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "23",
+        "yellowLevel": "23"
+      },
+      {
+        "move": "Take Down",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Flamethrower",
+        "redBlueLevel": "50",
+        "yellowLevel": "50"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Very protective of its territory. It will bark and bite to repel intruders from its space.",
+      "red": "Very protective of its territory. It will bark and bite to repel intruders from its space.",
+      "yellow": "A POK\u00e9MON with a friendly nature. However, it will bark fiercely at anything invading its territory."
+    }
+  },
+  "59": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Ember",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Roar",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Take Down",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "A POK\u00e9MON that has been admired since the past for its beauty. It runs agilely as if on wings.",
+      "red": "A POK\u00e9MON that has been admired since the past for its beauty. It runs agilely as if on wings.",
+      "yellow": "A legendary POK\u00e9\u00ad MON in China. Many people are charmed by its grace and beauty while running."
+    }
+  },
+  "6": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Growl",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Scratch",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Ember",
+        "redBlueLevel": "9",
+        "yellowLevel": "9"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Rage",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Slash",
+        "redBlueLevel": "36",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Flamethrower",
+        "redBlueLevel": "46",
+        "yellowLevel": "46"
+      },
+      {
+        "move": "Fire Spin",
+        "redBlueLevel": "55",
+        "yellowLevel": "55"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+      "red": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+      "yellow": "When expelling a blast of super hot fire, the red flame at the tip of its tail burns more intensely."
+    }
+  },
+  "60": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Celadon City Area",
+          "Cerulean Cave 1F",
+          "Cerulean Cave B1F",
+          "Cerulean City Area",
+          "Cinnabar Island Area",
+          "Fuchsia City Area",
+          "Kanto Route 10 Area",
+          "Kanto Route 11 Area",
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 17 Area",
+          "Kanto Route 18 Area",
+          "Kanto Route 22 Area",
+          "Kanto Route 23 Area",
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area",
+          "Kanto Route 6 Area",
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle",
+          "Kanto Sea Route 19 Area",
+          "Kanto Sea Route 20 Area",
+          "Kanto Sea Route 21 Area",
+          "Pallet Town Area",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F",
+          "Vermilion City Area",
+          "Vermilion City Ss Anne Dock",
+          "Viridian City Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Celadon City Area",
+          "Cerulean Cave 1F",
+          "Cerulean Cave B1F",
+          "Cerulean City Area",
+          "Cinnabar Island Area",
+          "Fuchsia City Area",
+          "Kanto Route 10 Area",
+          "Kanto Route 11 Area",
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 17 Area",
+          "Kanto Route 18 Area",
+          "Kanto Route 22 Area",
+          "Kanto Route 23 Area",
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area",
+          "Kanto Route 6 Area",
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle",
+          "Kanto Sea Route 19 Area",
+          "Kanto Sea Route 20 Area",
+          "Kanto Sea Route 21 Area",
+          "Pallet Town Area",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F",
+          "Vermilion City Area",
+          "Viridian City Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Bubble",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Hypnosis",
+        "redBlueLevel": "16",
+        "yellowLevel": "16"
+      },
+      {
+        "move": "Water Gun",
+        "redBlueLevel": "19",
+        "yellowLevel": "19"
+      },
+      {
+        "move": "Double Slap",
+        "redBlueLevel": "25",
+        "yellowLevel": "25"
+      },
+      {
+        "move": "Body Slam",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Amnesia",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "45",
+        "yellowLevel": "45"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
+      "red": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
+      "yellow": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking."
+    }
+  },
+  "61": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Celadon City Area",
+          "Kanto Route 10 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 22 Area",
+          "Kanto Route 23 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Bubble",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Hypnosis",
+        "redBlueLevel": "16",
+        "yellowLevel": "16"
+      },
+      {
+        "move": "Water Gun",
+        "redBlueLevel": "19",
+        "yellowLevel": "19"
+      },
+      {
+        "move": "Double Slap",
+        "redBlueLevel": "26",
+        "yellowLevel": "26"
+      },
+      {
+        "move": "Body Slam",
+        "redBlueLevel": "33",
+        "yellowLevel": "33"
+      },
+      {
+        "move": "Amnesia",
+        "redBlueLevel": "41",
+        "yellowLevel": "41"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "49",
+        "yellowLevel": "49"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
+      "red": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
+      "yellow": "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape."
+    }
+  },
+  "62": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Body Slam",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Double Slap",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Hypnosis",
+        "redBlueLevel": "16",
+        "yellowLevel": "16"
+      },
+      {
+        "move": "Water Gun",
+        "redBlueLevel": "19",
+        "yellowLevel": "19"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers.",
+      "red": "An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers.",
+      "yellow": "Swims powerfully using all the muscles in its body. It can even overtake champion swimmers."
+    }
+  },
+  "63": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 5 Area",
+          "Kanto Route 6 Area",
+          "Kanto Route 7 Area",
+          "Kanto Route 8 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Teleport",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Using its ability to read minds, it will identify impending danger and TELEPORT to safety.",
+      "red": "Using its ability to read minds, it will identify impending danger and TELEPORT to safety.",
+      "yellow": "Sleeps 18 hours a day. If it senses danger, it will teleport itself to safety even as it sleeps."
+    }
+  },
+  "64": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave 2F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 8 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Teleport",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Confusion",
+        "redBlueLevel": "16",
+        "yellowLevel": "16"
+      },
+      {
+        "move": "Disable",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Psybeam",
+        "redBlueLevel": "27",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Recover",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Psychic",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      },
+      {
+        "move": "Reflect",
+        "redBlueLevel": "42",
+        "yellowLevel": "42"
+      },
+      {
+        "move": "Kinesis",
+        "redBlueLevel": "-",
+        "yellowLevel": "1"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "It emits special alpha waves from its body that induce headaches just by being close by.",
+      "red": "It emits special alpha waves from its body that induce headaches just by being close by.",
+      "yellow": "Many odd things happen if this POK\u00e9MON is close by. For example, it makes clocks run backwards."
+    }
+  },
+  "65": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Teleport",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Confusion",
+        "redBlueLevel": "16",
+        "yellowLevel": "16"
+      },
+      {
+        "move": "Disable",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Psybeam",
+        "redBlueLevel": "27",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Recover",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Psychic",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      },
+      {
+        "move": "Reflect",
+        "redBlueLevel": "42",
+        "yellowLevel": "42"
+      },
+      {
+        "move": "Kinesis",
+        "redBlueLevel": "-",
+        "yellowLevel": "1"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Its brain can out\u00ad perform a super\u00ad computer. Its intelligence quotient is said to be 5,000.",
+      "red": "Its brain can out\u00ad perform a super\u00ad computer. Its intelligence quotient is said to be 5,000.",
+      "yellow": "A POK\u00e9MON that can memorize anything. It never forgets what it learns-- that's why this POK\u00e9MON is smart."
+    }
+  },
+  "66": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Victory Road 2 1F",
+          "Kanto Victory Road 2 2F",
+          "Kanto Victory Road 2 3F",
+          "Rock Tunnel B1F",
+          "Rock Tunnel B2F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 10 Area",
+          "Rock Tunnel B1F",
+          "Rock Tunnel B2F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Karate Chop",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Low Kick",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "25",
+        "yellowLevel": "25"
+      },
+      {
+        "move": "Focus Energy",
+        "redBlueLevel": "32",
+        "yellowLevel": "32"
+      },
+      {
+        "move": "Seismic Toss",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Submission",
+        "redBlueLevel": "46",
+        "yellowLevel": "46"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
+      "red": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
+      "yellow": "Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough."
+    }
+  },
+  "67": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Victory Road 2 1F",
+          "Kanto Victory Road 2 2F",
+          "Kanto Victory Road 2 3F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Victory Road 2 2F",
+          "Kanto Victory Road 2 3F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Karate Chop",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Low Kick",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "25",
+        "yellowLevel": "25"
+      },
+      {
+        "move": "Focus Energy",
+        "redBlueLevel": "36",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Seismic Toss",
+        "redBlueLevel": "44",
+        "yellowLevel": "44"
+      },
+      {
+        "move": "Submission",
+        "redBlueLevel": "52",
+        "yellowLevel": "52"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.",
+      "red": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.",
+      "yellow": "The belt around its waist holds back its energy. Without it, this POK\u00e9MON would be unstoppable."
+    }
+  },
+  "68": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Karate Chop",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Low Kick",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "25",
+        "yellowLevel": "25"
+      },
+      {
+        "move": "Focus Energy",
+        "redBlueLevel": "36",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Seismic Toss",
+        "redBlueLevel": "44",
+        "yellowLevel": "44"
+      },
+      {
+        "move": "Submission",
+        "redBlueLevel": "52",
+        "yellowLevel": "52"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.",
+      "red": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.",
+      "yellow": "One arm alone can move mountains. Using all four arms, this POK\u00e9MON fires off awesome punches."
+    }
+  },
+  "69": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 14 Area",
+          "Kanto Route 15 Area",
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area",
+          "Kanto Route 5 Area",
+          "Kanto Route 6 Area",
+          "Kanto Route 7 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 14 Area",
+          "Kanto Route 15 Area",
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Growth",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Vine Whip",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Wrap",
+        "redBlueLevel": "13",
+        "yellowLevel": "13"
+      },
+      {
+        "move": "Poison Powder",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Sleep Powder",
+        "redBlueLevel": "18",
+        "yellowLevel": "18"
+      },
+      {
+        "move": "Stun Spore",
+        "redBlueLevel": "21",
+        "yellowLevel": "21"
+      },
+      {
+        "move": "Acid",
+        "redBlueLevel": "26",
+        "yellowLevel": "26"
+      },
+      {
+        "move": "Razor Leaf",
+        "redBlueLevel": "33",
+        "yellowLevel": "33"
+      },
+      {
+        "move": "Slam",
+        "redBlueLevel": "42",
+        "yellowLevel": "42"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "A carnivorous POK\u00e9MON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+      "red": "A carnivorous POK\u00e9MON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+      "yellow": "Prefers hot and humid places. It ensnares tiny insects with its vines and devours them."
+    }
+  },
+  "7": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Pallet Town Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Vermilion City Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Bubble",
+        "redBlueLevel": "8",
+        "yellowLevel": "8"
+      },
+      {
+        "move": "Water Gun",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Bite",
+        "redBlueLevel": "22",
+        "yellowLevel": "22"
+      },
+      {
+        "move": "Withdraw",
+        "redBlueLevel": "28",
+        "yellowLevel": "28"
+      },
+      {
+        "move": "Skull Bash",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "42",
+        "yellowLevel": "42"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+      "red": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+      "yellow": "Shoots water at prey while in the water. Withdraws into its shell when in danger."
+    }
+  },
+  "70": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 14 Area",
+          "Kanto Route 15 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave 2F",
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 14 Area",
+          "Kanto Route 15 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Growth",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Vine Whip",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Wrap",
+        "redBlueLevel": "13",
+        "yellowLevel": "13"
+      },
+      {
+        "move": "Poison Powder",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Sleep Powder",
+        "redBlueLevel": "18",
+        "yellowLevel": "18"
+      },
+      {
+        "move": "Stun Spore",
+        "redBlueLevel": "23",
+        "yellowLevel": "23"
+      },
+      {
+        "move": "Acid",
+        "redBlueLevel": "29",
+        "yellowLevel": "29"
+      },
+      {
+        "move": "Razor Leaf",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      },
+      {
+        "move": "Slam",
+        "redBlueLevel": "49",
+        "yellowLevel": "49"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.",
+      "red": "It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.",
+      "yellow": "When hungry, it swallows anything that moves. Its hapless prey is melted inside by strong acids."
+    }
+  },
+  "71": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Acid",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Razor Leaf",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Stun Spore",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Wrap",
+        "redBlueLevel": "13",
+        "yellowLevel": "13"
+      },
+      {
+        "move": "Poison Powder",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Sleep Powder",
+        "redBlueLevel": "18",
+        "yellowLevel": "18"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+      "red": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+      "yellow": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is melted in a day, bones and all."
+    }
+  },
+  "72": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 17 Area",
+          "Kanto Route 18 Area",
+          "Kanto Sea Route 19 Area",
+          "Kanto Sea Route 20 Area",
+          "Kanto Sea Route 21 Area",
+          "Pallet Town Area",
+          "Viridian City Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cinnabar Island Area",
+          "Kanto Route 11 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 17 Area",
+          "Kanto Route 18 Area",
+          "Kanto Sea Route 19 Area",
+          "Kanto Sea Route 20 Area",
+          "Kanto Sea Route 21 Area",
+          "Pallet Town Area",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F",
+          "Vermilion City Area",
+          "Vermilion City Ss Anne Dock"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Acid",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Supersonic",
+        "redBlueLevel": "7",
+        "yellowLevel": "7"
+      },
+      {
+        "move": "Wrap",
+        "redBlueLevel": "13",
+        "yellowLevel": "13"
+      },
+      {
+        "move": "Poison Sting",
+        "redBlueLevel": "18",
+        "yellowLevel": "18"
+      },
+      {
+        "move": "Water Gun",
+        "redBlueLevel": "22",
+        "yellowLevel": "22"
+      },
+      {
+        "move": "Constrict",
+        "redBlueLevel": "27",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Barrier",
+        "redBlueLevel": "33",
+        "yellowLevel": "33"
+      },
+      {
+        "move": "Screech",
+        "redBlueLevel": "40",
+        "yellowLevel": "40"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "48",
+        "yellowLevel": "48"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
+      "red": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
+      "yellow": "It can sometimes be found all dry and shriveled up on a beach. Toss it back into the sea to revive it."
+    }
+  },
+  "73": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Sea Route 19 Area",
+          "Kanto Sea Route 20 Area",
+          "Kanto Sea Route 21 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Acid",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Supersonic",
+        "redBlueLevel": "7",
+        "yellowLevel": "7"
+      },
+      {
+        "move": "Wrap",
+        "redBlueLevel": "13",
+        "yellowLevel": "13"
+      },
+      {
+        "move": "Poison Sting",
+        "redBlueLevel": "18",
+        "yellowLevel": "18"
+      },
+      {
+        "move": "Water Gun",
+        "redBlueLevel": "22",
+        "yellowLevel": "22"
+      },
+      {
+        "move": "Constrict",
+        "redBlueLevel": "27",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Barrier",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Screech",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "50",
+        "yellowLevel": "50"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
+      "red": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
+      "yellow": "Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison."
+    }
+  },
+  "74": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Victory Road 2 1F",
+          "Kanto Victory Road 2 2F",
+          "Kanto Victory Road 2 3F",
+          "Mt Moon 1F",
+          "Mt Moon B1F",
+          "Mt Moon B2F",
+          "Rock Tunnel B1F",
+          "Rock Tunnel B2F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Victory Road 2 1F",
+          "Kanto Victory Road 2 2F",
+          "Kanto Victory Road 2 3F",
+          "Mt Moon 1F",
+          "Mt Moon B1F",
+          "Mt Moon B2F",
+          "Rock Tunnel B1F",
+          "Rock Tunnel B2F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Defense Curl",
+        "redBlueLevel": "11",
+        "yellowLevel": "11"
+      },
+      {
+        "move": "Rock Throw",
+        "redBlueLevel": "16",
+        "yellowLevel": "16"
+      },
+      {
+        "move": "Self Destruct",
+        "redBlueLevel": "21",
+        "yellowLevel": "21"
+      },
+      {
+        "move": "Harden",
+        "redBlueLevel": "26",
+        "yellowLevel": "26"
+      },
+      {
+        "move": "Earthquake",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Explosion",
+        "redBlueLevel": "36",
+        "yellowLevel": "36"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+      "red": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+      "yellow": "Commonly found near mountain trails, etc. If you step on one by accident, it gets angry."
+    }
+  },
+  "75": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Victory Road 2 1F",
+          "Kanto Victory Road 2 2F",
+          "Kanto Victory Road 2 3F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave 2F",
+          "Cerulean Cave B1F",
+          "Kanto Victory Road 2 1F",
+          "Kanto Victory Road 2 2F",
+          "Kanto Victory Road 2 3F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Defense Curl",
+        "redBlueLevel": "11",
+        "yellowLevel": "11"
+      },
+      {
+        "move": "Rock Throw",
+        "redBlueLevel": "16",
+        "yellowLevel": "16"
+      },
+      {
+        "move": "Self Destruct",
+        "redBlueLevel": "21",
+        "yellowLevel": "21"
+      },
+      {
+        "move": "Harden",
+        "redBlueLevel": "29",
+        "yellowLevel": "29"
+      },
+      {
+        "move": "Earthquake",
+        "redBlueLevel": "36",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Explosion",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
+      "red": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
+      "yellow": "Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid."
+    }
+  },
+  "76": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Defense Curl",
+        "redBlueLevel": "11",
+        "yellowLevel": "11"
+      },
+      {
+        "move": "Rock Throw",
+        "redBlueLevel": "16",
+        "yellowLevel": "16"
+      },
+      {
+        "move": "Self Destruct",
+        "redBlueLevel": "21",
+        "yellowLevel": "21"
+      },
+      {
+        "move": "Harden",
+        "redBlueLevel": "29",
+        "yellowLevel": "29"
+      },
+      {
+        "move": "Earthquake",
+        "redBlueLevel": "36",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Explosion",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
+      "red": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
+      "yellow": "Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it's exposed to air."
+    }
+  },
+  "77": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Pokemon Mansion 1F",
+          "Pokemon Mansion 2F",
+          "Pokemon Mansion 3F",
+          "Pokemon Mansion B1F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 17 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Ember",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Stomp",
+        "redBlueLevel": "32",
+        "yellowLevel": "32"
+      },
+      {
+        "move": "Growl",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Fire Spin",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Take Down",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "48",
+        "yellowLevel": "48"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time.",
+      "red": "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time.",
+      "yellow": "Capable of jumping incredibly high. Its hooves and sturdy legs absorb the impact of a hard landing."
+    }
+  },
+  "78": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Ember",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Stomp",
+        "redBlueLevel": "32",
+        "yellowLevel": "32"
+      },
+      {
+        "move": "Growl",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Fire Spin",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Take Down",
+        "redBlueLevel": "47",
+        "yellowLevel": "47"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "55",
+        "yellowLevel": "55"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Very competitive, this POK\u00e9MON will chase anything that moves fast in the hopes of racing it.",
+      "red": "Very competitive, this POK\u00e9MON will chase anything that moves fast in the hopes of racing it.",
+      "yellow": "Just loves to run. If it sees some\u00ad thing faster than itself, it will give chase at top speed."
+    }
+  },
+  "79": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Celadon City Area",
+          "Kanto Route 10 Area",
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle",
+          "Seafoam Islands 1F",
+          "Seafoam Islands B1F",
+          "Seafoam Islands B2F",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Seafoam Islands 1F",
+          "Seafoam Islands B1F",
+          "Seafoam Islands B2F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Confusion",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Disable",
+        "redBlueLevel": "18",
+        "yellowLevel": "18"
+      },
+      {
+        "move": "Headbutt",
+        "redBlueLevel": "22",
+        "yellowLevel": "22"
+      },
+      {
+        "move": "Growl",
+        "redBlueLevel": "27",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Water Gun",
+        "redBlueLevel": "33",
+        "yellowLevel": "33"
+      },
+      {
+        "move": "Amnesia",
+        "redBlueLevel": "40",
+        "yellowLevel": "40"
+      },
+      {
+        "move": "Psychic",
+        "redBlueLevel": "48",
+        "yellowLevel": "48"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
+      "red": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
+      "yellow": "Incredibly slow and sluggish. It is quite content to loll about without worrying about the time."
+    }
+  },
+  "8": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Bubble",
+        "redBlueLevel": "8",
+        "yellowLevel": "8"
+      },
+      {
+        "move": "Water Gun",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Bite",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Withdraw",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Skull Bash",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "47",
+        "yellowLevel": "47"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
+      "red": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
+      "yellow": "When tapped, this POK\u00e9MON will pull in its head, but its tail will still stick out a little bit."
+    }
+  },
+  "80": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave B1F",
+          "Kanto Route 23 Area",
+          "Seafoam Islands 1F",
+          "Seafoam Islands B2F",
+          "Seafoam Islands B4F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Seafoam Islands B2F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Confusion",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Disable",
+        "redBlueLevel": "18",
+        "yellowLevel": "18"
+      },
+      {
+        "move": "Headbutt",
+        "redBlueLevel": "22",
+        "yellowLevel": "22"
+      },
+      {
+        "move": "Growl",
+        "redBlueLevel": "27",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Water Gun",
+        "redBlueLevel": "33",
+        "yellowLevel": "33"
+      },
+      {
+        "move": "Withdraw",
+        "redBlueLevel": "37",
+        "yellowLevel": "37"
+      },
+      {
+        "move": "Amnesia",
+        "redBlueLevel": "44",
+        "yellowLevel": "44"
+      },
+      {
+        "move": "Psychic",
+        "redBlueLevel": "55",
+        "yellowLevel": "55"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps.",
+      "red": "The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps.",
+      "yellow": "Lives lazily by the sea. If the SHELLDER on its tail comes off, it becomes a SLOWPOKE again."
+    }
+  },
+  "81": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Power Plant Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 10 Area",
+          "Power Plant Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sonic Boom",
+        "redBlueLevel": "21",
+        "yellowLevel": "21"
+      },
+      {
+        "move": "Thunder Shock",
+        "redBlueLevel": "25",
+        "yellowLevel": "25"
+      },
+      {
+        "move": "Supersonic",
+        "redBlueLevel": "29",
+        "yellowLevel": "29"
+      },
+      {
+        "move": "Thunder Wave",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Swift",
+        "redBlueLevel": "41",
+        "yellowLevel": "41"
+      },
+      {
+        "move": "Screech",
+        "redBlueLevel": "47",
+        "yellowLevel": "47"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves.",
+      "red": "Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves.",
+      "yellow": "It is born with the ability to defy gravity. It floats in air on powerful electro\u00ad magnetic waves."
+    }
+  },
+  "82": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Power Plant Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Power Plant Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sonic Boom",
+        "redBlueLevel": "21",
+        "yellowLevel": "21"
+      },
+      {
+        "move": "Thunder Shock",
+        "redBlueLevel": "25",
+        "yellowLevel": "25"
+      },
+      {
+        "move": "Supersonic",
+        "redBlueLevel": "29",
+        "yellowLevel": "29"
+      },
+      {
+        "move": "Thunder Wave",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      },
+      {
+        "move": "Swift",
+        "redBlueLevel": "46",
+        "yellowLevel": "46"
+      },
+      {
+        "move": "Screech",
+        "redBlueLevel": "54",
+        "yellowLevel": "54"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up.",
+      "red": "Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up.",
+      "yellow": "Generates strange radio signals. It raises the tem\u00ad perature by 3.6F degrees within 3,300 feet."
+    }
+  },
+  "83": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Peck",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Sand Attack",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "7",
+        "yellowLevel": "7"
+      },
+      {
+        "move": "Fury Attack",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Swords Dance",
+        "redBlueLevel": "23",
+        "yellowLevel": "23"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Slash",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "The sprig of green onions it holds is its weapon. It is used much like a metal sword.",
+      "red": "The sprig of green onions it holds is its weapon. It is used much like a metal sword.",
+      "yellow": "Lives where reedy plants grow. They are rarely seen, so it's thought their numbers are decreasing."
+    }
+  },
+  "84": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 16 Area",
+          "Kanto Route 17 Area",
+          "Kanto Route 18 Area",
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 3 West"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 16 Area",
+          "Kanto Route 17 Area",
+          "Kanto Route 18 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Peck",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Growl",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Fury Attack",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Drill Peck",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Rage",
+        "redBlueLevel": "36",
+        "yellowLevel": "36"
+      },
+      {
+        "move": "Tri Attack",
+        "redBlueLevel": "40",
+        "yellowLevel": "40"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "44",
+        "yellowLevel": "44"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
+      "red": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
+      "yellow": "Its short wings make flying dif\u00ad ficult. Instead, this POK\u00e9MON runs at high speed on developed legs."
+    }
+  },
+  "85": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave 2F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 17 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Peck",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Growl",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Fury Attack",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Drill Peck",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Rage",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Tri Attack",
+        "redBlueLevel": "45",
+        "yellowLevel": "45"
+      },
+      {
+        "move": "Agility",
+        "redBlueLevel": "51",
+        "yellowLevel": "51"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
+      "red": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
+      "yellow": "One of DODUO's 2 heads splits to form a unique species. It runs close to 40 MPH in prairies."
+    }
+  },
+  "86": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Seafoam Islands 1F",
+          "Seafoam Islands B1F",
+          "Seafoam Islands B2F",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Seafoam Islands B1F",
+          "Seafoam Islands B2F",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Headbutt",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Growl",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Aurora Beam",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Rest",
+        "redBlueLevel": "40",
+        "yellowLevel": "40"
+      },
+      {
+        "move": "Take Down",
+        "redBlueLevel": "45",
+        "yellowLevel": "45"
+      },
+      {
+        "move": "Ice Beam",
+        "redBlueLevel": "50",
+        "yellowLevel": "50"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "The protruding horn on its head is very hard. It is used for bashing through thick ice.",
+      "red": "The protruding horn on its head is very hard. It is used for bashing through thick ice.",
+      "yellow": "Loves freezing cold conditions. Relishes swimming in a frigid cli\u00ad mate of around 14F degrees."
+    }
+  },
+  "87": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Seafoam Islands B1F",
+          "Seafoam Islands B3F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Headbutt",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Growl",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Aurora Beam",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Rest",
+        "redBlueLevel": "44",
+        "yellowLevel": "44"
+      },
+      {
+        "move": "Take Down",
+        "redBlueLevel": "50",
+        "yellowLevel": "50"
+      },
+      {
+        "move": "Ice Beam",
+        "redBlueLevel": "56",
+        "yellowLevel": "56"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
+      "red": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
+      "yellow": "Its entire body is a snowy-white. Unharmed by even intense cold, it swims powerfully in icy waters."
+    }
+  },
+  "88": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Pokemon Mansion 1F",
+          "Pokemon Mansion 2F",
+          "Pokemon Mansion 3F",
+          "Pokemon Mansion B1F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Pokemon Mansion 1F",
+          "Pokemon Mansion 2F",
+          "Pokemon Mansion 3F",
+          "Pokemon Mansion B1F",
+          "Power Plant Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Disable",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Pound",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Poison Gas",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Minimize",
+        "redBlueLevel": "33",
+        "yellowLevel": "33"
+      },
+      {
+        "move": "Sludge",
+        "redBlueLevel": "37",
+        "yellowLevel": "37"
+      },
+      {
+        "move": "Harden",
+        "redBlueLevel": "42",
+        "yellowLevel": "42"
+      },
+      {
+        "move": "Screech",
+        "redBlueLevel": "48",
+        "yellowLevel": "48"
+      },
+      {
+        "move": "Acid Armor",
+        "redBlueLevel": "55",
+        "yellowLevel": "55"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
+      "red": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
+      "yellow": "Made of hardened sludge. It smells too putrid to touch. Even weeds won't grow in its path."
+    }
+  },
+  "89": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Pokemon Mansion 1F",
+          "Pokemon Mansion 2F",
+          "Pokemon Mansion 3F",
+          "Pokemon Mansion B1F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Pokemon Mansion 2F",
+          "Pokemon Mansion 3F",
+          "Pokemon Mansion B1F",
+          "Power Plant Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Disable",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Pound",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Poison Gas",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Minimize",
+        "redBlueLevel": "33",
+        "yellowLevel": "33"
+      },
+      {
+        "move": "Sludge",
+        "redBlueLevel": "37",
+        "yellowLevel": "37"
+      },
+      {
+        "move": "Harden",
+        "redBlueLevel": "45",
+        "yellowLevel": "45"
+      },
+      {
+        "move": "Screech",
+        "redBlueLevel": "53",
+        "yellowLevel": "53"
+      },
+      {
+        "move": "Acid Armor",
+        "redBlueLevel": "60",
+        "yellowLevel": "60"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+      "red": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+      "yellow": "Smells so awful, it can cause fainting. Through degeneration, it lost its sense of smell."
+    }
+  },
+  "9": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tail Whip",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Bubble",
+        "redBlueLevel": "8",
+        "yellowLevel": "8"
+      },
+      {
+        "move": "Water Gun",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Bite",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Withdraw",
+        "redBlueLevel": "31",
+        "yellowLevel": "31"
+      },
+      {
+        "move": "Skull Bash",
+        "redBlueLevel": "42",
+        "yellowLevel": "42"
+      },
+      {
+        "move": "Hydro Pump",
+        "redBlueLevel": "52",
+        "yellowLevel": "52"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "A brutal POK\u00e9MON with pressurized water jets on its shell. They are used for high speed tackles.",
+      "red": "A brutal POK\u00e9MON with pressurized water jets on its shell. They are used for high speed tackles.",
+      "yellow": "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose."
+    }
+  },
+  "90": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cinnabar Island Area",
+          "Kanto Route 11 Area",
+          "Kanto Route 6 Area",
+          "Kanto Sea Route 19 Area",
+          "Kanto Sea Route 20 Area",
+          "Kanto Sea Route 21 Area",
+          "Seafoam Islands 1F",
+          "Seafoam Islands B1F",
+          "Seafoam Islands B2F",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F",
+          "Vermilion City Area",
+          "Vermilion City Ss Anne Dock"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 17 Area",
+          "Kanto Route 18 Area",
+          "Vermilion City Ss Anne Dock"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Withdraw",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Supersonic",
+        "redBlueLevel": "18",
+        "yellowLevel": "18"
+      },
+      {
+        "move": "Clamp",
+        "redBlueLevel": "23",
+        "yellowLevel": "23"
+      },
+      {
+        "move": "Aurora Beam",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "39",
+        "yellowLevel": "39"
+      },
+      {
+        "move": "Ice Beam",
+        "redBlueLevel": "50",
+        "yellowLevel": "50"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+      "red": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+      "yellow": "The shell can withstand any attack. However, when it is open, the tender body is exposed."
+    }
+  },
+  "91": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Aurora Beam",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Clamp",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Supersonic",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Withdraw",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Spike Cannon",
+        "redBlueLevel": "50",
+        "yellowLevel": "50"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
+      "red": "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
+      "yellow": "For protection, it uses its harder- than-diamonds shell. It also shoots spikes from the shell."
+    }
+  },
+  "92": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Pokemon Tower 3F",
+          "Pokemon Tower 4F",
+          "Pokemon Tower 5F",
+          "Pokemon Tower 6F",
+          "Pokemon Tower 7F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Pokemon Tower 3F",
+          "Pokemon Tower 4F",
+          "Pokemon Tower 5F",
+          "Pokemon Tower 6F",
+          "Pokemon Tower 7F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Confuse Ray",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Lick",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Night Shade",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Hypnosis",
+        "redBlueLevel": "27",
+        "yellowLevel": "27"
+      },
+      {
+        "move": "Dream Eater",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Almost invisible, this gaseous POK\u00e9MON cloaks the target and puts it to sleep without notice.",
+      "red": "Almost invisible, this gaseous POK\u00e9MON cloaks the target and puts it to sleep without notice.",
+      "yellow": "Said to appear in decrepit, deserted buildings. It has no real shape as it appears to be made of a gas."
+    }
+  },
+  "93": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Pokemon Tower 3F",
+          "Pokemon Tower 4F",
+          "Pokemon Tower 5F",
+          "Pokemon Tower 6F",
+          "Pokemon Tower 7F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Pokemon Tower 3F",
+          "Pokemon Tower 4F",
+          "Pokemon Tower 5F",
+          "Pokemon Tower 6F",
+          "Pokemon Tower 7F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Confuse Ray",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Lick",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Night Shade",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Hypnosis",
+        "redBlueLevel": "29",
+        "yellowLevel": "29"
+      },
+      {
+        "move": "Dream Eater",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Because of its ability to slip through block walls, it is said to be from an\u00ad other dimension.",
+      "red": "Because of its ability to slip through block walls, it is said to be from an\u00ad other dimension.",
+      "yellow": "By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise."
+    }
+  },
+  "94": {
+    "encounterLocations": [],
+    "learnset": [
+      {
+        "move": "Confuse Ray",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Lick",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Night Shade",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Hypnosis",
+        "redBlueLevel": "29",
+        "yellowLevel": "29"
+      },
+      {
+        "move": "Dream Eater",
+        "redBlueLevel": "38",
+        "yellowLevel": "38"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Under a full moon, this POK\u00e9MON likes to mimic the shadows of people and laugh at their fright.",
+      "red": "Under a full moon, this POK\u00e9MON likes to mimic the shadows of people and laugh at their fright.",
+      "yellow": "A GENGAR is close by if you feel a sudden chill. It may be trying to lay a curse on you."
+    }
+  },
+  "95": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Victory Road 2 1F",
+          "Kanto Victory Road 2 2F",
+          "Kanto Victory Road 2 3F",
+          "Rock Tunnel B1F",
+          "Rock Tunnel B2F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Victory Road 2 1F",
+          "Kanto Victory Road 2 2F",
+          "Kanto Victory Road 2 3F",
+          "Rock Tunnel B2F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Screech",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Tackle",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Bind",
+        "redBlueLevel": "15",
+        "yellowLevel": "15"
+      },
+      {
+        "move": "Rock Throw",
+        "redBlueLevel": "19",
+        "yellowLevel": "19"
+      },
+      {
+        "move": "Rage",
+        "redBlueLevel": "25",
+        "yellowLevel": "25"
+      },
+      {
+        "move": "Slam",
+        "redBlueLevel": "33",
+        "yellowLevel": "33"
+      },
+      {
+        "move": "Harden",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
+      "red": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
+      "yellow": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by DIGLETTs."
+    }
+  },
+  "96": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Kanto Route 11 Area"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 11 Area"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Hypnosis",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Pound",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Disable",
+        "redBlueLevel": "12",
+        "yellowLevel": "12"
+      },
+      {
+        "move": "Confusion",
+        "redBlueLevel": "17",
+        "yellowLevel": "17"
+      },
+      {
+        "move": "Headbutt",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Poison Gas",
+        "redBlueLevel": "29",
+        "yellowLevel": "29"
+      },
+      {
+        "move": "Psychic",
+        "redBlueLevel": "32",
+        "yellowLevel": "32"
+      },
+      {
+        "move": "Meditate",
+        "redBlueLevel": "37",
+        "yellowLevel": "37"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.",
+      "red": "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.",
+      "yellow": "If you sleep by it all the time, it will sometimes show you dreams it has eaten in the past."
+    }
+  },
+  "97": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 1F"
+        ],
+        "versionLabel": "Red/Blue"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Hypnosis",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Pound",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Disable",
+        "redBlueLevel": "12",
+        "yellowLevel": "12"
+      },
+      {
+        "move": "Confusion",
+        "redBlueLevel": "17",
+        "yellowLevel": "17"
+      },
+      {
+        "move": "Headbutt",
+        "redBlueLevel": "24",
+        "yellowLevel": "24"
+      },
+      {
+        "move": "Poison Gas",
+        "redBlueLevel": "33",
+        "yellowLevel": "33"
+      },
+      {
+        "move": "Psychic",
+        "redBlueLevel": "37",
+        "yellowLevel": "37"
+      },
+      {
+        "move": "Meditate",
+        "redBlueLevel": "43",
+        "yellowLevel": "43"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION.",
+      "red": "When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION.",
+      "yellow": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum."
+    }
+  },
+  "98": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean City Area",
+          "Fuchsia City Area",
+          "Kanto Route 11 Area",
+          "Kanto Route 12 Area",
+          "Kanto Route 13 Area",
+          "Kanto Route 17 Area",
+          "Kanto Route 18 Area",
+          "Kanto Route 24 Area",
+          "Kanto Route 25 Area",
+          "Kanto Route 6 Area",
+          "Kanto Safari Zone Area 1 East",
+          "Kanto Safari Zone Area 2 North",
+          "Kanto Safari Zone Area 3 West",
+          "Kanto Safari Zone Middle",
+          "Seafoam Islands 1F",
+          "Seafoam Islands B1F",
+          "Seafoam Islands B2F",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F",
+          "Vermilion City Area",
+          "Vermilion City Ss Anne Dock"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 10 Area",
+          "Kanto Route 25 Area",
+          "Seafoam Islands 1F",
+          "Seafoam Islands B1F",
+          "Seafoam Islands B2F",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Bubble",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Vice Grip",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Guillotine",
+        "redBlueLevel": "25",
+        "yellowLevel": "25"
+      },
+      {
+        "move": "Stomp",
+        "redBlueLevel": "30",
+        "yellowLevel": "30"
+      },
+      {
+        "move": "Crabhammer",
+        "redBlueLevel": "35",
+        "yellowLevel": "35"
+      },
+      {
+        "move": "Harden",
+        "redBlueLevel": "40",
+        "yellowLevel": "40"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+      "red": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+      "yellow": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast."
+    }
+  },
+  "99": {
+    "encounterLocations": [
+      {
+        "locations": [
+          "Cerulean Cave 1F",
+          "Cerulean Cave B1F",
+          "Kanto Route 23 Area",
+          "Seafoam Islands B1F",
+          "Seafoam Islands B3F"
+        ],
+        "versionLabel": "Red/Blue"
+      },
+      {
+        "locations": [
+          "Kanto Route 10 Area",
+          "Kanto Route 25 Area",
+          "Seafoam Islands B1F",
+          "Seafoam Islands B2F",
+          "Seafoam Islands B3F",
+          "Seafoam Islands B4F"
+        ],
+        "versionLabel": "Yellow"
+      }
+    ],
+    "learnset": [
+      {
+        "move": "Bubble",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Leer",
+        "redBlueLevel": "1",
+        "yellowLevel": "1"
+      },
+      {
+        "move": "Vice Grip",
+        "redBlueLevel": "20",
+        "yellowLevel": "20"
+      },
+      {
+        "move": "Guillotine",
+        "redBlueLevel": "25",
+        "yellowLevel": "25"
+      },
+      {
+        "move": "Stomp",
+        "redBlueLevel": "34",
+        "yellowLevel": "34"
+      },
+      {
+        "move": "Crabhammer",
+        "redBlueLevel": "42",
+        "yellowLevel": "42"
+      },
+      {
+        "move": "Harden",
+        "redBlueLevel": "49",
+        "yellowLevel": "49"
+      }
+    ],
+    "locationFallback": "Gift, trade, evolution, fossil revival, or special event only.",
+    "pokedexText": {
+      "blue": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",
+      "red": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",
+      "yellow": "One claw grew massively and as hard as steel. It has 10,000-HP strength. However, it is too heavy."
+    }
+  }
+};

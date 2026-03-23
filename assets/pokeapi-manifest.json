@@ -1,0 +1,911 @@
+{
+  "entries": {
+    "001": {
+      "asset_path": "website/assets/official-artwork/001.png",
+      "pokemon_id": 1,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+      "status": "downloaded"
+    },
+    "002": {
+      "asset_path": "website/assets/official-artwork/002.png",
+      "pokemon_id": 2,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+      "status": "downloaded"
+    },
+    "003": {
+      "asset_path": "website/assets/official-artwork/003.png",
+      "pokemon_id": 3,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+      "status": "downloaded"
+    },
+    "004": {
+      "asset_path": "website/assets/official-artwork/004.png",
+      "pokemon_id": 4,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+      "status": "downloaded"
+    },
+    "005": {
+      "asset_path": "website/assets/official-artwork/005.png",
+      "pokemon_id": 5,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+      "status": "downloaded"
+    },
+    "006": {
+      "asset_path": "website/assets/official-artwork/006.png",
+      "pokemon_id": 6,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+      "status": "downloaded"
+    },
+    "007": {
+      "asset_path": "website/assets/official-artwork/007.png",
+      "pokemon_id": 7,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+      "status": "downloaded"
+    },
+    "008": {
+      "asset_path": "website/assets/official-artwork/008.png",
+      "pokemon_id": 8,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
+      "status": "downloaded"
+    },
+    "009": {
+      "asset_path": "website/assets/official-artwork/009.png",
+      "pokemon_id": 9,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+      "status": "downloaded"
+    },
+    "010": {
+      "asset_path": "website/assets/official-artwork/010.png",
+      "pokemon_id": 10,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
+      "status": "downloaded"
+    },
+    "011": {
+      "asset_path": "website/assets/official-artwork/011.png",
+      "pokemon_id": 11,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+      "status": "downloaded"
+    },
+    "012": {
+      "asset_path": "website/assets/official-artwork/012.png",
+      "pokemon_id": 12,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+      "status": "downloaded"
+    },
+    "013": {
+      "asset_path": "website/assets/official-artwork/013.png",
+      "pokemon_id": 13,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+      "status": "downloaded"
+    },
+    "014": {
+      "asset_path": "website/assets/official-artwork/014.png",
+      "pokemon_id": 14,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+      "status": "downloaded"
+    },
+    "015": {
+      "asset_path": "website/assets/official-artwork/015.png",
+      "pokemon_id": 15,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+      "status": "downloaded"
+    },
+    "016": {
+      "asset_path": "website/assets/official-artwork/016.png",
+      "pokemon_id": 16,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+      "status": "downloaded"
+    },
+    "017": {
+      "asset_path": "website/assets/official-artwork/017.png",
+      "pokemon_id": 17,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+      "status": "downloaded"
+    },
+    "018": {
+      "asset_path": "website/assets/official-artwork/018.png",
+      "pokemon_id": 18,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+      "status": "downloaded"
+    },
+    "019": {
+      "asset_path": "website/assets/official-artwork/019.png",
+      "pokemon_id": 19,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+      "status": "downloaded"
+    },
+    "020": {
+      "asset_path": "website/assets/official-artwork/020.png",
+      "pokemon_id": 20,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+      "status": "downloaded"
+    },
+    "021": {
+      "asset_path": "website/assets/official-artwork/021.png",
+      "pokemon_id": 21,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
+      "status": "downloaded"
+    },
+    "022": {
+      "asset_path": "website/assets/official-artwork/022.png",
+      "pokemon_id": 22,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+      "status": "downloaded"
+    },
+    "023": {
+      "asset_path": "website/assets/official-artwork/023.png",
+      "pokemon_id": 23,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+      "status": "downloaded"
+    },
+    "024": {
+      "asset_path": "website/assets/official-artwork/024.png",
+      "pokemon_id": 24,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+      "status": "downloaded"
+    },
+    "025": {
+      "asset_path": "website/assets/official-artwork/025.png",
+      "pokemon_id": 25,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+      "status": "downloaded"
+    },
+    "026": {
+      "asset_path": "website/assets/official-artwork/026.png",
+      "pokemon_id": 26,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+      "status": "downloaded"
+    },
+    "027": {
+      "asset_path": "website/assets/official-artwork/027.png",
+      "pokemon_id": 27,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+      "status": "downloaded"
+    },
+    "028": {
+      "asset_path": "website/assets/official-artwork/028.png",
+      "pokemon_id": 28,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png",
+      "status": "downloaded"
+    },
+    "029": {
+      "asset_path": "website/assets/official-artwork/029.png",
+      "pokemon_id": 29,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+      "status": "downloaded"
+    },
+    "030": {
+      "asset_path": "website/assets/official-artwork/030.png",
+      "pokemon_id": 30,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
+      "status": "downloaded"
+    },
+    "031": {
+      "asset_path": "website/assets/official-artwork/031.png",
+      "pokemon_id": 31,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+      "status": "downloaded"
+    },
+    "032": {
+      "asset_path": "website/assets/official-artwork/032.png",
+      "pokemon_id": 32,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
+      "status": "downloaded"
+    },
+    "033": {
+      "asset_path": "website/assets/official-artwork/033.png",
+      "pokemon_id": 33,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+      "status": "downloaded"
+    },
+    "034": {
+      "asset_path": "website/assets/official-artwork/034.png",
+      "pokemon_id": 34,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+      "status": "downloaded"
+    },
+    "035": {
+      "asset_path": "website/assets/official-artwork/035.png",
+      "pokemon_id": 35,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
+      "status": "downloaded"
+    },
+    "036": {
+      "asset_path": "website/assets/official-artwork/036.png",
+      "pokemon_id": 36,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+      "status": "downloaded"
+    },
+    "037": {
+      "asset_path": "website/assets/official-artwork/037.png",
+      "pokemon_id": 37,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+      "status": "downloaded"
+    },
+    "038": {
+      "asset_path": "website/assets/official-artwork/038.png",
+      "pokemon_id": 38,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+      "status": "downloaded"
+    },
+    "039": {
+      "asset_path": "website/assets/official-artwork/039.png",
+      "pokemon_id": 39,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+      "status": "downloaded"
+    },
+    "040": {
+      "asset_path": "website/assets/official-artwork/040.png",
+      "pokemon_id": 40,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+      "status": "downloaded"
+    },
+    "041": {
+      "asset_path": "website/assets/official-artwork/041.png",
+      "pokemon_id": 41,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
+      "status": "downloaded"
+    },
+    "042": {
+      "asset_path": "website/assets/official-artwork/042.png",
+      "pokemon_id": 42,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+      "status": "downloaded"
+    },
+    "043": {
+      "asset_path": "website/assets/official-artwork/043.png",
+      "pokemon_id": 43,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
+      "status": "downloaded"
+    },
+    "044": {
+      "asset_path": "website/assets/official-artwork/044.png",
+      "pokemon_id": 44,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+      "status": "downloaded"
+    },
+    "045": {
+      "asset_path": "website/assets/official-artwork/045.png",
+      "pokemon_id": 45,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+      "status": "downloaded"
+    },
+    "046": {
+      "asset_path": "website/assets/official-artwork/046.png",
+      "pokemon_id": 46,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+      "status": "downloaded"
+    },
+    "047": {
+      "asset_path": "website/assets/official-artwork/047.png",
+      "pokemon_id": 47,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+      "status": "downloaded"
+    },
+    "048": {
+      "asset_path": "website/assets/official-artwork/048.png",
+      "pokemon_id": 48,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+      "status": "downloaded"
+    },
+    "049": {
+      "asset_path": "website/assets/official-artwork/049.png",
+      "pokemon_id": 49,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
+      "status": "downloaded"
+    },
+    "050": {
+      "asset_path": "website/assets/official-artwork/050.png",
+      "pokemon_id": 50,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+      "status": "downloaded"
+    },
+    "051": {
+      "asset_path": "website/assets/official-artwork/051.png",
+      "pokemon_id": 51,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+      "status": "downloaded"
+    },
+    "052": {
+      "asset_path": "website/assets/official-artwork/052.png",
+      "pokemon_id": 52,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+      "status": "downloaded"
+    },
+    "053": {
+      "asset_path": "website/assets/official-artwork/053.png",
+      "pokemon_id": 53,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+      "status": "downloaded"
+    },
+    "054": {
+      "asset_path": "website/assets/official-artwork/054.png",
+      "pokemon_id": 54,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+      "status": "downloaded"
+    },
+    "055": {
+      "asset_path": "website/assets/official-artwork/055.png",
+      "pokemon_id": 55,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+      "status": "downloaded"
+    },
+    "056": {
+      "asset_path": "website/assets/official-artwork/056.png",
+      "pokemon_id": 56,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
+      "status": "downloaded"
+    },
+    "057": {
+      "asset_path": "website/assets/official-artwork/057.png",
+      "pokemon_id": 57,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+      "status": "downloaded"
+    },
+    "058": {
+      "asset_path": "website/assets/official-artwork/058.png",
+      "pokemon_id": 58,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+      "status": "downloaded"
+    },
+    "059": {
+      "asset_path": "website/assets/official-artwork/059.png",
+      "pokemon_id": 59,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+      "status": "downloaded"
+    },
+    "060": {
+      "asset_path": "website/assets/official-artwork/060.png",
+      "pokemon_id": 60,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+      "status": "downloaded"
+    },
+    "061": {
+      "asset_path": "website/assets/official-artwork/061.png",
+      "pokemon_id": 61,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png",
+      "status": "downloaded"
+    },
+    "062": {
+      "asset_path": "website/assets/official-artwork/062.png",
+      "pokemon_id": 62,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+      "status": "downloaded"
+    },
+    "063": {
+      "asset_path": "website/assets/official-artwork/063.png",
+      "pokemon_id": 63,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+      "status": "downloaded"
+    },
+    "064": {
+      "asset_path": "website/assets/official-artwork/064.png",
+      "pokemon_id": 64,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+      "status": "downloaded"
+    },
+    "065": {
+      "asset_path": "website/assets/official-artwork/065.png",
+      "pokemon_id": 65,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+      "status": "downloaded"
+    },
+    "066": {
+      "asset_path": "website/assets/official-artwork/066.png",
+      "pokemon_id": 66,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+      "status": "downloaded"
+    },
+    "067": {
+      "asset_path": "website/assets/official-artwork/067.png",
+      "pokemon_id": 67,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+      "status": "downloaded"
+    },
+    "068": {
+      "asset_path": "website/assets/official-artwork/068.png",
+      "pokemon_id": 68,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+      "status": "downloaded"
+    },
+    "069": {
+      "asset_path": "website/assets/official-artwork/069.png",
+      "pokemon_id": 69,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+      "status": "downloaded"
+    },
+    "070": {
+      "asset_path": "website/assets/official-artwork/070.png",
+      "pokemon_id": 70,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+      "status": "downloaded"
+    },
+    "071": {
+      "asset_path": "website/assets/official-artwork/071.png",
+      "pokemon_id": 71,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+      "status": "downloaded"
+    },
+    "072": {
+      "asset_path": "website/assets/official-artwork/072.png",
+      "pokemon_id": 72,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png",
+      "status": "downloaded"
+    },
+    "073": {
+      "asset_path": "website/assets/official-artwork/073.png",
+      "pokemon_id": 73,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
+      "status": "downloaded"
+    },
+    "074": {
+      "asset_path": "website/assets/official-artwork/074.png",
+      "pokemon_id": 74,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+      "status": "downloaded"
+    },
+    "075": {
+      "asset_path": "website/assets/official-artwork/075.png",
+      "pokemon_id": 75,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+      "status": "downloaded"
+    },
+    "076": {
+      "asset_path": "website/assets/official-artwork/076.png",
+      "pokemon_id": 76,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+      "status": "downloaded"
+    },
+    "077": {
+      "asset_path": "website/assets/official-artwork/077.png",
+      "pokemon_id": 77,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+      "status": "downloaded"
+    },
+    "078": {
+      "asset_path": "website/assets/official-artwork/078.png",
+      "pokemon_id": 78,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+      "status": "downloaded"
+    },
+    "079": {
+      "asset_path": "website/assets/official-artwork/079.png",
+      "pokemon_id": 79,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+      "status": "downloaded"
+    },
+    "080": {
+      "asset_path": "website/assets/official-artwork/080.png",
+      "pokemon_id": 80,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+      "status": "downloaded"
+    },
+    "081": {
+      "asset_path": "website/assets/official-artwork/081.png",
+      "pokemon_id": 81,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+      "status": "downloaded"
+    },
+    "082": {
+      "asset_path": "website/assets/official-artwork/082.png",
+      "pokemon_id": 82,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png",
+      "status": "downloaded"
+    },
+    "083": {
+      "asset_path": "website/assets/official-artwork/083.png",
+      "pokemon_id": 83,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+      "status": "downloaded"
+    },
+    "084": {
+      "asset_path": "website/assets/official-artwork/084.png",
+      "pokemon_id": 84,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+      "status": "downloaded"
+    },
+    "085": {
+      "asset_path": "website/assets/official-artwork/085.png",
+      "pokemon_id": 85,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+      "status": "downloaded"
+    },
+    "086": {
+      "asset_path": "website/assets/official-artwork/086.png",
+      "pokemon_id": 86,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+      "status": "downloaded"
+    },
+    "087": {
+      "asset_path": "website/assets/official-artwork/087.png",
+      "pokemon_id": 87,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+      "status": "downloaded"
+    },
+    "088": {
+      "asset_path": "website/assets/official-artwork/088.png",
+      "pokemon_id": 88,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
+      "status": "downloaded"
+    },
+    "089": {
+      "asset_path": "website/assets/official-artwork/089.png",
+      "pokemon_id": 89,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+      "status": "downloaded"
+    },
+    "090": {
+      "asset_path": "website/assets/official-artwork/090.png",
+      "pokemon_id": 90,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+      "status": "downloaded"
+    },
+    "091": {
+      "asset_path": "website/assets/official-artwork/091.png",
+      "pokemon_id": 91,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+      "status": "downloaded"
+    },
+    "092": {
+      "asset_path": "website/assets/official-artwork/092.png",
+      "pokemon_id": 92,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+      "status": "downloaded"
+    },
+    "093": {
+      "asset_path": "website/assets/official-artwork/093.png",
+      "pokemon_id": 93,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
+      "status": "downloaded"
+    },
+    "094": {
+      "asset_path": "website/assets/official-artwork/094.png",
+      "pokemon_id": 94,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+      "status": "downloaded"
+    },
+    "095": {
+      "asset_path": "website/assets/official-artwork/095.png",
+      "pokemon_id": 95,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+      "status": "downloaded"
+    },
+    "096": {
+      "asset_path": "website/assets/official-artwork/096.png",
+      "pokemon_id": 96,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+      "status": "downloaded"
+    },
+    "097": {
+      "asset_path": "website/assets/official-artwork/097.png",
+      "pokemon_id": 97,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
+      "status": "downloaded"
+    },
+    "098": {
+      "asset_path": "website/assets/official-artwork/098.png",
+      "pokemon_id": 98,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+      "status": "downloaded"
+    },
+    "099": {
+      "asset_path": "website/assets/official-artwork/099.png",
+      "pokemon_id": 99,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
+      "status": "downloaded"
+    },
+    "100": {
+      "asset_path": "website/assets/official-artwork/100.png",
+      "pokemon_id": 100,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+      "status": "downloaded"
+    },
+    "101": {
+      "asset_path": "website/assets/official-artwork/101.png",
+      "pokemon_id": 101,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+      "status": "downloaded"
+    },
+    "102": {
+      "asset_path": "website/assets/official-artwork/102.png",
+      "pokemon_id": 102,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png",
+      "status": "downloaded"
+    },
+    "103": {
+      "asset_path": "website/assets/official-artwork/103.png",
+      "pokemon_id": 103,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
+      "status": "downloaded"
+    },
+    "104": {
+      "asset_path": "website/assets/official-artwork/104.png",
+      "pokemon_id": 104,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+      "status": "downloaded"
+    },
+    "105": {
+      "asset_path": "website/assets/official-artwork/105.png",
+      "pokemon_id": 105,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+      "status": "downloaded"
+    },
+    "106": {
+      "asset_path": "website/assets/official-artwork/106.png",
+      "pokemon_id": 106,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+      "status": "downloaded"
+    },
+    "107": {
+      "asset_path": "website/assets/official-artwork/107.png",
+      "pokemon_id": 107,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+      "status": "downloaded"
+    },
+    "108": {
+      "asset_path": "website/assets/official-artwork/108.png",
+      "pokemon_id": 108,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
+      "status": "downloaded"
+    },
+    "109": {
+      "asset_path": "website/assets/official-artwork/109.png",
+      "pokemon_id": 109,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+      "status": "downloaded"
+    },
+    "110": {
+      "asset_path": "website/assets/official-artwork/110.png",
+      "pokemon_id": 110,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+      "status": "downloaded"
+    },
+    "111": {
+      "asset_path": "website/assets/official-artwork/111.png",
+      "pokemon_id": 111,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
+      "status": "downloaded"
+    },
+    "112": {
+      "asset_path": "website/assets/official-artwork/112.png",
+      "pokemon_id": 112,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+      "status": "downloaded"
+    },
+    "113": {
+      "asset_path": "website/assets/official-artwork/113.png",
+      "pokemon_id": 113,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+      "status": "downloaded"
+    },
+    "114": {
+      "asset_path": "website/assets/official-artwork/114.png",
+      "pokemon_id": 114,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+      "status": "downloaded"
+    },
+    "115": {
+      "asset_path": "website/assets/official-artwork/115.png",
+      "pokemon_id": 115,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+      "status": "downloaded"
+    },
+    "116": {
+      "asset_path": "website/assets/official-artwork/116.png",
+      "pokemon_id": 116,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
+      "status": "downloaded"
+    },
+    "117": {
+      "asset_path": "website/assets/official-artwork/117.png",
+      "pokemon_id": 117,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+      "status": "downloaded"
+    },
+    "118": {
+      "asset_path": "website/assets/official-artwork/118.png",
+      "pokemon_id": 118,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+      "status": "downloaded"
+    },
+    "119": {
+      "asset_path": "website/assets/official-artwork/119.png",
+      "pokemon_id": 119,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
+      "status": "downloaded"
+    },
+    "120": {
+      "asset_path": "website/assets/official-artwork/120.png",
+      "pokemon_id": 120,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+      "status": "downloaded"
+    },
+    "121": {
+      "asset_path": "website/assets/official-artwork/121.png",
+      "pokemon_id": 121,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+      "status": "downloaded"
+    },
+    "122": {
+      "asset_path": "website/assets/official-artwork/122.png",
+      "pokemon_id": 122,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
+      "status": "downloaded"
+    },
+    "123": {
+      "asset_path": "website/assets/official-artwork/123.png",
+      "pokemon_id": 123,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "status": "downloaded"
+    },
+    "124": {
+      "asset_path": "website/assets/official-artwork/124.png",
+      "pokemon_id": 124,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
+      "status": "downloaded"
+    },
+    "125": {
+      "asset_path": "website/assets/official-artwork/125.png",
+      "pokemon_id": 125,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+      "status": "downloaded"
+    },
+    "126": {
+      "asset_path": "website/assets/official-artwork/126.png",
+      "pokemon_id": 126,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+      "status": "downloaded"
+    },
+    "127": {
+      "asset_path": "website/assets/official-artwork/127.png",
+      "pokemon_id": 127,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+      "status": "downloaded"
+    },
+    "128": {
+      "asset_path": "website/assets/official-artwork/128.png",
+      "pokemon_id": 128,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
+      "status": "downloaded"
+    },
+    "129": {
+      "asset_path": "website/assets/official-artwork/129.png",
+      "pokemon_id": 129,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+      "status": "downloaded"
+    },
+    "130": {
+      "asset_path": "website/assets/official-artwork/130.png",
+      "pokemon_id": 130,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+      "status": "downloaded"
+    },
+    "131": {
+      "asset_path": "website/assets/official-artwork/131.png",
+      "pokemon_id": 131,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+      "status": "downloaded"
+    },
+    "132": {
+      "asset_path": "website/assets/official-artwork/132.png",
+      "pokemon_id": 132,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+      "status": "downloaded"
+    },
+    "133": {
+      "asset_path": "website/assets/official-artwork/133.png",
+      "pokemon_id": 133,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+      "status": "downloaded"
+    },
+    "134": {
+      "asset_path": "website/assets/official-artwork/134.png",
+      "pokemon_id": 134,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+      "status": "downloaded"
+    },
+    "135": {
+      "asset_path": "website/assets/official-artwork/135.png",
+      "pokemon_id": 135,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+      "status": "downloaded"
+    },
+    "136": {
+      "asset_path": "website/assets/official-artwork/136.png",
+      "pokemon_id": 136,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+      "status": "downloaded"
+    },
+    "137": {
+      "asset_path": "website/assets/official-artwork/137.png",
+      "pokemon_id": 137,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+      "status": "downloaded"
+    },
+    "138": {
+      "asset_path": "website/assets/official-artwork/138.png",
+      "pokemon_id": 138,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png",
+      "status": "downloaded"
+    },
+    "139": {
+      "asset_path": "website/assets/official-artwork/139.png",
+      "pokemon_id": 139,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
+      "status": "downloaded"
+    },
+    "140": {
+      "asset_path": "website/assets/official-artwork/140.png",
+      "pokemon_id": 140,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+      "status": "downloaded"
+    },
+    "141": {
+      "asset_path": "website/assets/official-artwork/141.png",
+      "pokemon_id": 141,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+      "status": "downloaded"
+    },
+    "142": {
+      "asset_path": "website/assets/official-artwork/142.png",
+      "pokemon_id": 142,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+      "status": "downloaded"
+    },
+    "143": {
+      "asset_path": "website/assets/official-artwork/143.png",
+      "pokemon_id": 143,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+      "status": "downloaded"
+    },
+    "144": {
+      "asset_path": "website/assets/official-artwork/144.png",
+      "pokemon_id": 144,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+      "status": "downloaded"
+    },
+    "145": {
+      "asset_path": "website/assets/official-artwork/145.png",
+      "pokemon_id": 145,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+      "status": "downloaded"
+    },
+    "146": {
+      "asset_path": "website/assets/official-artwork/146.png",
+      "pokemon_id": 146,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+      "status": "downloaded"
+    },
+    "147": {
+      "asset_path": "website/assets/official-artwork/147.png",
+      "pokemon_id": 147,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+      "status": "downloaded"
+    },
+    "148": {
+      "asset_path": "website/assets/official-artwork/148.png",
+      "pokemon_id": 148,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
+      "status": "downloaded"
+    },
+    "149": {
+      "asset_path": "website/assets/official-artwork/149.png",
+      "pokemon_id": 149,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+      "status": "downloaded"
+    },
+    "150": {
+      "asset_path": "website/assets/official-artwork/150.png",
+      "pokemon_id": 150,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+      "status": "downloaded"
+    },
+    "151": {
+      "asset_path": "website/assets/official-artwork/151.png",
+      "pokemon_id": 151,
+      "sprite_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+      "status": "downloaded"
+    }
+  },
+  "source": "pokeapi"
+}
