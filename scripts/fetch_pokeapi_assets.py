@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import argparse
 import json
 import subprocess
 import time
@@ -15,6 +16,7 @@ COUNT_URL = "https://pokeapi.co/api/v2/pokemon-species?limit=1"
 START_ID = 1
 REQUEST_DELAY_SECONDS = 0.75
 TIMEOUT_SECONDS = 20
+DEFAULT_MAX_SPECIES = 200
 
 
 def read_manifest() -> dict:
@@ -50,10 +52,24 @@ def fetch_species_count() -> int:
     return int(payload["count"])
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Fetch official artwork for the website bundle.")
+    parser.add_argument(
+        "--max-species",
+        type=int,
+        default=DEFAULT_MAX_SPECIES,
+        help="Highest National Dex species id to fetch. Defaults to 200.",
+    )
+    return parser.parse_args()
+
+
 def main() -> int:
+    args = parse_args()
     ASSET_DIR.mkdir(parents=True, exist_ok=True)
     manifest = read_manifest()
-    end_id = fetch_species_count()
+    end_id = min(fetch_species_count(), args.max_species)
+    if end_id < START_ID:
+        raise RuntimeError("The max species value must be at least 1.")
 
     for pokemon_id in range(START_ID, end_id + 1):
         padded = f"{pokemon_id:03d}"

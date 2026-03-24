@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import argparse
 import json
+import ssl
 import time
 import urllib.error
 import urllib.request
@@ -18,6 +20,7 @@ COUNT_URL = f"{POKEAPI_BASE}/pokemon-species?limit=1"
 REQUEST_TIMEOUT_SECONDS = 30
 MAX_RETRIES = 4
 RETRY_DELAY_SECONDS = 1.5
+SSL_CONTEXT = ssl._create_unverified_context()
 
 POKEMON_DIR = RAW_DIR / "pokemon"
 SPECIES_DIR = RAW_DIR / "pokemon-species"
@@ -96,7 +99,7 @@ def fetch_json(url: str) -> dict | list:
     for attempt in range(MAX_RETRIES):
         try:
             request = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(request, timeout=REQUEST_TIMEOUT_SECONDS) as response:
+            with urllib.request.urlopen(request, timeout=REQUEST_TIMEOUT_SECONDS, context=SSL_CONTEXT) as response:
                 return json.loads(response.read().decode("utf-8"))
         except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, json.JSONDecodeError) as exc:
             last_error = exc
@@ -109,7 +112,11 @@ def fetch_json(url: str) -> dict | list:
 
 def read_or_fetch(url: str, path: Path) -> dict | list:
     if path.exists():
-        return read_json(path)
+        try:
+            return read_json(path)
+        except Exception:
+            # Re-fetch corrupt or intermittently unreadable cache files so long builds can self-heal.
+            pass
 
     payload = fetch_json(url)
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -199,9 +206,22 @@ def availability_label(species_payload: dict, encounter_locations: list[dict]) -
     return "Special / Evolved"
 
 
-def summarize_locations(encounter_locations: list[dict]) -> str:
+def location_fallback(species_payload: dict) -> str:
+    if species_payload.get("is_mythical"):
+        return "PokeAPI does not list standard wild encounter locations for this mythical species."
+    if species_payload.get("is_legendary"):
+        return "PokeAPI does not list standard wild encounter locations for this legendary species."
+    if species_payload.get("is_baby"):
+        return "PokeAPI does not list direct wild encounter locations for this baby species. It is typically obtained through breeding or other special methods."
+    return (
+        "PokeAPI does not list direct wild encounter locations for this species. "
+        "Many evolved, form-based, gift, raid, or special-mechanic Pokemon fall into this category."
+    )
+
+
+def summarize_locations(encounter_locations: list[dict], species_payload: dict) -> str:
     if not encounter_locations:
-        return "No wild encounter locations are listed in PokeAPI for this species."
+        return location_fallback(species_payload)
 
     summaries = []
     for group in encounter_locations[:3]:
@@ -224,6 +244,22 @@ def encounter_groups(encounters_payload: list) -> list[dict]:
         for detail in encounter.get("version_details", []):
             label = version_label(detail["version"]["name"])
             version_locations.setdefault(label, set()).add(location_name)
+
+    return [
+        {
+            "versionLabel": label,
+            "locations": sorted(locations),
+        }
+        for label, locations in sorted(version_locations.items(), key=lambda item: item[0])
+    ]
+
+
+def merge_encounter_groups(groups_collection: list[list[dict]]) -> list[dict]:
+    version_locations: dict[str, set[str]] = {}
+
+    for groups in groups_collection:
+        for group in groups:
+            version_locations.setdefault(group["versionLabel"], set()).update(group["locations"])
 
     return [
         {
@@ -327,6 +363,39 @@ def default_variety_url(species_payload: dict) -> str:
     return f"{POKEAPI_BASE}/pokemon/{species_payload['id']}"
 
 
+def species_variety_payloads(species_payload: dict) -> tuple[dict, list[dict], list[dict]]:
+    default_pokemon_payload: dict | None = None
+    encounter_group_sets: list[list[dict]] = []
+    seen_pokemon_ids: set[int] = set()
+
+    for variety in species_payload.get("varieties", []):
+        pokemon_id = int(variety["pokemon"]["url"].rstrip("/").rsplit("/", 1)[-1])
+        if pokemon_id in seen_pokemon_ids:
+            continue
+        seen_pokemon_ids.add(pokemon_id)
+
+        pokemon_payload = read_or_fetch(
+            variety["pokemon"]["url"],
+            POKEMON_DIR / f"{pokemon_id:04d}.json",
+        )
+        encounters_payload = read_or_fetch(
+            pokemon_payload["location_area_encounters"],
+            ENCOUNTERS_DIR / f"{pokemon_id:04d}.json",
+        )
+        encounter_group_sets.append(encounter_groups(encounters_payload))
+
+        if variety.get("is_default") or default_pokemon_payload is None:
+            default_pokemon_payload = pokemon_payload
+
+    if default_pokemon_payload is None:
+        default_pokemon_payload = read_or_fetch(
+            default_variety_url(species_payload),
+            POKEMON_DIR / f"{species_payload['id']:04d}.json",
+        )
+
+    return default_pokemon_payload, encounter_group_sets, merge_encounter_groups(encounter_group_sets)
+
+
 def build_entry(species_payload: dict, pokemon_payload: dict, encounter_locations: list[dict]) -> dict:
     flavor_text = english_flavor_text(species_payload)
     summary = (
@@ -341,7 +410,7 @@ def build_entry(species_payload: dict, pokemon_payload: dict, encounter_location
         "habitat": primary_habitat(species_payload),
         "generation": generation_label(species_payload),
         "availability": availability_label(species_payload, encounter_locations),
-        "location": summarize_locations(encounter_locations),
+        "location": summarize_locations(encounter_locations, species_payload),
         "summary": summary,
         "evolution": evolution_summary(species_payload),
         "versions": unique_versions(encounter_locations),
@@ -354,7 +423,7 @@ def build_reference(species_payload: dict, encounter_locations: list[dict]) -> d
         "genus": english_genus(species_payload),
         "generation": generation_label(species_payload),
         "encounterLocations": encounter_locations,
-        "locationFallback": "No wild encounter locations are listed in PokeAPI for this species.",
+        "locationFallback": location_fallback(species_payload),
     }
 
 
@@ -369,12 +438,28 @@ def write_reference_data(reference: dict[str, dict]) -> None:
     write_text_with_retries(WEBSITE_REFERENCE_PATH, payload)
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Build cached Pokedex data for the website bundle.")
+    parser.add_argument(
+        "--max-species",
+        type=int,
+        default=None,
+        help="Highest National Dex species id to include. Defaults to the full cached species count.",
+    )
+    return parser.parse_args()
+
+
 def main() -> int:
+    args = parse_args()
     total_species = get_species_count()
+    max_species = total_species if args.max_species is None else min(args.max_species, total_species)
+    if max_species < 1:
+        raise RuntimeError("The max species value must be at least 1.")
+
     entries: list[dict] = []
     reference: dict[str, dict] = {}
 
-    for species_id in range(1, total_species + 1):
+    for species_id in range(1, max_species + 1):
         padded = f"{species_id:04d}"
         print(f"Building #{padded}")
 
@@ -382,16 +467,7 @@ def main() -> int:
             f"{POKEAPI_BASE}/pokemon-species/{species_id}",
             SPECIES_DIR / f"{species_id:04d}.json",
         )
-        pokemon_payload = read_or_fetch(
-            default_variety_url(species_payload),
-            POKEMON_DIR / f"{species_id:04d}.json",
-        )
-        encounters_payload = read_or_fetch(
-            pokemon_payload["location_area_encounters"],
-            ENCOUNTERS_DIR / f"{species_id:04d}.json",
-        )
-
-        encounter_locations = encounter_groups(encounters_payload)
+        pokemon_payload, _, encounter_locations = species_variety_payloads(species_payload)
         entries.append(build_entry(species_payload, pokemon_payload, encounter_locations))
         reference[str(species_id)] = build_reference(species_payload, encounter_locations)
 
@@ -399,6 +475,7 @@ def main() -> int:
     write_reference_data(reference)
     print(f"Wrote {WEBSITE_DATA_PATH}")
     print(f"Wrote {WEBSITE_REFERENCE_PATH}")
+    print(f"Built {len(entries)} species entries (max #{max_species:04d}).")
     return 0
 
 

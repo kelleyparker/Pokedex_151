@@ -24,10 +24,7 @@ function formatDexNumber(id) {
 }
 
 function localArtworkPath(id) {
-  if (id <= 151) {
-    return `./assets/official-artwork/${String(id).padStart(3, "0")}.png`;
-  }
-  return fallbackArtworkPath(id);
+  return `./assets/official-artwork/${String(id).padStart(3, "0")}.png`;
 }
 
 function fallbackArtworkPath(id) {

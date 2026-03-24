@@ -6,7 +6,7 @@ WEB_SOURCE="$ROOT/website"
 IOS_TARGET="$ROOT/ios/KantoGridIOS/Resources/Web"
 MAC_TARGET="$ROOT/macos/KantoGridMac/Resources/Web"
 
-python3 "$ROOT/scripts/build_national_pokedex.py"
+python3 "$ROOT/scripts/build_national_pokedex.py" --max-species 200
 
 mkdir -p "$IOS_TARGET"
 mkdir -p "$MAC_TARGET"
