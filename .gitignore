@@ -15,3 +15,10 @@ DerivedData/
 node_modules/
 dist/
 build/
+
+# Local PokeAPI expansion cache
+data-cache/pokeapi/encounters/[0-9][0-9][0-9][0-9].json
+data-cache/pokeapi/evolution-chain/*.json
+data-cache/pokeapi/pokemon/[0-9][0-9][0-9][0-9].json
+data-cache/pokeapi/pokemon-species/[0-9][0-9][0-9][0-9].json
+data-cache/pokeapi/species-count.json

@@ -1,10 +1,12 @@
 #!/bin/zsh
 set -euo pipefail
 
-ROOT="/Users/kparker/Documents/Codex/Pokedex_151"
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 WEB_SOURCE="$ROOT/website"
 IOS_TARGET="$ROOT/ios/KantoGridIOS/Resources/Web"
 MAC_TARGET="$ROOT/macos/KantoGridMac/Resources/Web"
+
+python3 "$ROOT/scripts/build_national_pokedex.py"
 
 mkdir -p "$IOS_TARGET"
 mkdir -p "$MAC_TARGET"

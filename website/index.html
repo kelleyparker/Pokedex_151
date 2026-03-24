@@ -3,39 +3,39 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Kanto Grid | Red Blue Yellow Pokedex</title>
+    <title>National Pokedex Grid</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;800&family=Rajdhani:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./styles.css?v=20260322-1" />
+    <link rel="stylesheet" href="./styles.css?v=20260323-1" />
   </head>
   <body>
     <div class="grid-overlay"></div>
     <header class="hero">
       <div class="hero__copy">
-        <p class="eyebrow">Game Boy Era Field Index</p>
-        <h1>Kanto Grid 151</h1>
+        <p class="eyebrow">Cross-Generation Field Index</p>
+        <h1>National Pokedex Grid</h1>
         <p class="hero__text">
-          A cyber-styled Pokedex focused on the first 151 Pokemon and how they
-          live, battle, evolve, and show up across Pokemon Red, Blue, and
-          Yellow.
+          A cyber-styled Pokedex covering every currently listed Pokemon species
+          in PokeAPI, with encounter locations grouped by the games where each
+          species can be found.
         </p>
       </div>
       <div class="hero__panel">
         <div class="stat">
           <span class="stat__label">Dex Range</span>
-          <span class="stat__value">001-151</span>
+          <span id="dexRangeStat" class="stat__value">0001-1025</span>
         </div>
         <div class="stat">
-          <span class="stat__label">Regions</span>
-          <span class="stat__value">Kanto</span>
+          <span class="stat__label">Generations</span>
+          <span id="generationStat" class="stat__value">9</span>
         </div>
         <div class="stat">
-          <span class="stat__label">Versions</span>
-          <span class="stat__value">Red / Blue / Yellow</span>
+          <span class="stat__label">Tracked Games</span>
+          <span id="gameStat" class="stat__value">0</span>
         </div>
       </div>
     </header>
@@ -58,9 +58,6 @@
           <span>Version</span>
           <select id="versionFilter">
             <option value="All">All versions</option>
-            <option value="Red">Red</option>
-            <option value="Blue">Blue</option>
-            <option value="Yellow">Yellow</option>
           </select>
         </label>
 
@@ -70,13 +67,20 @@
             <option value="All">All habitats</option>
           </select>
         </label>
+
+        <label class="control">
+          <span>Generation</span>
+          <select id="generationFilter">
+            <option value="All">All generations</option>
+          </select>
+        </label>
       </section>
 
       <section class="content-grid">
         <aside class="list-panel panel">
           <div class="list-panel__header">
             <h2>Signal List</h2>
-            <p id="resultsCount">151 entries</p>
+            <p id="resultsCount">0 entries</p>
           </div>
           <div id="pokemonList" class="pokemon-list"></div>
         </aside>
@@ -89,13 +93,13 @@
 
     <footer class="footer">
       <p>
-        Tech-art presentation inspired by cyber UI design. Typeface uses
-        web-safe techno fonts rather than the proprietary EA family.
+        Built from cached PokeAPI species and encounter data, then packaged for
+        the web and native wrappers in this repo.
       </p>
     </footer>
 
-    <script src="./pokemon-data.js?v=20260322-1"></script>
-    <script src="./generated/kanto-reference.js?v=20260322-1"></script>
-    <script src="./app.js?v=20260322-1"></script>
+    <script src="./pokemon-data.js?v=20260323-1"></script>
+    <script src="./generated/pokedex-reference.js?v=20260323-1"></script>
+    <script src="./app.js?v=20260323-1"></script>
   </body>
 </html>
