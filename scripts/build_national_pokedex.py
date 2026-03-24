@@ -51,8 +51,39 @@ def version_label(value: str) -> str:
     return " ".join(word.upper() if len(word) <= 2 else word.capitalize() for word in value.split("-"))
 
 
+def read_text_with_retries(path: Path) -> str:
+    last_error: Exception | None = None
+
+    for attempt in range(MAX_RETRIES):
+        try:
+            return path.read_text()
+        except TimeoutError as exc:
+            last_error = exc
+            if attempt == MAX_RETRIES - 1:
+                break
+            time.sleep(RETRY_DELAY_SECONDS * (attempt + 1))
+
+    raise RuntimeError(f"Failed to read {path}: {last_error}")
+
+
+def write_text_with_retries(path: Path, payload: str) -> None:
+    last_error: Exception | None = None
+
+    for attempt in range(MAX_RETRIES):
+        try:
+            path.write_text(payload)
+            return
+        except TimeoutError as exc:
+            last_error = exc
+            if attempt == MAX_RETRIES - 1:
+                break
+            time.sleep(RETRY_DELAY_SECONDS * (attempt + 1))
+
+    raise RuntimeError(f"Failed to write {path}: {last_error}")
+
+
 def read_json(path: Path) -> dict | list:
-    return json.loads(path.read_text())
+    return json.loads(read_text_with_retries(path))
 
 
 def fetch_json(url: str) -> dict | list:
@@ -82,7 +113,7 @@ def read_or_fetch(url: str, path: Path) -> dict | list:
 
     payload = fetch_json(url)
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(payload, indent=2, sort_keys=True) + "\n")
+    write_text_with_retries(path, json.dumps(payload, indent=2, sort_keys=True) + "\n")
     return payload
 
 
@@ -329,13 +360,13 @@ def build_reference(species_payload: dict, encounter_locations: list[dict]) -> d
 
 def write_website_data(entries: list[dict]) -> None:
     payload = "window.pokedexEntries = " + json.dumps(entries, indent=2, ensure_ascii=False) + ";\n"
-    WEBSITE_DATA_PATH.write_text(payload)
+    write_text_with_retries(WEBSITE_DATA_PATH, payload)
 
 
 def write_reference_data(reference: dict[str, dict]) -> None:
     WEBSITE_REFERENCE_PATH.parent.mkdir(parents=True, exist_ok=True)
     payload = "window.pokedexReferenceData = " + json.dumps(reference, indent=2, ensure_ascii=False) + ";\n"
-    WEBSITE_REFERENCE_PATH.write_text(payload)
+    write_text_with_retries(WEBSITE_REFERENCE_PATH, payload)
 
 
 def main() -> int:
