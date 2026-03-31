@@ -1,4 +1,4 @@
-# Pokedex 200
+# Pokedex 151
 
 Cyber-styled Pokedex focused on the first 200 Pokemon in National Dex order, with cached encounter and species data pulled from PokeAPI.
 
@@ -13,7 +13,7 @@ Cyber-styled Pokedex focused on the first 200 Pokemon in National Dex order, wit
 From the project root:
 
 ```bash
-cd /Users/kparker/Documents/Codex/Pokedex_151/website
+cd website
 python3 -m http.server 8000
 ```
 
@@ -34,7 +34,6 @@ The site is set up to read local official artwork from `website/assets/official-
 To download the first 200 safely:
 
 ```bash
-cd /Users/kparker/Documents/Codex/Pokedex_151
 python3 scripts/fetch_pokeapi_assets.py --max-species 200
 ```
 
@@ -51,7 +50,6 @@ Notes:
 The site can also cache Red/Blue/Yellow reference data locally from PokeAPI.
 
 ```bash
-cd /Users/kparker/Documents/Codex/Pokedex_151
 python3 scripts/build_national_pokedex.py --max-species 200
 ```
 
@@ -67,7 +65,6 @@ Notes:
 When the website changes, re-copy it into the iOS and macOS resource folders:
 
 ```bash
-cd /Users/kparker/Documents/Codex/Pokedex_151
 ./scripts/sync_web_bundle.sh
 ```
 
