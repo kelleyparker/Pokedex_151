@@ -10,11 +10,11 @@ SwiftUI iOS wrapper for the shared Kanto Pokédex web bundle.
 ## Xcode setup
 
 1. Create a new **App** project in Xcode named `KantoGridIOS`.
-2. Or open the included [KantoGridIOS.xcodeproj](/Users/kparker/Documents/Codex/Pokedex_151/ios/KantoGridIOS/KantoGridIOS.xcodeproj).
+2. Or open the included [KantoGridIOS.xcodeproj](KantoGridIOS.xcodeproj).
 3. Replace or keep the included Swift files in this folder's `Sources/`.
 4. Run:
    ```bash
-   cd /Users/kparker/Documents/Codex/Pokedex_151
+   cd /path/to/Pokedex_151
    ./scripts/sync_web_bundle.sh
    ```
 5. Build and run on iPhone or iPad.
